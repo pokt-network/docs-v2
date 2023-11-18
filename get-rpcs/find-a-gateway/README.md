@@ -8,13 +8,5 @@ For now, we have 2: [Grove](grove.md) and [Nodies](nodies.md).
 
 Each of our Gateways offers access to all of our [supported chains](../../welcome-to-pokt-network/supported-chains.md).
 
-For a brief overview of packages offered currently:
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Comparison table.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 Following the Shannon upgrade, creating a Gateway will become permissionless and you can learn about building your own Gateway to POKT Network in the [Build a Gateway ](../build-a-gateway.md)section.
 
