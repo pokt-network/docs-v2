@@ -17,13 +17,13 @@ You can use the [official wallet web app](https://wallet.pokt.network/) to creat
 
 To create a POKT wallet with the official Pocket wallet web app You can use the [official wallet web app](https://wallet.pokt.network/) to create your wallet.
 
-1. Click “Create”.
+1. Click “Create”
 
-[![](https://docs.pokt.network/images/ClickCreate.png)](https://docs.pokt.network/images/ClickCreate.png)
+<figure><img src="../.gitbook/assets/ClickCreate.png" alt=""><figcaption></figcaption></figure>
 
-2. Enter a unique passphrase.
+1. Enter a unique passphrase
 
-[![](https://docs.pokt.network/images/CreatePassword.png)](https://docs.pokt.network/images/CreatePassword.png)
+<figure><img src="../.gitbook/assets/CreatePassword.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -33,9 +33,11 @@ Warning
 The passphrase unlocks/decrypts an encrypted version of the private key that is stored in a Key File. Make sure to store your passphrase safely, if you lose it you will not be able to unlock your Key File.
 {% endhint %}
 
-3. Download the Key File by clicking the blue download icon and click Continue to open your account.
+3. Download the Key File by clicking the blue download icon and click Continue to open your account
 
-[![](https://docs.pokt.network/images/CreateSaveKeyFile.png)](https://docs.pokt.network/images/CreateSaveKeyFile.png)If you accidentally click Back, as long as you downloaded your Key File and saved your passphrase, you will now be able to import your new wallet.
+<figure><img src="../.gitbook/assets/CreateSaveKeyFile.png" alt=""><figcaption></figcaption></figure>
+
+_If you accidentally click Back, as long as you downloaded your Key File and saved your passphrase, you will now be able to import your new wallet._
 
 
 
@@ -47,9 +49,9 @@ Make sure to store your Key File safely, if you lose it you will only be able to
 
 4. Click “Reveal Private Key” then enter your passphrase again to reveal the Private Key for your wallet.
 
-[![](https://docs.pokt.network/images/ClickRevealKey.png)](https://docs.pokt.network/images/ClickRevealKey.png)[![Private Key obfuscated for security](https://docs.pokt.network/images/CreateRevealPrivateKey.png)](https://docs.pokt.network/images/CreateRevealPrivateKey.png)
+<figure><img src="../.gitbook/assets/CreateRevealPrivateKey.png" alt=""><figcaption></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/ClickRevealKey.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 &#x20;**Warning**
@@ -92,7 +94,7 @@ For more convenience, you may consider using a password manager that can store e
 
 The [official wallet web app](https://wallet.pokt.network/) has three methods of importing your wallet. The Key File is a more secure method of importing your wallet than the Private Key, since the Key File is encrypted by your passphrase.
 
-[![](https://docs.pokt.network/images/ClickImport.png)](https://docs.pokt.network/images/ClickImport.png)
+<figure><img src="../.gitbook/assets/ClickImport.png" alt=""><figcaption></figcaption></figure>
 
 **Key File import**
 
@@ -102,7 +104,7 @@ Enter your Key File passphrase, which you specified when creating the wallet.
 
 Click Import.
 
-[![](https://docs.pokt.network/images/ImportKeyFile.png)](https://docs.pokt.network/images/ImportKeyFile.png)
+<figure><img src="../.gitbook/assets/ImportKeyFile.png" alt=""><figcaption></figcaption></figure>
 
 **Private key import**
 
@@ -110,7 +112,7 @@ Enter your Private Key.
 
 Create a temporary passphrase that will secure your session until you log out of the wallet. This is a measure to prevent anyone with access to your computer from stealing your funds.
 
-[![](https://docs.pokt.network/images/ImportPrivateKey.png)](https://docs.pokt.network/images/ImportPrivateKey.png)
+<figure><img src="../.gitbook/assets/ImportPrivateKey.png" alt=""><figcaption></figcaption></figure>
 
 #### **Ledger wallet import**
 
@@ -120,7 +122,7 @@ Select the account index you would like to use in Pocket Wallet.
 
 Click Unlock.
 
-[![](https://docs.pokt.network/images/ImportLedgerAccount.png)](https://docs.pokt.network/images/ImportLedgerAccount.png)
+<figure><img src="../.gitbook/assets/ImportLedgerAccount.png" alt=""><figcaption></figcaption></figure>
 
 #### Now supporting Unstoppable Domains in the POKT Wallet. <a href="#now-supporting-unstoppable-domains-in-the-pokt-wallet" id="now-supporting-unstoppable-domains-in-the-pokt-wallet"></a>
 
@@ -165,7 +167,7 @@ Before You Start, Make Sure:
 
 [SendWallet](https://sendwallet.net/) is a browser-based Pocket Network wallet built by [SendNodes](https://sendnodes.io/).
 
-[![](https://docs.pokt.network/images/sendwallet.jpg)](https://docs.pokt.network/images/sendwallet.jpg)
+<figure><img src="../.gitbook/assets/sendwallet.jpg" alt=""><figcaption></figcaption></figure>
 
 SendWallet features:
 
