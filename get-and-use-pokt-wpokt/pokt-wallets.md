@@ -192,7 +192,7 @@ NodeWallet features:
 * Generate multiple wallet addresses with one account
 * [wPOKT Bridge](https://wpokt.network/) compatible
 * [Open source](https://github.com/decentralized-authority/nodewallet) with plugin design to make it contributor friendly for adding features and expanding to other networks
-* Utilizes [argon2](https://tutanota.com/blog/best-encryption-with-kdf) + AES-256 GCM for quantum secure encryption
+* Utilizes Argon2 + AES-256 GCM for quantum secure encryption
 
 Install NodeWallet directly from the Chrome Store [here](https://chrome.google.com/webstore/detail/nodewallet/ilibmadejjooogcniiomgdgbojkmlbim).
 
