@@ -12,7 +12,7 @@ The project started in 2017, when ETH was in its first bull run.&#x20;
 
 At that time c.90% of relays were running through one centralized RPC service. Web3 needed a decentralized alternative. We started building DePIN long before DePIN got cool.
 
-As of today, we have served over 650bn data requests, using a node network of c.17k nodes distributed across 22 different countries.
+As of today, we have served over 650bn data requests for over 40 blockchains, using a global network of c.17k nodes distributed across 22 different countries.
 
 <figure><img src=".gitbook/assets/Headlines (1).png" alt=""><figcaption></figcaption></figure>
 
