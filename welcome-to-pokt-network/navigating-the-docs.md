@@ -10,7 +10,7 @@ description: >-
 ### Documentation Structure
 
 1. [**WELCOME TO POKT NETWORK**](../): an intro and a chance to get to know us.
-2. [**GET RPCS**](../get-rpcs/): quickest route to getting the right enpoints from our ecosystem.
+2. [**GET RPCS**](../use/): quickest route to getting the right enpoints from our ecosystem.
 3. [**ACCESS STARTER KITS**](broken-reference): essential tools and resources to get you started.
 4. [**ACCESS TUTORIALS**](../access-tutorials/): step-by-step guides to help you become proficient.
 5. [**CONTRIBUTE**](../contribute/): how you could help us build the RPC base layer.

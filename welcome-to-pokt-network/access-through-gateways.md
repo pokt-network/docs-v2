@@ -8,7 +8,7 @@ This is how it broadly works today:
 
 <figure><img src="../.gitbook/assets/POKT Network.png" alt=""><figcaption></figcaption></figure>
 
-Today we have 2 Gateways: [Grove](../get-rpcs/find-a-gateway/grove.md) and [Nodies](../get-rpcs/find-a-gateway/nodies.md)
+Today we have 2 Gateways: [Grove](../use/find-a-gateway/grove.md) and [Nodies](../use/find-a-gateway/nodies.md)
 
 
 
