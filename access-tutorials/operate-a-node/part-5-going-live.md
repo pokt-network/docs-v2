@@ -149,7 +149,7 @@ The `[CHAIN_IDS]` placeholder should be a list of relay chain IDs that are defin
 {% endhint %}
 
 {% hint style="info" %}
-As of `RC-0.9.1.3` there are [two staking methods](https://docs.pokt.network/node/staking): `custodial` and `non-custodial`. The custodial method is used in the example above.
+As of `RC-0.9.1.3` there are [two staking methods](../../get-and-use-pokt-wpokt/stake-pokt.md): `custodial` and `non-custodial`. The custodial method is used in the example above.
 {% endhint %}
 
 After you send the stake command, you’ll be prompted for your `passphrase`, then you should see something like this:
