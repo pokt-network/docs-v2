@@ -18,7 +18,7 @@ We conducted load testing on our endpoints using Paradigm's Flood - an industry-
 
 ### Public RPC
 
-As of November 2023, Nodies is now the sole provider of public RPC on behalf of Pocket Network. We believe in the importance of providing these endpoints a public good, and we are committed to expanding public endpoints to additional chains as needed. For more information on public endpoints, visit [https://docs.pokt.network/use/public-rpc/](https://docs.pokt.network/use/public-rpc/)
+As of November 2023, Nodies is now the sole provider of public RPC on behalf of Pocket Network. We believe in the importance of providing these endpoints a public good, and we are committed to expanding public endpoints to additional chains as needed. For more information on public endpoints, visit [here](../public-endpoints.md).
 
 ### Pricing
 
