@@ -11,7 +11,7 @@ Running your own node is an option if you possess both of the following:
 * The DevOps skills to run your own node
 * More than 15,000 POKT to meet the minimum node stake
 
-Read our tutorial on [how to get started running your node](https://docs.pokt.network/node/tutorials/zero-to-node/).
+Read our tutorial on [how to get started running your node](../access-tutorials/operate-a-node/).
 
 ## Pay Someone to Run Your Node <a href="#pay-someone-to-run-your-node" id="pay-someone-to-run-your-node"></a>
 

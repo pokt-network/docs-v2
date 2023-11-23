@@ -42,5 +42,5 @@ We don’t store anything else.
 
 Sound good?
 
-[Get RPCs.](use/)
+[Get RPCs.](get-rpcs/)
 

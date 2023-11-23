@@ -5,7 +5,7 @@ description: >-
   endpoints for all our main networks.
 ---
 
-# PUBLIC ENDPOINTS
+# Public RPC
 
 ### How to Add a [Nodies](find-a-gateway/nodies.md) Endpoint (powered by POKT Network)
 
