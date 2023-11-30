@@ -2,3 +2,20 @@ root: ./
 
 redirects:
   home: README.md
+  home/: README.md
+  home/node: README.md
+  home/node/: README.md
+  home/supported-blockchains: README.md
+  home/supported-blockchains/: README.md
+  home/learn: README.md
+  home/learn/: README.md
+  home/learn/economics: README.md
+  home/learn/future: README.md
+  home/learn/future/: README.md
+  home/learn/vision: README.md
+  home/learn/vision/: README.md
+  home/use: /get-rpcs/README.md
+  home/learn/protocol: README.md
+  home/learn/protocol/: README.md
+  home/resources/public-rpc-endpoints: /get-rpcs/README.md
+  home/resources/public-rpc-endpoints/: /get-rpcs/README.md
