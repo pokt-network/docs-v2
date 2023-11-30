@@ -1,4 +1,4 @@
 root: ./
 
 redirects:
-  home: /README.md
+  home: https://docs.pokt.network/
