@@ -42,9 +42,11 @@ Type `!claim-vote` in the [🏆trophies](https://discord.com/channels/5537415588
 
 Then DM jackal to claim your POKTDAO token airdrop (our airdrop bot is currently out of commission).
 
-&#x20;Info
-
+{% hint style="info" %}
 The token is non-transferable so you should choose a MetaMask or WalletConnect wallet that you’re happy holding the token in forever.
+{% endhint %}
+
+
 
 ### 4. Vote and Subscribe <a href="#4-vote-and-subscribe" id="4-vote-and-subscribe"></a>
 
