@@ -1,4 +1,4 @@
 root: ./
 
 redirects:
-  home: welcome-to-pokt-network/about-pokt-network.md
+  home: ./
