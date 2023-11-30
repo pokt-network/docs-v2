@@ -1,5 +1,5 @@
 root: ./
 
 redirects:
-  home: /
-  home/: /
+  home: /readme
+  home/: /readme
