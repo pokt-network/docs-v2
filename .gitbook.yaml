@@ -19,3 +19,5 @@ redirects:
   home/learn/protocol/: README.md
   home/resources/public-rpc-endpoints: /get-rpcs/README.md
   home/resources/public-rpc-endpoints/: /get-rpcs/README.md
+  use/public-rpc: get-rpcs/public-endpoints
+  use/public-rpc/: get-rpcs/public-endpoints
