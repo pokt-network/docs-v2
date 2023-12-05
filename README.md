@@ -73,16 +73,14 @@ To fullfill the above vision,the DAO operates through ERA.
 ERA provide a mechanism of “Cycles” to operate transparently and to learn and iterate, but without major distraction from the core role of executing,ERAs have enabled the DAO to fund priority projects towards a shared ambition.
 The Era Budget makes funds available to contributors through our contribution mechanisms:
 
-    IDEAS (Community Suggestions)
-    Bounties (Supporting Keystone projects, protocol development or other key tasks)
-    Sockets (Rapid, permissionless seed grants)
-    POPs (Pocket Open Priorities, like RFPs)
+- IDEAS (Community Suggestions)
+- Bounties (Supporting Keystone projects, protocol development or other key tasks)
+- Sockets (Rapid, permissionless seed grants)
+- POPs (Pocket Open Priorities, like RFPs)
 
 ### Browse Documentation
 
 ### Contribution guide
-
-
 
 
 
