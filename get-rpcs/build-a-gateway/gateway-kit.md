@@ -4,6 +4,8 @@
 The self-hosted Gateway Kit is currently in alpha development by [Nodies](../find-a-gateway/nodies.md), POKT's second gateway, and expected to launch in January 2024.
 {% endhint %}
 
+The Gateway Kit enables developers of all kinds to interact with the POKT Network protocol and engage with 50+ blockchains without needing terabytes of data, heavy computational power, or understanding the POKT Network protocol specifications.
+
 POKT Network's self-hosted Gateway Kit is a lightweight [gRPC](https://grpc.io) client that integrates with the POKT Network protocol and maintains a familiar HTTP JSON-RPC Server interface for your applications (and any customer applications) to send and receive RPC requests.
 
 With a modular architecture packaged in a Docker-compose form, the Gateway Kit abstracts away the intricacies of the POKT Network protocol, making it as easy as possible to connect to the network while providing the flexibility to choose only the services you need and/or plug in other services.&#x20;
