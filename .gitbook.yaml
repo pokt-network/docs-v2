@@ -10,16 +10,98 @@ redirects:
   home/learn: README.md
   home/learn/: README.md
   home/learn/economics: README.md
+  home/learn/economics/: README.md
+  home/learn/economics/faq: README.md
+  home/learn/economics/faqs: README.md
+  home/learn/economics/faq/: README.md
+  home/learn/economics/faqs/: README.md
+  home/learn/economics/nodes: README.md
+  home/learn/economics/node/: README.md
   home/learn/future: README.md
   home/learn/future/: README.md
   home/learn/vision: README.md
   home/learn/vision/: README.md
   home/use: /get-rpcs/README.md
+  home/use/public-rpc/: README.md
+  home/use/public-rpc: README.md
   home/learn/protocol: README.md
   home/learn/protocol/: README.md
+  home/learn/protocol/servicing: README.md
+  home/learn/protocol/servicing/: README.md
+  home/resources: README.md
+  home/resources/: README.md
   home/resources/public-rpc-endpoints: /get-rpcs/README.md
   home/resources/public-rpc-endpoints/: /get-rpcs/README.md
   use/public-rpc: get-rpcs/public-endpoints.md
   use/public-rpc/: get-rpcs/public-endpoints.md
   use: /get-rpcs.md
   use/: /get-rpcs.md
+  home/pokt/buy: README.md
+  home/pokt/buy/: README.md
+  home/paths: README.md
+  home/paths/: README.md
+  home/paths/governor: README.md
+  home/paths/governor/: README.md
+  home/paths/governor/claim-your-vote: README.md
+  home/paths/governor/claim-your-vote/: README.md
+  node/: README.md
+  node: README.md
+  home/main-concepts/protocol: README.md
+  home/main-concepts/protocol/: README.md
+  use/public-rpc/ethereum/: README.md
+  use/public-rpc/ethereum: README.md
+  use/public-rpc/ethereum/index.print.html: README.md
+  home/resources/faq/pricing-and-economics/: README.md
+  home/resources/faq/pricing-and-economics: README.md
+  home/resources/public-rpc-endpoints/harmony-metamask: README.md
+  home/resources/public-rpc-endpoints/harmony-metamask/: README.md
+  supported-blockchains/: README.md
+  supported-blockchains: README.md
+  learn/future/: README.md
+  learn/future: README.md
+  learn/future/consensus: README.md
+  learn/future/peer-to-peer: README.md
+  learn/future/peer-to-peer/: README.md
+  learn/future/consensus/: README.md
+  learn/future/persistence: README.md
+  learn/future/persistence/: README.md
+  pokt/buy/: README.md
+  pokt/buy: README.md
+  use/public-rpc/dfk-chain/: README.md
+  home/resources/public-rpc-endpoints/dfk-chain-metamask/: README.md
+  home/paths/node-runner: README.md
+  home/paths/node-runner/: README.md
+  pokt/wallets/: README.md
+  pokt/wallets: README.md
+  home/v0/economics/pokt-token-economics/node-economics/: README.md
+  home/v0/economics/pokt-token-economics/node-economics: README.md
+  docs/developers-overview: README.md
+  docs/developers-overview/: README.md
+  home/v0/economics/: README.md
+  home/v0/economics: README.md
+  pokt: README.md
+  pokt/: README.md
+  pokt/wpokt: README.md
+  pokt/wpokt/: README.md
+  pokt/lpstaking: README.md
+  pokt/lpstaking/: README.md
+  build/get-endpoint: README.md
+  build/get-endpoint/: README.md
+  build/: README.md
+  build: README.md
+  docs: README.md
+  docs/: README.md
+  api-docs/pokt/: README.md
+  api-docs/pokt: README.md
+  api-docs: README.md
+  api-docs/: README.md
+  community/: README.md
+  community: README.md
+  docs/pocket-node-overview: README.md
+  docs/pocket-node-overview/: README.md
+  build/quickstart/: README.md
+  build/quickstart: README.md
+  learn/economics/token/: README.md
+  learn/economics/token: README.md
+  home/paths/app-developer: README.md
+  home/paths/app-developer/: README.md
