@@ -1,35 +1,10 @@
----
-description: >-
-  POKT Network is the base layer. We don't service relays directly. But Nodies
-  (our second Gateway) stakes POKT on your behalf to provide free public
-  endpoints for all our main networks.
----
+# Use a Public Endpoint
 
-# Public RPC
-
-### How to Add a [Nodies](find-a-gateway/nodies.md) Endpoint (powered by POKT Network)
-
-We've staked POKT on your behalf to provide public RPC endpoints for all of the networks that Pocket supports. Use these endpoints in any DApp that lets you use a custom endpoint.
-
-### How to Add a Nodies Endpoint to MetaMask
-
-To change your endpoint in MetaMask, follow these steps, filling in the appropriate fields from the table provided:
-
-1. Click on the **Networks** drop-down menu, then select **Add Network**.
-2. In the **Network Name** field, enter `<Network Name> Pocket Portal`.
-3. For the **New RPC URL** field, copy and paste `<RPC URL>`.
-4. (Optional) Enter `<ChainID>` in the **ChainID** field.
-5. (Optional) Input `<Symbol>` in the **Symbol** field.
-6. (Optional) Insert `<Explorer URL>` into the **Block Explorer URL** field.
-7. Don't forget to save your changes.
-
-> **Note**: If you encounter an error in MetaMask stating `Invalid number. Enter a decimal or '0x'-prefixed hexadecimal number`, simply leave the optional fields blank.
-
-
+The POKT Network Foundation is funding free public endpoints as a public good, powered by [Nodies](find-a-gateway/nodies.md), POKT Network's second gateway. It's important to note that these endpoints are subject to dynamic throughput limits of around 15-25 requests-per-second (RPS). As such, they are suitable for wallet users, hackathon developers, or anyone sampling POKT's service, but heavier users seeking high-throughput service should explore [creating an account with a gateway](find-a-gateway/), or [self-hosting a gateway](build-a-gateway/).
 
 ### Endpoints
 
-| Network Name      | New Endpoint                                                                                                                                                                           | ChainID | Symbol | Explorer    | URL                                                                          |
+| Network Name      | Endpoint URL                                                                                                                                                                           | ChainID | Symbol | Explorer    | URL                                                                          |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ | ----------- | ---------------------------------------------------------------------------- |
 | Arbitrum          | [https://arb-pokt.nodies.app](https://arb-pokt.nodies.app)                                                                                                                             | 42161   | ARB    | Arbiscan    | [https://arbiscan.io](https://arbiscan.io)                                   |
 | Avalanche Core    | [https://avax-pokt.nodies.app](https://avax-pokt.nodies.app)                                                                                                                           | 43114   | AVAX   | CChain      | [https://cchain.explorer.avax.network](https://cchain.explorer.avax.network) |
@@ -49,3 +24,17 @@ To change your endpoint in MetaMask, follow these steps, filling in the appropri
 | Polygon           | [https://polygon-pokt.nodies.app](https://polygon-pokt.nodies.app)                                                                                                                     | 137     | MATIC  | Polygonscan | [https://polygonscan.com](https://polygonscan.com)                           |
 | Polygon Mumbai    | [https://polygon-mumbai-pokt.nodies.app](https://polygon-mumbai-pokt.nodies.app)                                                                                                       |         |        |             |                                                                              |
 | Harmony           | [https://hmyone-pokt.nodies.app](https://hmyone-pokt.nodies.app)                                                                                                                       |         |        |             |                                                                              |
+
+### How to Add an Endpoint to MetaMask
+
+To change your endpoint in MetaMask, follow these steps, filling in the appropriate fields from the table provided:
+
+1. Click on the **Networks** drop-down menu, then select **Add Network**.
+2. In the **Network Name** field, enter `<Network Name> POKT`.
+3. For the **New RPC URL** field, copy and paste `<Endpoint URL>`.
+4. (Optional) Enter `<ChainID>` in the **ChainID** field.
+5. (Optional) Input `<Symbol>` in the **Symbol** field.
+6. (Optional) Insert `<Explorer URL>` into the **Block Explorer URL** field.
+7. Don't forget to save your changes.
+
+> **Note**: If you encounter an error in MetaMask stating `Invalid number. Enter a decimal or '0x'-prefixed hexadecimal number`, simply leave the optional fields blank.
