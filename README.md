@@ -2,6 +2,7 @@
 
 Here you'll find documentation about all things pocket,__the base RPC layer for Web3.__
 
+
 >"The world wide web is generally divided into two parts the producers of data and the consumers of data.
 Pocket network is the pipe through which this data is transmitted."
 
@@ -38,8 +39,12 @@ As we look to bring permissionless gateways post V1 launch...🎆🎆🎆
 ##### Contributors
 These are individuals who bring their skills and expertise and contribute to the growth of the network
 
+
 *** 
 ### Pocket utility
+
+The project started in 2017, when ETH was in its first bull run.
+
 
 The project started in 2017.&#x20;
 
@@ -53,8 +58,12 @@ As of today, we have served over 650bn data requests for over 40 blockchains, us
 
 ### Pocket economics
 
+
 Infrastructure is one of the places where decentralization unlocks big performance benefits.&#x20;
 The current operational gateways on the network have managed to bring RPC cost to a mere $4.50 per million request,whilst boasting a generous free tier.
+
+Infrastructure is one of the places where decentralization unlocks big performance benefits.
+
 
 <figure><img src=".gitbook/assets/Cost.png" alt=""><figcaption></figcaption></figure>
 
@@ -63,6 +72,7 @@ At the centre of the network is *__pocket token__*,that incentives the pocket ec
 ***
 
 ### Pocket governance
+
 
 Pocket network is governed by a highly functional and transaprent DAO that encompasses the Pocket DNA.
 
@@ -83,5 +93,12 @@ The Era Budget makes funds available to contributors through our contribution me
 ### Contribution guide
 
 
+***
 
+
+
+
+
+
+[Get RPCs.](get-rpcs/)
 

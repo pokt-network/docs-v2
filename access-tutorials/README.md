@@ -4,6 +4,6 @@ description: >-
   wish to undertake.
 ---
 
-# ACCESS TUTORIALS
+# Supply RPC
 
-The following tutorial, [Zero To Node](operate-a-node/), wlil show you a step-by-step way to set up a Pocket Node on hosted hardware.
+The following tutorial, [Zero To Node](operate-a-node/), will show you a step-by-step way to set up a Pocket Node on hosted hardware.

@@ -1,36 +1,13 @@
-# USE
+# Access RPC
 
-### TL;DR
+POKT Network offers a few ways to access our decentralized RPC service, depending on your needs:
 
-Access to POKT Network's base layer today is via a Gateway.
-
-If blockchains are vast repositories of data, and we’re the network of pipes that move that data around the Web3 ecosystem, Gateways are the taps that make it easy for you to use it.
-
-As of today we have 2 sovereign Gateways providing access to POKT Network.
-
-* Get a [Grove](https://www.grove.city) endpoint.
-* Get a [Nodies](https://www.nodies.app/) endpoint.
+<table><thead><tr><th width="118">Option</th><th width="197">Description</th><th width="298">Best for...</th><th>Cost</th></tr></thead><tbody><tr><td><a href="find-a-gateway/">Use a Gateway</a></td><td>Web interface hosted by a third-party</td><td>Developers looking for convenience and value-add features</td><td>Varies by gateway</td></tr><tr><td><a href="build-a-gateway/">Host a Gateway</a></td><td>Self-hosted access point</td><td>Businesses selling RPC service, self-sovereign developers willing to do more work</td><td>Self-hosting costs + $0.85 per million relays</td></tr><tr><td><a href="public-endpoints.md">Use a Public Endpoint</a></td><td>Free but rate-limited endpoint hosted by a third-party</td><td>Wallet users, hackathon developers, anyone sampling POKT's service</td><td>Free</td></tr></tbody></table>
 
 ***
 
-### Accessing POKT Network via a Gateway
+Learn more about gateways here:
 
-The first Gateway, Grove (formerly known as Pocket Network Inc) was built to remove the friction involved in connecting directly to the Protocol.
-
-In October 2023 we announced the build of our second Gateway by Nodies. Nodies was founded by ex AWS engineers, development of the Gateway OS is being open-sourced to accelerate growth in the Gateway ecosystem.
-
-In 2024, with the Shannon upgrade of the protocol, creating a Gateway will become fully permissionless, meaning that anyone can build their own Gateway to POKT Network.
-
-Watch this space.
-
-***
-
-### The Modular RPC Ecosystem
-
-POKT Network takes provides a battle-tested Protocol and Node Network.
-
-Gateways build on top of that to deliver you the best service. That includes optimizing Quality of Service, building value added features, and much more to come.
-
-This is what we're working towards:
-
-<figure><img src="../.gitbook/assets/Ecosystem vis.png" alt=""><figcaption></figcaption></figure>
+{% content-ref url="about-gateways.md" %}
+[about-gateways.md](about-gateways.md)
+{% endcontent-ref %}

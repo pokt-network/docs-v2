@@ -1,12 +1,9 @@
-# FIND A GATEWAY
+# Use a Gateway
 
-POKT Network is the RPC base layer and Gateways are how you access it.
+If you're a developer looking for convenient access to POKT Network's RPC service, or value-add features, such as analytics, alerts, and team management, and much more to come, you're in the right place.
 
-You can read more on the theory behind Gateways and how they work in the [Access through Gateways ](../../welcome-to-pokt-network/access-through-gateways.md)section.
+Gateways build on top of POKT Network's RPC base layer to deliver you the best service. For now, we have two: [Grove](grove.md) and [Nodies](nodies.md).
 
-For now, we have 2: [Grove](grove.md) and [Nodies](nodies.md).
+In 2024, with the POKT Network protocol's Shannon upgrade, creating a Gateway will become fully permissionless, meaning that anyone will be able to self-host their access to POKT Network.&#x20;
 
-Each of our Gateways offers access to all of our [supported chains](../../welcome-to-pokt-network/supported-chains.md).
-
-Following the Shannon upgrade, creating a Gateway will become permissionless and you can learn about building your own Gateway to POKT Network in the [Build a Gateway ](../build-a-gateway.md)section.
-
+Learn more about what's involved in self-hosting a gateway [here](../build-a-gateway/).
