@@ -6,7 +6,7 @@ description: The following content was provided by Grove
 
 ## Welcome to Grove
 
-Grove is your powerful gateway to the decentralized world, designed to provide seamless access across multiple blockchains. This ensures you have the freedom and flexibility to interact with the decentralized ecosystem tailored to your needs.
+[Grove](https://grove.city) is your powerful gateway to the decentralized world, designed to provide seamless access across multiple blockchains. This ensures you have the freedom and flexibility to interact with the decentralized ecosystem tailored to your needs.
 
 At its core, Grove is an RPC (Remote Procedure Call) service, enabling developers to send requests and receive responses to interact with blockchains. This RPC framework is the backbone that allows for the creation of dynamic web3 applications, bridging the gap between decentralized networks and user interfaces.
 
@@ -38,6 +38,6 @@ Optimized for rapid performance, Grove's infrastructure is tailored to meet the 
 
 Our decentralized node network offers a cost-efficient gateway to blockchain networks. Distributing costs across providers, the decentralization model curtails infrastructure expenses. Unlike traditional centralized frameworks, Grove promotes a fair distribution of value and cost. Pay only for your actual usage, devoid of hidden charges. This aligns with the Web3 spirit, paving the way for a sustainable and equitable digital future.
 
-### Learn more?  <a href="#ready-to-get-started" id="ready-to-get-started"></a>
+### Learn more? <a href="#ready-to-get-started" id="ready-to-get-started"></a>
 
 Visit [Grove's docs](https://docs.grove.city/guides/getting-started/welcome).[​](https://docs.grove.city/guides/getting-started/welcome#ready-to-get-started)
