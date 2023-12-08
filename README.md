@@ -93,8 +93,6 @@ A future where the world's most important digital infrastructure is owned and go
 ##### Purpose
 Provide the world with unstoppable open data.
 
-<figure><img src=".gitbook/assets/Mission Vision DNA.png" alt=""><figcaption></figcaption></figure>
-
 #### Roadmap
 We have a roadmap that enables us to stay on course to achieve the above and make pocket a vital piece of Web3 infrastructure.
 
