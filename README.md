@@ -19,7 +19,7 @@ Read on to learn more about our ecosystem.
 Pocket network is a DePin(Decentralized physical infrastructure) protocol made up of 5 parts : - 
 
 ##### Blockchains
-Blockchains form the data layer,any chain that uses RPC is compatible with pocket protocol so far we have support for 40+ chains and growing...🔥🔥🔥
+Blockchains form the data layer,any chain that uses RPC is compatible with pocket protocol so far we have support for 50+ chains and growing...🔥🔥🔥
 ##### Users
 Our users in the context of pocket network are the data consumers they form the demand side of the protocol.The network majorly serves 3 use cases best :-
 + RPC Providers
@@ -78,53 +78,66 @@ The Era Budget makes funds available to contributors through our contribution me
 - Sockets (Rapid, permissionless seed grants)
 - POPs (Pocket Open Priorities, like RFPs)
 
+<figure><img src=".gitbook/assets/Modular Governance.png" alt=""><figcaption></figcaption></figure>
+
 ### Browse Documentation
 
 
 Here you will find documentation about all the segments of pocket ecosystem the base RPC layer for Web3.
-#### Mission
+##### Mission
 Empower developers with access to the most reliable,performant and cost-effective data.
 
-#### Vision
+##### Vision
 A future where the world's most important digital infrastructure is owned and governed by its users.
 
-#### Purpose
+##### Purpose
 Provide the world with unstoppable open data.
+
+<figure><img src=".gitbook/assets/Mission Vision DNA.png" alt=""><figcaption></figcaption></figure>
 
 #### Roadmap
 We have a roadmap that enables us to stay on course to achieve the above and make pocket a vital piece of Web3 infrastructure.
->> Insert image
-[Official roadmap](https://forum.pokt.network)
+
+<figure><img src=".gitbook/assets/roadmapPocket.png" alt=""><figcaption></figcaption></figure>
+
+[Official roadmap](welcome-to-pokt-network/roadmap-docs.md)
 
 #### Pocket Users
 Pocket users are divided into three major categories : - 
 - RPC Providers
 These are bussinesses or individuals providing RPC services they interface with the protocol through Gateways.
-    - Gateways
-    Gatways are a major part of the network they are the taps through which the data is server we currently have two operational gateways
-        - Grove - Get a grove [endpoint](https://www.grove.city/)
-        - Nodies - Get a nodies [endpoint](https://www.nodies.app/)
-    - Run a gateway 
+    - [Gateways](get-rpcs/README.md)
+    Gateways are a major part of the network they are the taps through which the data is server we currently have two operational gateways
+        - Grove - Get a grove [endpoint](get-rpcs/find-a-gateway/grove.md)
+        - Nodies - Get a nodies [endpoint](get-rpcs/find-a-gateway/nodies.md)
+    - [Host a gateway](get-rpcs/build-a-gateway/README.md) 
     It is permissionless and easy to run gateways on pocket network and this will be available post V1 launch.
-    [Set up a gateway](https://forum.pokt.network)
+    [Early Access](get-rpcs/build-a-gateway/early-access.md)
+    [Gateway Kit](get-rpcs/build-a-gateway/gateway-kit.md)
 - Web 3 App and Developers
 Developers and Web3 applications make the consumer base of pocket network.They make the RPC requests to the blockchain data made available by the gateways.
 You can get generous free tier from any of our exisitng gateways 
-    - [Grove gateway](https://www.grove.city/)
-    - [Nodies](https://www.nodies.app/)
+    - [Use a Public Endpoint](get-rpcs/public-endpoints.md)
+    - [Grove gateway](get-rpcs/find-a-gateway/grove.md)
+    - [Nodies](get-rpcs/find-a-gateway/nodies.md)
+    
+<figure><img src=".gitbook/assets/Comparison table.png" alt=""><figcaption></figcaption></figure>
 
 - Blockchains
 Blockchains form the data layer of pocket network,it is from this data layer that RPC requests are served.
 Pocket network currently supports any chains that has support for RPC standard.
 Node runners are at the center of mantaining the health and availablilty of these chains and in return they get pocket token.
 We currently support 51 chains and the list still grows.
-[Supported chains](https://docs.pokt.network/supported-chains)
-    - Run a node
-    Node runners play a vital role as they serve RPC request and secure the network.
-To run a node you need atleast 15,100 pocket tokens.
+    - [Run a node](supply-rpcs/README.md)
+    Node runners play a vital role as they serve RPC request and secure the network. To run a node you need atleast 15,100 pocket tokens.
     Rewards are computed per chain per request served.
-        - [How to stake a node]()
-		- [Chain rewards]()
+        - [Staking]()
+            - [Servicer nodes]()
+            - [Validator nodes]()
+        - [Custodial staking]()
+        - [Non custodial staking]()
+        - [Supported chains](welcome-to-pokt-network/supported-chains.md)
+        - [Chain rewards]()
     - Pocket pools
 There are different pools that enable individuals to stake their pocket token and earn pocket token.They include :- 
         - [List of pools]()
@@ -134,12 +147,12 @@ At the center of pocket ecosystem is pocket token. It is a conditional deflation
 - Token Economics - Read more about the economics of the network. [Economics]()
     - Get Pocket token - [Markets]()
     - Swap Pocket to get wPokt - [Uniswap]()
-			wPokt is a wrap of 1:1 token with pocket on Ethereum chain.
+            wPokt is a wrap of 1:1 token with pocket on Ethereum chain.
             [Swap]()
-	- Earn with Pocket
+    - Earn with Pocket
         - Provide liquidity - [wPokt/Eth Pool]()
-		- Stake pocket - [Staking pools]()
-		- Run pocket nodes - [Run node]()
+        - Stake pocket - [Staking pools]()
+        - Run pocket nodes - [Run node]()
 
 
 #### Pocket Governance
@@ -156,22 +169,22 @@ At the center of pocket ecosystem is pocket token. It is a conditional deflation
                 - [Open Sockets]()
                 - [Previous Sockets]()
                 - [Create Socket]()
-		    - Bounties
-		        - [Open Bounties]()
-		        - [Key projects]()
-		        - [Key tasks]()
-		    - IDEAs
-			    - [Submit an idea]()
+            - Bounties
+                - [Open Bounties]()
+                - [Key projects]()
+                - [Key tasks]()
+            - IDEAs
+                - [Submit an idea]()
 
 #### Additional links
 - Masserati report
 - Discord
 - Twitter
-- Forum	
+- Forum 
 
 ### Contribution guide
 
-This documentation grows every day you can contribute by creating a pull request here.
+This documentation grows every day you are welcome to [contribute](../contribute/)
 
 
 
