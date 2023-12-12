@@ -173,8 +173,11 @@ At the center of pocket ecosystem is pocket token. It is a conditional deflation
                 - [Key tasks]()
             - IDEAs
                 - [Submit an idea]()
+#### Tech Stack
+
 
 #### Additional links
+- Pocket Search
 - Masserati report
 - Discord
 - Twitter
