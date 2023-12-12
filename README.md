@@ -80,6 +80,8 @@ The Era Budget makes funds available to contributors through our contribution me
 
 <figure><img src=".gitbook/assets/Modular Governance.png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### Browse Documentation
 
 
@@ -182,6 +184,8 @@ At the center of pocket ecosystem is pocket token. It is a conditional deflation
 - Discord
 - Twitter
 - Forum 
+
+***
 
 ### Contribution guide
 
