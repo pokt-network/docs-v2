@@ -107,7 +107,7 @@ Pocket users are divided into three major categories : -
 - RPC Providers
 These are bussinesses or individuals providing RPC services they interface with the protocol through Gateways.
     - [Gateways](get-rpcs/README.md)
-    Gateways are a major part of the network they are the taps through which the data is server we currently have two operational gateways
+    Gateways are a major part of the network they are the taps through which the data is served we currently have two operational gateways
         - Grove - Get a grove [endpoint](get-rpcs/find-a-gateway/grove.md)
         - Nodies - Get a nodies [endpoint](get-rpcs/find-a-gateway/nodies.md)
     - [Host a gateway](get-rpcs/build-a-gateway/README.md) 
