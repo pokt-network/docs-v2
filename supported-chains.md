@@ -68,13 +68,13 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 
 The following table shows the supported blockchains on the Pocket Testnet.
 
-| Name                   | Portal API Prefix        | RelayChainID | Network ID |
-| ---------------------- | ------------------------ | ------------ | ---------- |
-| Ethereum Goerli        | eth-goerli               | 0026         | 005        |
-| Ethereum Archival      | goerli-archival          | 0063         | 005        |
-| Ethereum Rinkeby       | rinkeby                  | 0022         | 004        |
-| Ethereum Holešky       | holesky-fullnode-testnet | 0081         | 17000      |
-| Polygon Mumbai         | polygon-mumbai           | 000F         | 80001      |
-| Pocket Network Testnet |                          | 0002         |            |
-| Scroll Testnet         | scroll-testnet-alpha     | 0075         | 534353     |
+| Name                   | Portal API Prefix        | RelayChainID |
+| ---------------------- | ------------------------ | ------------ |
+| Ethereum Goerli        | eth-goerli               | 0026         |
+| Ethereum Archival      | goerli-archival          | 0063         |
+| Ethereum Rinkeby       | rinkeby                  | 0022         |
+| Ethereum Holešky       | holesky-fullnode-testnet | 0081         |
+| Polygon Mumbai         | polygon-mumbai           | 000F         |
+| Pocket Network Testnet |                          | 0002         |
+| Scroll Testnet         | scroll-testnet-alpha     | 0075         |
 
