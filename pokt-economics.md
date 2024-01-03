@@ -48,10 +48,10 @@ On the other hand, the **circulating supply of POKT** is calculated by deducting
 
 The main drivers on the supply of POKT are:
 
-1. The amount of POKT paid out to node runners, which will continue to reduce in POKT terms as the price of POKT increases (to target an approximate USD profit margin for node runners),
+1. The amount of POKT paid out to node runners, which is projected to reduce in POKT terms as the price of POKT increases (to target an approximate USD profit margin for node runners, albeit this is subject to a DAO proposal to change/update),
 2. The number of relays and the price charged to gateways for each relay served as every relay results in the burning of POKT
 
-You can see below for some graphs illustrating the potential supply growth for POKT over time and how that impacts the total supply for POKT.&#x20;
+Below are some graphs illustrating the potential supply growth for POKT over time and how that impacts the total supply for POKT. Please note that these projections are based on a USD/POKT price of $0.15 and 60 B relays by day in 2028.
 
 <div>
 
@@ -63,5 +63,5 @@ You can see below for some graphs illustrating the potential supply growth for P
 
 </div>
 
-These are fairly high-level assumptions and we welcome the community to fork the numbers in [this spreadsheet](https://docs.google.com/spreadsheets/d/1y4ZpBBR\_ytbp5EGqYc6Hsg5vw6CSeXn\_KEuKOMRHIbM/edit?usp=sharing) to create their own assumptions based on their projections for the price of POKT, the number of POKT needed to mint to node runners, the number of relays, as well as the Gateway Operator Fee.&#x20;
+We expect many people to have much more optimistic/conservative approaches to the variables used to produce these graphs. We welcome the community to fork the numbers in [this spreadsheet](https://docs.google.com/spreadsheets/d/1y4ZpBBR\_ytbp5EGqYc6Hsg5vw6CSeXn\_KEuKOMRHIbM/edit?usp=sharing) to create their own assumptions based on their projections for the price of POKT, the number of POKT needed to reward node runners, the number of relays, and the Gateway Operator Fee.&#x20;
 
