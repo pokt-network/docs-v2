@@ -38,3 +38,4 @@
     * [Liquidity Provider Staking FAQ](get-and-use-pokt-wpokt/wrapped-pokt-wpokt/liquidity-provider-staking-faq.md)
     * [LP Staking Walkthrough](get-and-use-pokt-wpokt/wrapped-pokt-wpokt/lp-staking-walkthrough.md)
   * [Get POKT or wPOKT](get-and-use-pokt-wpokt/get-pokt-or-wpokt.md)
+* [POKT Economics](pokt-economics.md)
