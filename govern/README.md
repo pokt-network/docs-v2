@@ -1,4 +1,4 @@
-# GOVERN
+# Govern
 
 ### TL;DR
 
@@ -16,7 +16,7 @@ To dig into the details, take a look at our [Lean Governance Thesis](https://git
 
 ### Current System
 
-To learn how to earn a vote in the DAO and decide the future of Pocket Network, [see the section on trophies](get-trophies.md).
+To learn how to earn a vote in the DAO and decide the future of Pocket Network, [see the section on trophies](get-trophies/).
 
 {% hint style="info" %}
 You don’t need a vote in the DAO to submit proposals or participate in discussions! Everyone is free to share their opinions. Head over to [the forum](https://forum.pokt.network/) to see what decisions are being debated.
@@ -24,11 +24,10 @@ You don’t need a vote in the DAO to submit proposals or participate in discuss
 
 ### Modular Governance
 
-We're rolling out our latest upgrade in modules.&#x20;
+We're rolling out our latest upgrade in modules.
 
 We expect to have all modules shared, approved and implemented by mid-December.
 
 Watch this space. We’ll bring it all home by Christmas. :christmas\_tree:
 
 <figure><img src="../.gitbook/assets/Modular Governance.png" alt=""><figcaption></figcaption></figure>
-
