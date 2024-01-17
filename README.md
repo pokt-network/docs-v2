@@ -1,37 +1,18 @@
-# Welcome to POKT Network
-
-### TL;DR:
+# WELCOME TO POKT NETWORK
 
 We're building the RPC Base Layer to underpin Web3 with access to Unstoppable Open Data.
 
----
+If you want an intro to what we do and why we do it, go [here](welcome-to-pokt-network/about-pokt-network.md).
 
-### Why?
+Otherwise welcome to our docs. Here's how you navigate them. :point\_down:
 
-The project started in 2017, when ETH was in its first bull run.
+***
 
-At that time c.90% of relays were running through one centralized RPC service. Web3 needed a decentralized alternative. We started building DePIN long before DePIN got cool.
+### Navigate Our Docs
 
-As of today, we have served over 650bn data requests for over 40 blockchains, using a global network of c.17k nodes distributed across 22 different countries.
-
-<figure><img src=".gitbook/assets/Headlines (1).png" alt=""><figcaption></figcaption></figure>
-
----
-
-### So what?
-
-Infrastructure is one of the places where decentralization unlocks big performance benefits.
-
-Like 👇
-
-<figure><img src=".gitbook/assets/Data Section.png" alt=""><figcaption></figcaption></figure>
-
-At really low costs:
-
-<figure><img src=".gitbook/assets/Cost.png" alt=""><figcaption></figcaption></figure>
-
----
-
-Sound good?
-
-[Get RPCs.](get-rpcs/)
+* [**WELCOME (this section):**](./) for info about POKT Network, supported chains, and economics
+* [**ACCESS RPCs**](get-rpcs/): for the quickest route to getting the right enpoints from our ecosystem.
+* [**OPERATE A NODE**](access-tutorials/): for a step-by-step guides to help you become proficient.
+* [**CONTRIBUTE**](contribute/): how you could help us build the RPC base layer.
+* [**GOVERN**](govern/): how we steer the ship and how you could help.
+* [**BUY & STAKE**](get-and-use-pokt-wpokt/): where, how, and why to purchase POKT tokens.

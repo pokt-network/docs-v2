@@ -1,8 +1,34 @@
 # About POKT Network
 
-Our focus here is to give you more of a sense about 'who' we are. For us, that starts with our Why. But please jump ahead to our How (our [Thesis](about-pokt-network.md#our-how)) and our When (our [Roadmap](about-pokt-network.md#our-roadmap)) if you prefer.&#x20;
+This section contains a little context about [what](about-pokt-network.md#our-what) we do, [how](about-pokt-network.md#our-how) you can access POKT Network, [why](about-pokt-network.md#our-why) we do what we do , and what we're planning to do next (our [roadmap](about-pokt-network.md#our-project-roadmap)).
 
-Or, for performance headlines, jump back to [Welcome to POKT Network](../).
+***
+
+### Our WHAT
+
+POKT Network are the RPC base layer, or universal RPC infrastructure.
+
+As of today, we incentivize and coordinate a decentralized network of operators to run a type of blockchain node (an RPC node) that enables applications to read / write to blockchains.
+
+With one connection developers can access data form 50+ chains, with low cost and high resilience.
+
+We've been building since 2017 and operating on mainnet since 2020. In that time we've served almost 700 Billion, through thousands of nodes across 22 countries.
+
+In the future POKT Network's protocol could serve any open data source.
+
+***
+
+### Our HOW
+
+To access POKT Network decentralized infra, you need to go through a 'Gateway'.&#x20;
+
+This reduces friction when interacting with the protocol and also enables businesses to build on top of our robust RPC base layer, while optimizing QoS and innovating to bring new features and services to you and to our ecosystem. &#x20;
+
+Once the Shannon Upgrade launches it will become permissionless to build a Gateway on our infrastructure, including the ability to deploy a Gateway directly for a specific application if that is how you prefer to access the protocol.
+
+For more on Gateways, see [here](../get-rpcs/about-gateways.md).
+
+***
 
 ### Our WHY
 
@@ -10,24 +36,8 @@ We believe that the economies of the future will run on blockchain technology an
 
 <figure><img src="../.gitbook/assets/Mission Vision DNA.png" alt=""><figcaption></figcaption></figure>
 
-### Our HOW
+***
 
-INSERT VISUAL
-
-* **Decentralized Supply:** \
-  Our network of node operators has all the resilience and uptime of a naturally diverse ecosystem, vs the centralized monoculture of many competitors. There’s a reason that Bitcoin is the only online service that has enjoyed 100% uptime for 10 years. And POKT Network has 17k node operators, distributed over 22 countries, all running their own systems and setups.
-* **Decentralized Governance:**\
-  We may be the only revenue generating protocol whose governance isn’t driven by purely by token weighted voting. We have a gini co-efficient of 0 (perfect equality), notable participation rates, and we are rolling out upgrades to build on this strength as we enfranchise other stakeholder groups.
-*   **Decentralized Capital Markets:**\
-    POKT is the utility token that powers the network. It is important for it to be highly liquid in order for the network to function properly; that is, so node operators can sell some of their tokens to cover their costs, and so users and investors can always buy some tokens to use and capitalize the network.
-
-    Making sure there are many ways and places to trade, including decentralized exchanges, helps solve this problem. That’s why the introduction of wPOKT was such a key milestone for the project. By bridging to Ethereum we make the token far more accessible.
-*   **Decentralized Demand:**\
-    POKT Network is a p2p RPC base layer that developers / applications access via access points called Gateways. Each Gateway is effectively its own RPC business but, instead of building their own underlying infrastructure, they plug into POKT Network. Imagine if anyone could build a ride-hailing app on top of Uber’s database and systems.
-
-    By decentralizing Gateways we increase innovation and unlock censorship resistance.
-
-#### Our ROADMAP
+### Our PROJECT ROADMAP
 
 <figure><img src="https://lh7-us.googleusercontent.com/-KyBp3H3zsryuJOjIAGuhf2UMUDVGP0IMIK8V1nIb8P_uT_tAPkcoIBJTZWjWCpzl27biDqqHdLpH_sg-AMv8iVfwQo2UOLseOG-0ddpIPeg1ndTKgK3uJtm0_Rwst2t9-zbxyOF2HrB3M2xaP3Muww" alt=""><figcaption></figcaption></figure>
-

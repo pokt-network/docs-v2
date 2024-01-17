@@ -134,7 +134,7 @@ To create a new config file:
 
 Pocket nodes relay transactions to other blockchains. So, you’ll need to configure the chains your node can relay to. For this guide, we’ll just be setting up our node to relay to the Pocket mainnet blockchain, essentially through itself.
 
-To maximize your rewards, you’ll want to relay to other chains. We’ll cover that in more detail later but here is a list of [other blockchains you could relay to](../../supported-chains.md).
+To maximize your rewards, you’ll want to relay to other chains. We’ll cover that in more detail later but here is a list of [other blockchains you could relay to](../readme/supported-chains.md).
 
 #### Generating a `chains.json` file with the CLI <a href="#generating-a-chainsjson-file-with-the-cli" id="generating-a-chainsjson-file-with-the-cli"></a>
 
