@@ -122,6 +122,12 @@ To create a new config file:
     ```
 
     **WARNING:** This is a long command! Make sure you’ve copied it completely.
+
+    *NOTE:* You can use these seeds if the list above fails for any reason:
+    ```bash
+    7c0d7ec36db6594c1ffaa99724e1f8300bbd52d0@pocket-seed1.nodefleet.org:26662,cdcf936d70726dd724e0e6a8353d8e5ba5abdd20@pocket-seed2.nodefleet.org:26663,74b4322a91c4a7f3e774648d0730c1e610494691@pocket-seed3.nodefleet.org:26662,b3235089ff302c9615ba661e13e601d9d6265b15@pocket-seed4.nodefleet.org:26663
+    ```
+
 2.  Verify the `config.json` file setting by viewing the contents of the file:
 
     CommandResponse
