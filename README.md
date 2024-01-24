@@ -9,4 +9,6 @@
 - [**GOVERN**](govern/): how we steer the ship and how you could help.
 - [**BUY & STAKE**](get-and-use-pokt-wpokt/): where, how, and why to purchase POKT tokens.
 
-  This documentation grows every day you are welcome to [contribute](contribute/)
+### How to Contribute
+
+This documentation grows every day you are welcome to [contribute](contribute/)
