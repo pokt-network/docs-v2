@@ -37,3 +37,5 @@
     * [Bridging Walkthrough](get-and-use-pokt-wpokt/wrapped-pokt-wpokt/bridging-walkthrough.md)
     * [Liquidity Provider Staking FAQ](get-and-use-pokt-wpokt/wrapped-pokt-wpokt/liquidity-provider-staking-faq.md)
     * [LP Staking Walkthrough](get-and-use-pokt-wpokt/wrapped-pokt-wpokt/lp-staking-walkthrough.md)
+* [SHANNON](shannon/README.md)
+  * [Shannon Roadmap](shannon/roadmap.md)

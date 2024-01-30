@@ -1,0 +1,3 @@
+{
+  "plugins": ["mermaid-newface", "mermaid", "mermaid-flow"]
+}
