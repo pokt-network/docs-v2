@@ -118,7 +118,7 @@ To create a new config file:
 1.  Run the following command, which will create the default `config.json` file, add the seeds, set port 8081 to 8082, and increase the RPC timeout value:
 
     ```bash
-    export SEEDS=$(curl -s https://raw.githubusercontent.com/pokt-network/pocket-seeds/main/mainnet.txt | head -n 4 | tr '\n' ',' | sed 's/,$//')
+    export SEEDS=$(curl -s https://raw.githubusercontent.com/pokt-network/pocket-seeds/main/mainnet.txt | head -n 6 | tr '\n' ',' | sed 's/,$//')
     ```
 
     ```bash
