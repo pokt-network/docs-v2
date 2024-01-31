@@ -118,19 +118,18 @@ To create a new config file:
 1.  Run the following command, which will create the default `config.json` file, add the seeds, set port 8081 to 8082, and increase the RPC timeout value:
 
     ```bash
-    export SEEDS=$(curl -s https://raw.githubusercontent.com/pokt-network/pocket-seeds/main/mainnet.txt | head -n 6 | tr '\n' ',' | sed 's/,$//')
+    export SEEDS=$(curl -s https://raw.githubusercontent.com/pokt-network/pocket-seeds/main/mainnet.txt \
+    | tr '\n' ',' \
+    | sed 's/,*$//')
+    pocket util print-configs \
+    | jq --arg seeds "$SEEDS" '.tendermint_config.P2P.Seeds = $seeds' \
+    | jq '.pocket_config.rpc_timeout = 15000' \
+    | jq '.pocket_config.rpc_port = "8082"' \
+    | jq '.pocket_config.remote_cli_url = "http://localhost:8082"' \
+    | jq . > ~/.pocket/config/config.json
     ```
-
-    ```bash
-    echo '{}' | jq --arg seeds "$SEEDS" '.tendermint_config.P2P.Seeds = $seeds' | jq '.pocket_config.rpc_timeout = 15000' | jq '.pocket_config.rpc_port = "8082"' | jq '.pocket_config.remote_cli_url = "http://localhost:8082"' | jq . > ~/.pocket/config/config.json
-    ```
-
+    
     **WARNING:** This is a long command! Make sure you’ve copied it completely.
-
-    *NOTE:* You can use these seeds if the list above fails for any reason:
-    ```bash
-    7c0d7ec36db6594c1ffaa99724e1f8300bbd52d0@pocket-seed1.nodefleet.org:26662,cdcf936d70726dd724e0e6a8353d8e5ba5abdd20@pocket-seed2.nodefleet.org:26663,74b4322a91c4a7f3e774648d0730c1e610494691@pocket-seed3.nodefleet.org:26662,b3235089ff302c9615ba661e13e601d9d6265b15@pocket-seed4.nodefleet.org:26663
-    ```
 
 2.  Verify the `config.json` file setting by viewing the contents of the file:
 
