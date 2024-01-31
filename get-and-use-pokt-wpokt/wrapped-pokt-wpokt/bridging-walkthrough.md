@@ -22,7 +22,7 @@ Make sure to read the FAQ before attempting to bridge, many common questions are
 
 ### Written Guide to wrapping $POKT <a href="#written-guide-to-wrapping-pokt" id="written-guide-to-wrapping-pokt"></a>
 
-For this tutorial, we’ll use a Ledger Nano S for POKT and MetaMask for the wPOKT. Alternative options for POKT include SendWallet and NodeWallet (read more [here](../pokt-wallets.md)).
+For this tutorial, we’ll use a Ledger Nano S for POKT and MetaMask for the wPOKT. Alternative options for POKT include SendWallet and NodeWallet (read more [here](../pokt-wallets/)).
 
 1. Go to [http://wpokt.network](http://wpokt.network/) and connect your Pocket Wallet using your Ledger.
 

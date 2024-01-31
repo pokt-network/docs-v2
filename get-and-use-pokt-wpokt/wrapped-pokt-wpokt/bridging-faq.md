@@ -27,7 +27,7 @@ If you’re wondering why wPOKT isn’t in your wallet after 30 minutes, double 
 
 You can use:
 
-* [Ledger](../pokt-wallets.md)
+* [Ledger](../pokt-wallets/)
 * [SendWallet](https://sendwallet.net/)
 * [NodeWallet](https://docs.decentralizedauthority.com/nodewallet)
 
@@ -66,4 +66,3 @@ If you have confirmed you’re looking in the right place and you have waited a 
 * **Pocket Network block times.** Pocket Network blocks complete every 15 minutes. Depending on when you sign the transaction, it may take up to 15 minutes for your transaction to appear on-chain.
 * **Bridge validation time.** The wPOKT bridge verifies your request between chains. It takes up to 10 minutes to reach consensus and start a transaction on-chain.
 * **Ethereum block times.** Ethereum blocks complete every 12 seconds. For large balances, it is common to wait for up to 32 blocks before proceeding with a transaction.
-

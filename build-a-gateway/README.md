@@ -1,4 +1,4 @@
-# Host a Gateway
+# BUILD A GATEWAY
 
 In 2024, with the POKT Network protocol's [Shannon upgrade](https://github.com/pokt-network/poktroll), anyone will be able to self-host their access to POKT Network.
 
@@ -20,7 +20,7 @@ There are a few different options, depending on your timings and resources.
 
 These include:
 
-* **Gateway-as-a-Service:** white-label the services of one of our [existing Gateways](../find-a-gateway/). Maintain your own frontend and let the gateway provide familiar RPC endpoints on the backend, including QoS optimizations, monitoring, alerts, and other value-add features. You can get started on this right away and don't need to wait to be onboarded via our [early access program](early-access.md).
+* **Gateway-as-a-Service:** white-label the services of one of our [existing Gateways](../get-rpcs/find-a-gateway/). Maintain your own frontend and let the gateway provide familiar RPC endpoints on the backend, including QoS optimizations, monitoring, alerts, and other value-add features. You can get started on this right away and don't need to wait to be onboarded via our [early access program](early-access.md).
 * **Full-stack Early Access Gateway:** from late December / early January you will be able to use the open source Gateway Server to build your own Gateway and connect directly to the protocol. The Kit is in alpha currently and expected to launch in January 2024. You will also need to wait to be onboarded via our [early access program](early-access.md).
 * **Full-stack Permissionless Gateway:** If you don't want to have to be manually onboarded by the POKT Network Foundation through our [early access program](early-access.md), you can register your interest to become a gateway once the Shannon upgrade is complete in 2024 and we'll keep you notified of developments.
 

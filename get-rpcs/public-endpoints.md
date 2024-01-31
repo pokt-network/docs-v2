@@ -1,6 +1,6 @@
 # Use a Public Endpoint
 
-The POKT Network Foundation is funding free public endpoints as a public good, powered by [Nodies](find-a-gateway/nodies.md), POKT Network's second gateway. It's important to note that these endpoints are subject to dynamic throughput limits of around 15-25 requests-per-second (RPS). As such, they are suitable for wallet users, hackathon developers, or anyone sampling POKT's service, but heavier users seeking high-throughput service should explore [creating an account with a gateway](find-a-gateway/), or [self-hosting a gateway](build-a-gateway/).
+The POKT Network Foundation is funding free public endpoints as a public good, powered by [Nodies](find-a-gateway/nodies.md), POKT Network's second gateway. It's important to note that these endpoints are subject to dynamic throughput limits of around 15-25 requests-per-second (RPS). As such, they are suitable for wallet users, hackathon developers, or anyone sampling POKT's service, but heavier users seeking high-throughput service should explore [creating an account with a gateway](find-a-gateway/), or [self-hosting a gateway](../build-a-gateway/).
 
 ### Endpoints
 

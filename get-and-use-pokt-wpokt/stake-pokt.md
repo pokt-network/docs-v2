@@ -2,7 +2,9 @@
 
 ## Stake POKT
 
-There is no many-to-one delegation in Pocket Network. You cannot simply stake POKT from your wallet and then forget about it. A POKT account must be staked on a node that is relaying RPC requests. However, if you do not have the skills to run a node yourself, you still have options.
+There is no many-to-one delegation in Pocket Network.&#x20;
+
+You cannot simply stake POKT from your wallet and then forget about it. A POKT account must be staked on a node that is relaying RPC requests. However, if you do not have the skills to run a node yourself, you still have options.
 
 ## Run Your Own Node <a href="#run-your-own-node" id="run-your-own-node"></a>
 
