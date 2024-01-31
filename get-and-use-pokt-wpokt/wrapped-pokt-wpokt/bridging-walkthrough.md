@@ -51,7 +51,7 @@ Once connected, you should see both your POKT and wPOKT (if any) balances.[![3-b
 If you accidentally (or purposefully) close the page, simply reconnect both wallets (using the same applications). You’ll be prompted to complete the process where you left off.
 {% endhint %}
 
-&#x20;[![note-closedpage](https://github.com/pokt-foundation/docs/assets/6369871/bf875451-8915-469c-b8d4-4943fe36625f)](https://github.com/pokt-foundation/docs/assets/6369871/bf875451-8915-469c-b8d4-4943fe36625f)
+[![note-closedpage](https://github.com/pokt-foundation/docs/assets/6369871/bf875451-8915-469c-b8d4-4943fe36625f)](https://github.com/pokt-foundation/docs/assets/6369871/bf875451-8915-469c-b8d4-4943fe36625f)
 
 6. Your wrapped POKT (wPOKT) will be confirmed via [Etherscan](https://etherscan.io/) once the process is complete.[![06-wip](https://github.com/pokt-foundation/docs/assets/6369871/fd1b6218-8dc2-48c8-9127-1f998a95d96e)](https://github.com/pokt-foundation/docs/assets/6369871/fd1b6218-8dc2-48c8-9127-1f998a95d96e)
 
@@ -61,4 +61,4 @@ You’ll need to add the Token contract address to your Metamask wallet if it do
 
 [![MM-01](https://github.com/pokt-foundation/docs/assets/6369871/98b2bb35-4f36-463d-ba5d-8ab131eea21b)](https://github.com/pokt-foundation/docs/assets/6369871/98b2bb35-4f36-463d-ba5d-8ab131eea21b)
 
-![](../../.gitbook/assets/image.png)\
+![](<../../.gitbook/assets/image (2).png>)\\

@@ -56,11 +56,11 @@ Below are some graphs illustrating the potential supply growth for POKT over tim
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Supply growth for POKT based on an indicative number of relays and price per POKT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Supply growth for POKT based on an indicative number of relays and price per POKT</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Total supply for POKT over time based on such assumptions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Total supply for POKT over time based on such assumptions</p></figcaption></figure>
 
 </div>
 
