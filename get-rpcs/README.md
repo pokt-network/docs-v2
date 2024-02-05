@@ -8,6 +8,6 @@ POKT Network offers a few ways to access our decentralized RPC service, dependin
 
 Learn more about gateways here:
 
-{% content-ref url="about-gateways.md" %}
-[about-gateways.md](about-gateways.md)
+{% content-ref url="find-a-gateway/about-gateways.md" %}
+[about-gateways.md](find-a-gateway/about-gateways.md)
 {% endcontent-ref %}

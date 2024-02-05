@@ -26,7 +26,7 @@ This reduces friction when interacting with the protocol and also enables busine
 
 Once the Shannon Upgrade launches it will become permissionless to build a Gateway on our infrastructure, including the ability to deploy a Gateway directly for a specific application if that is how you prefer to access the protocol.
 
-For more on Gateways, see [here](../get-rpcs/about-gateways.md).
+For more on Gateways, see [here](../get-rpcs/find-a-gateway/about-gateways.md).
 
 ***
 
