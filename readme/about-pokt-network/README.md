@@ -1,6 +1,6 @@
 # About POKT Network
 
-This section contains a little context about [what](about-pokt-network.md#our-what) we do, [how](about-pokt-network.md#our-how) you can access POKT Network, [why](about-pokt-network.md#our-why) we do what we do , and what we're planning to do next (our [roadmap](about-pokt-network.md#our-project-roadmap)).
+This section contains a little context about [what](./#our-what) we do, [how](./#our-how) you can access POKT Network, [why](./#our-why) we do what we do , and what we're planning to do next (our [roadmap](./#our-project-roadmap)).
 
 ***
 
@@ -26,7 +26,7 @@ This reduces friction when interacting with the protocol and also enables busine
 
 Once the Shannon Upgrade launches it will become permissionless to build a Gateway on our infrastructure, including the ability to deploy a Gateway directly for a specific application if that is how you prefer to access the protocol.
 
-For more on Gateways, see [here](../get-rpcs/find-a-gateway/about-gateways.md).
+For more on Gateways, see [here](../../get-rpcs/find-a-gateway/about-gateways.md).
 
 ***
 
@@ -34,7 +34,7 @@ For more on Gateways, see [here](../get-rpcs/find-a-gateway/about-gateways.md).
 
 We believe that the economies of the future will run on blockchain technology and we want the infrastructure that powers that to be owned by users, not corporations.
 
-<figure><img src="../.gitbook/assets/Mission Vision DNA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mission Vision DNA.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

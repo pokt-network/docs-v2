@@ -12,5 +12,5 @@ Sessions are a data structure that are generated following the established Sessi
 
 There are two key components:
 
-* Servicing
-* Security
+* [Servicing](servicing.md)
+* [Security](security.md)
