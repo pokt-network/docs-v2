@@ -39,11 +39,9 @@ The current figure for the **total supply of POKT** is calculated by adding the 
 
 On the other hand, the **circulating supply of POKT** is calculated by deducting the following from the total supply:
 
-* the [DAO Treasury](https://poktscan.com/explore?tab=governance), and
-* the balances of the current PNF Treasury wallets:
-  * `186afc505903e7c7aa97d5f7f1c555111e2ae2ce`,
-  * `6c2e570489dd1362a450c0cdc0b658cc0c1fe1fa` and
-  * `258f98b18dff36c58155caf6092f242760d40967`.
+* the [DAO Treasury](https://poktscan.com/explore?tab=governance), 
+* the [DAO ERA Budget wallet] (https://poktscan.com/account/4e67bdb7d099c8a754b22c852a9fe140b7d47849), and
+* the [main PNF Treasury wallet] (https://poktscan.com/node/186afc505903e7c7aa97d5f7f1c555111e2ae2ce).
 
 ## Supply projections for POKT
 
