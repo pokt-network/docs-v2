@@ -34,6 +34,7 @@
     * [Part 5 Going Live](access-tutorials/manual-setup-tutorial/part-5-going-live.md)
 * [CONTRIBUTE](contribute/README.md)
   * [Contribute to Docs](contribute/contribute-to-docs.md)
+  * [Bounties](contribute/bounties.md)
 * [GOVERN](govern/README.md)
   * [Earn Your Vote](govern/earn-your-vote/README.md)
     * [Node Runners](govern/earn-your-vote/node-runners.md)
