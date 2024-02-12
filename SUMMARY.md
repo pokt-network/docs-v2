@@ -33,7 +33,6 @@
     * [Part 4 Proxy Configuration](access-tutorials/manual-setup-tutorial/part-4-proxy-configuration.md)
     * [Part 5 Going Live](access-tutorials/manual-setup-tutorial/part-5-going-live.md)
 * [CONTRIBUTE](contribute/README.md)
-  * [Contribute to Docs](contribute/contribute-to-docs.md)
   * [Bounties](contribute/bounties.md)
   * [Quick Grants](contribute/quick-grants.md)
   * [Maintainers](contribute/maintainers.md)
