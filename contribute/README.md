@@ -6,7 +6,7 @@ POKT Network's vision is to have the world’s digital infrastructure owned and 
 
 ***
 
-There are 5 ways to be an active contributor to POKT Network.
+There are 5 ways to be an active contributor to POKT Network, with a focus on [creating impact](https://forum.pokt.network/t/contributions-path-to-impact/5038).
 
 [**Bounties**](./#bounties)**:** We are constantly evolving the way we provide work opportunities from our DAO and Foundation. Join our [discord](https://www.notion.so/3fc4a03268be43da9e7a8044d022645c?pvs=21) to see all [current bounties](https://discord.com/channels/553741558869131266/1204567822622269521).
 
