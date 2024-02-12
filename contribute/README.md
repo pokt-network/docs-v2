@@ -1,58 +1,21 @@
 # CONTRIBUTE
 
-There are 3 key ways to contribute at POKT Network.
+POKT Network's vision is to have the world’s digital infrastructure owned and governed by its users. This extends to people contributing to building POKT itself.
 
-* **Open RFPs:** these are typically bigger projects that are open to anyone with the right skills.
-* **Quick Grants (formerly Sockets):** DAO citizens who spot a need can start working to fill it, permissionlessly.
-* **Retroactive Public Goods (RPG):** grants to projects that benefit us all
+**To contribute**, the main requirements are to understand our POKT DNA and our DAO OS. You can read the linked docs or complete the quests within our credential system (which also help you start to earn governance power in POKT DAO). Find out more about [our governance](../govern/).
 
-You can find out more about each of these and the broader GROW program [here 17](https://forum.pokt.network/t/grow-grants-rewards-opportunities-work/3994)
+***
 
-<figure><img src="../.gitbook/assets/Overview.png" alt=""><figcaption></figcaption></figure>
+There are 5 ways to be an active contributor to POKT Network.
 
-We are also looking to renew the previous bounty program to make it easier for people to contribute in ways that will help build our momentum.
+[**Bounties**](./#bounties)**:** We are constantly evolving the way we provide work opportunities from our DAO and Foundation. Join our [discord](https://www.notion.so/3fc4a03268be43da9e7a8044d022645c?pvs=21) to see all [current bounties](https://discord.com/channels/553741558869131266/1204567822622269521).
 
-* **Bounties:** usually smaller pieces of work that can be a great way to get known.
+[**Quick Grants**](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/HVZ3BQcmJhVmXh7fy6xP/\~/changes/52/contribute/quick-grants) **(formerly Sockets):** DAO Citizens can access funding for experiments and new initiatives in a mostly permissionless way. This is a great way to get paid for filling a need in the ecosystem.
 
-### Open RFPs
+[**Maintainers**](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/HVZ3BQcmJhVmXh7fy6xP/\~/changes/52/contribute/maintainers): For anyone doing ongoing maintenance of tools or services that the DAO is funding; typically active contributors are selected by the Foundation or DAO for this based on reputation + impact history.
 
-Current Requests for Proposals (RFPs) can be found [here](https://forum.pokt.network/c/build/pop/120) on our forum.&#x20;
+[**Retroactive Public Goods**](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/HVZ3BQcmJhVmXh7fy6xP/\~/changes/52/contribute/retroactive-funding-and-grants) **(RPG):** We are currently iterating on our retroactive grant and funding mechanism, with our first funding round commencing in April 2024. Please keep an eye on the forum or our POKT twitter to find out more.
 
-Each POP will include:
+[**Open RFPs**](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/HVZ3BQcmJhVmXh7fy6xP/\~/changes/52/contribute/rfps) **(formerly Open Priorities or POPs):** The Pocket Network Foundation, along with the community, regularly open RFPs for the most important priority work in our ecosystem. This creates a credibly neutral way to allocate work across key priorities and allows new talent to enter the ecosystem in meaningful ways.
 
-1. **Requirements:** _the objective and requirements, plus details needed from submissions._
-2. **Submission period:** _period during which submissions can and will be accepted._&#x20;
-3. **Review period:** _time during which PNF (or the DAO) will review submissions and report on decisions and reasoning._
-
-Some examples of recent POPs include:
-
-* [Website Rebuild](https://forum.pokt.network/t/allocated-priority-website-rebuild/4711?u=adrienne): delivered by [Raid Guild](https://www.raidguild.org/)
-* [Metrics Dashboard](https://forum.pokt.network/t/allocated-priority-pocket-network-ecosystem-metrics-dashboard/4594?u=adrienne): delivered by [TogetherCrew](https://www.togethercrew.com/)
-
-### Quick Grants (formerly Sockets)
-
-These are small seed grants to support builders and contributors who have ideas about how to drive impact towards the priorities of POKT Network.&#x20;
-
-They are open to anyone in our community who comes with measurable initiatives that we can keep them accountable to. These will move the responsibility for contributors from writing great proposals and being part-time politicians to generating impactful ideas and delivering on them.
-
-These are likely to be spun up quickly to experiment, learn and innovate, and just as likely to be wound down within weeks when the socket is no longer generating ROI for the DAO.
-
-A grant can be opened to support one of the [Ambitions 5](https://forum.pokt.network/uploads/default/original/2X/6/6606f2f32ca26513257cda76400825bcaac7ac14.jpeg) of the latest [Era 4](https://forum.pokt.network/t/a-new-era-in-dao-operations/4418).
-
-Type of Socket:
-
-* Trial: $500 for 2 week trial of something
-* Experiment/Initiative: $1-2K, paid and reviewed monthly, for the life of the experiment
-
-### Retroactive Public Goods
-
-RPGs enable the community to identify projects that contribute to the public good and be baid to execute them.&#x20;
-
-Many projects deliver benefit to all of us, often beyond what they have received to build, maintain and improve these products over time.&#x20;
-
-RPG is a method to reward people more fairly for the creation of these public goods and to take us all into deeper discussion around the types of altruistic contributions that have made POKT Network what it is today.
-
-### Bounties
-
-We are currently renewing the bounty framework - watch this space!
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>The above programs were first described in our <a href="https://forum.pokt.network/t/grow-grants-rewards-opportunities-work/3994">GROW program</a> in February 2023</p></figcaption></figure>

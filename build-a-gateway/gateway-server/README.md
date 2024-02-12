@@ -16,7 +16,7 @@ The rhetorical question that we pose to future actors who want to maintain a blo
 
 ## Features&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### What's included in the Gateway Server?
 

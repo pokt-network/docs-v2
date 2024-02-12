@@ -4,7 +4,7 @@
 
 The Gateway Server under the hood will asynchronously call a POKT full node for a session and cache the session. Caching is an optimization given that a session only changes periodically (4 blocks/60 mins).
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## QoS Controls
 
