@@ -78,10 +78,10 @@ This is a template, please feel free to modify to your specific case. Copy Pasta
 >
 > \[Due date, if applicable]
 >
-> &#x20;**Bounty USDC value**&#x20;
+> &#x20;**Bounty wPOKT value**&#x20;
 >
 > \[choose one]&#x20;
 >
-> * Fixed Budget of XX USDC&#x20;
+> * Fixed Budget of XX wPOKT&#x20;
 > * Open to Bids
 
