@@ -10,7 +10,7 @@ Many of these will be good for junior or new participants in our ecosystem to bu
 
 Taking inspiration from dework (and [their docs](https://dework.gitbook.io/product-docs/fundamentals/task-types-and-assignee-gating) explain a lot of the mechanisms we’ve adopted), we’ll be running our grants in discord, optimizing for quick changes without the overhead of another tool. If it becomes cumbersome, we’ll revisit outside tooling for bounties.
 
-Some of you may recall [IDEAS](https://forum.pokt.network/t/pep-41-identify-efficiencies-and-suggestions-ideas/3396). As a continued effort, if individuals or teams want to request bounties, please open a bounty, fill in the required template, and add as the status IDEAS. At PNF we'll review & work with the community to identify if this is a good spend for the DAO, and then open it up as a bounty to the community.&#x20;
+Some of you may recall [IDEAS](https://forum.pokt.network/t/pep-41-identify-efficiencies-and-suggestions-ideas/3396). As a continued effort, if individuals or teams want to request bounties, please fill in the required template under the pinned IDEAS/SUGGESTIONS topic. At PNF we'll review & work with the community to identify if this is a good spend for the DAO, and then open it up as a bounty to the community.&#x20;
 
 ***
 
@@ -35,8 +35,6 @@ The person who opened the bounty will always be responsible for approving and pa
 An UNDER REVIEW bounty means that submissions are closed and the review is in progress.
 
 A CLOSED bounty is locked and sticking around for transparency.
-
-An IDEA is a DAO member request for a bounty, and not yet approved for budget or submissions.&#x20;
 
 #### **Bounty Submission**
 

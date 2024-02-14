@@ -44,6 +44,7 @@
     * [App Developers](govern/earn-your-vote/app-developers.md)
     * [Community Shepherds](govern/earn-your-vote/community-shepherds.md)
     * [Contributors](govern/earn-your-vote/contributors.md)
+  * [Creds Overview](govern/creds-overview.md)
 * [GET & USE POKT/wPOKT](get-and-use-pokt-wpokt/README.md)
   * [Get POKT or wPOKT](get-and-use-pokt-wpokt/get-pokt-or-wpokt.md)
   * [Hold POKT In a Wallet](get-and-use-pokt-wpokt/pokt-wallets/README.md)
