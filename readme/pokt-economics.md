@@ -35,13 +35,20 @@ The **latest supply schedule** for POKT is dictated by [the ARR proposal](https:
 * 5% to the validators securing the network, and
 * 10% to the DAO treasury.
 
-The current figure for the **total supply of POKT** is calculated by adding the monetary base figure on POKTscan's supply tab - see [here](https://poktscan.com/explore?tab=supply) - to the current DAO Treasury as per [this link](https://poktscan.com/explore?tab=governance).
+## Total and Circulating supply of POKT
 
-On the other hand, the **circulating supply of POKT** is calculated by deducting the following from the total supply:
+The current figure for the **total supply of POKT** is calculated by adding the monetary base figure on [POKTscan's supply tab](https://poktscan.com/explore?tab=supply) to the [DAO Treasury](https://poktscan.com/explore?tab=governance). See [here](https://pokt.money/) for the latest number on POKT.Money. Given that no POKT - including the [DAO Treasury](https://poktscan.com/explore?tab=governance) or the [main PNF Treasury wallet](https://poktscan.com/node/186afc505903e7c7aa97d5f7f1c555111e2ae2ce) - is subject to any ecosystem-mandated vesting provisions, some exchanges and investors deem all of POKT's supply to be part of **the circulating supply**. &#x20;
+
+However, other data providers, such as POKTscan, calculate the circulating supply of POKT  by deducting the [DAO Treasury](https://poktscan.com/explore?tab=governance) from the total supply. See [here](https://poktscan.com/explore?tab=supply) for POKTscan's calculation.
+
+For full transparency, all of the DAO and PNF-controlled wallets are listed below for the community's reference:
 
 * the [DAO Treasury](https://poktscan.com/explore?tab=governance),&#x20;
-* the [DAO ERA Budget wallet](https://poktscan.com/account/4e67bdb7d099c8a754b22c852a9fe140b7d47849), and&#x20;
-* the [main PNF Treasury wallet](https://poktscan.com/node/186afc505903e7c7aa97d5f7f1c555111e2ae2ce).
+* the [DAO ERA Budget wallet](https://poktscan.com/account/4e67bdb7d099c8a754b22c852a9fe140b7d47849) (containing all POKT to fund upcoming [ERA expenses](https://forum.pokt.network/t/pep-60-enabling-responsible-allocation-of-budget-era-budget/4443)), &#x20;
+* the [DAO's wPOKT SAFE on Ethereum](eth:0x2f16615234827eE4dF14d02d40C24E6a258dD360) (used to launch the wPOKT pool),
+* the [DAO's Gnosis SAFE on Ethereum](https://app.safe.global/transactions/history?safe=eth:0x7bAAf6cAEE858929a68a98a70a428b8BEB4d4093) (used to pay DAO contributors),
+* the [main PNF POKT Treasury wallet](https://poktscan.com/node/186afc505903e7c7aa97d5f7f1c555111e2ae2ce), and
+* [PNF's Gnosis SAFE on Ethereum](https://app.safe.global/transactions/history?safe=eth:0x963810F5D0FB29286156C833FcF30ab760D5Bad8) (used to pay contractors and agencies).
 
 ## Supply projections for POKT
 
