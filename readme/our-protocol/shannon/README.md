@@ -1,6 +1,6 @@
 # Shannon
 
-You can the background of why Pocket decided to build on top of a modular stack [here](https://www.pokt.network/blog/pokt-network-rolling-into-the-modular-future-of-the-protocol-a-technical-deep-dive).
+You can read about why Pocket decided to build on top of a modular stack [here](https://www.pokt.network/blog/pokt-network-rolling-into-the-modular-future-of-the-protocol-a-technical-deep-dive).
 
 Poktroll is an active WIP. The repository with the ongoing implementation can be found in the [poktroll repository](https://github.com/pokt-network/poktroll/).
 
