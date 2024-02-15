@@ -39,7 +39,7 @@ The **latest supply schedule** for POKT is dictated by [the ARR proposal](https:
 
 The current figure for the **total supply of POKT** is calculated by adding the monetary base figure on [POKTscan's supply tab](https://poktscan.com/explore?tab=supply) to the [DAO Treasury](https://poktscan.com/explore?tab=governance). See [here](https://pokt.money/) for the latest number on POKT.Money. Given that no POKT - including the [DAO Treasury](https://poktscan.com/explore?tab=governance) or the [main PNF Treasury wallet](https://poktscan.com/node/186afc505903e7c7aa97d5f7f1c555111e2ae2ce) - is subject to any ecosystem-mandated vesting provisions, some exchanges and investors deem all of POKT's supply to be part of **the circulating supply**. &#x20;
 
-However, other data providers, such as POKTscan, calculate the circulating supply of POKT  by deducting the [DAO Treasury](https://poktscan.com/explore?tab=governance) from the total supply. See [here](https://poktscan.com/explore?tab=supply) for POKTscan's calculation.
+However, certain other data providers, such as POKTscan, calculate the circulating supply of POKT by deducting the [DAO Treasury](https://poktscan.com/explore?tab=governance) from the total supply. See [here](https://poktscan.com/explore?tab=supply) for POKTscan's calculation.
 
 For full transparency, all of the DAO and PNF-controlled wallets are listed below for the community's reference:
 
