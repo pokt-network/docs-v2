@@ -37,11 +37,13 @@ The **latest supply schedule** for POKT is dictated by [the ARR proposal](https:
 
 ## Total and Circulating supply of POKT
 
-The current figure for the **total supply of POKT** is calculated by adding the monetary base figure on [POKTscan's supply tab](https://poktscan.com/explore?tab=supply) to the [DAO Treasury](https://poktscan.com/explore?tab=governance). See [here](https://pokt.money/) for the latest number on POKT.Money. Given that no POKT - including the [DAO Treasury](https://poktscan.com/explore?tab=governance) or the [main PNF Treasury wallet](https://poktscan.com/node/186afc505903e7c7aa97d5f7f1c555111e2ae2ce) - is subject to any ecosystem-mandated vesting provisions, some exchanges and investors deem all of POKT's supply to be part of **the circulating supply**. &#x20;
+The **total supply of POKT** is calculated by adding the monetary base figure on [POKTscan's supply tab](https://poktscan.com/explore?tab=supply) to the [DAO Treasury](https://poktscan.com/explore?tab=governance). See [here](https://pokt.money/) for the aggregated number for the total supply on POKT.Money.&#x20;
 
-However, certain other data providers, such as POKTscan, calculate the circulating supply of POKT by deducting the [DAO Treasury](https://poktscan.com/explore?tab=governance) from the total supply. See [here](https://poktscan.com/explore?tab=supply) for POKTscan's calculation.
+Some exchanges and investors include the [DAO Treasury](https://poktscan.com/explore?tab=governance) and the [main PNF Treasury wallet](https://poktscan.com/node/186afc505903e7c7aa97d5f7f1c555111e2ae2ce) as part of **the circulating supply of POKT**, as neither sum is subject to any strict vesting provisions. For those that follow this line of reasoning, the total supply of POKT is the same as the circulating supply.
 
-For full transparency, all of the DAO and PNF-controlled wallets are listed below for the community's reference:
+Certain other data providers, such as POKTscan, calculate the circulating supply of POKT by deducting the [DAO Treasury](https://poktscan.com/explore?tab=governance) from the total supply, as all spending from the DAO Treasury is subject to prior approval from the DAO. See [here](https://poktscan.com/explore?tab=supply) for POKTscan's calculation of the circulating supply, which they refer to as POKT’s “monetary base”.
+
+Ultimately, everyone in the community can decide for themselves. And to assist with any such analysis, all of the DAO and PNF-controlled wallets are listed below for the community's reference:
 
 * the [DAO Treasury](https://poktscan.com/explore?tab=governance),&#x20;
 * the [DAO ERA Budget wallet](https://poktscan.com/account/4e67bdb7d099c8a754b22c852a9fe140b7d47849) (containing all POKT to fund upcoming [ERA expenses](https://forum.pokt.network/t/pep-60-enabling-responsible-allocation-of-budget-era-budget/4443)), &#x20;
