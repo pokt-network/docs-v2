@@ -5,7 +5,7 @@ description: >-
   updates of an evolving DAO OS.
 ---
 
-# DAO Operating System (OS)
+# DAO (OS)
 
 ### Role of the POKT DAO
 
@@ -95,11 +95,11 @@ The DAO continues to evolve and update its payment operations and aims to do so 
 
 _**Schedule:**_ Recurring Payments from the DAO are made on a monthly basis on the first date of governance transactions each month (generally first Tuesday of each month).
 
-For recurring payments from the Era funding mechanisms we aim to make payments within 7 days, and recurring contibutors from the Era Allocation receive payment streams via [https://app.hedgey.finance/](https://app.hedgey.finance/)
+For recurring payments from the Era funding mechanisms we aim to make payments within 7 days, and recurring contibutors from the Era Allocation receive payment streams via [Hedgey Finance](https://app.hedgey.finance/).
 
 _**Calculation:**_ Payments are generally made based on the prevailing 30 day average POKT price, where pricing has been stated in USD terms.
 
-Method: DAO transactions are made direct to the relevant POKT wallet. Era payments are made direct from the relevant multisig either directly to an Eth wallet, or streamed via [https://app.hedgey.finance/](https://app.hedgey.finance/)
+Method: DAO transactions are made direct to the relevant POKT wallet. Era payments are made direct from the relevant multisig either directly to an Eth wallet, or streamed via [Hedgey Finance](https://app.hedgey.finance/).
 
 ***
 

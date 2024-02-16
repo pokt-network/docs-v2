@@ -3,7 +3,7 @@
 * [WELCOME TO POKT NETWORK](README.md)
   * [About POKT Network](readme/about-pokt-network/README.md)
     * [Our DNA](readme/about-pokt-network/our-dna.md)
-    * [DAO Operating System (OS)](readme/about-pokt-network/dao-operating-system-os.md)
+    * [DAO (OS)](readme/about-pokt-network/dao-os.md)
   * [Our Protocol](readme/our-protocol/README.md)
     * [Morse](readme/our-protocol/morse/README.md)
       * [How Morse Works](readme/our-protocol/morse/how-morse-works.md)
