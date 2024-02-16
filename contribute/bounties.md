@@ -50,9 +50,11 @@ We’ll aim to make bounty payments on Mondays, within 10 days of bounty approva
 
 Currently bounties are open to anyone. In the future we’re going to play with the mechanism that requires citizenship, but for now bounties are a great place to get started with minimal barrier to entry.
 
-#### **Bounty Template**
+***
 
-This is a template, please feel free to modify to your specific case. Copy Pasta to your discord post.
+### **Bounty Template**
+
+This is a template, please feel free to modify to your specific case. Copy-pasta to your discord post, you'll need to manually bold headings.
 
 > **Description**&#x20;
 >
