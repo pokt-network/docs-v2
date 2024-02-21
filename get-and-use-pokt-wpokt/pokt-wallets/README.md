@@ -15,7 +15,7 @@ You can use the [official wallet web app](https://wallet.pokt.network/) to creat
 
 ### Pocket Ledger Wallet <a href="#pocket-ledger-wallet" id="pocket-ledger-wallet"></a>
 
-This is the ledger integration for the Pocket Wallet. It is currently the only way to interact with Ledger, although this may change over the coming months. Step-by-step guide available here.
+This is the ledger integration for the Pocket Wallet. It is currently the only way to interact with Ledger, although this may change over the coming months. Step-by-step guide available [here](pocket-ledger-wallet.md).
 
 ### SendWallet <a href="#sendwallet" id="sendwallet"></a>
 
