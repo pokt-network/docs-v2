@@ -1,15 +1,19 @@
-# WELCOME TO POKT NETWORK
+---
+description: Building the Universal RPC Base Layer
+---
 
-### Navigate Our Docs
+# WELCOME
 
-* [**WELCOME (this section):**](./) general info about us, our economics, and supported chains.
-* [**BUILD A GATEWAY:**](build-a-gateway/) for business looking to scale their services via our decentralized network of c.15k nodes in 22 countries and a protocol with 3+ years on MainNet.
-* [**ACCESS RPCs**](get-rpcs/): for developers looking to support their application with the most robust RPC endpoints, under-DePIN-ed by POKT Network.
-* [**OPERATE A NODE**](access-tutorials/): for node operators looking to join our ecosystem.
-* [**CONTRIBUTE**](contribute/): for contributors who want to build the universal RPC base layer with us.
-* [**GOVERN**](govern/): for stakeholders to engage with our thought-leading governance model.
-* [**BUY & STAKE**](get-and-use-pokt-wpokt/): for token holders or people who may want to become token holders - where, how, and why to purchase POKT.
+***
 
-### How to Contribute
+POKT Network provides the most resilient and scalable RPC services, at the lowest cost. Access is through an existing Gateway or by hosting your own Gateway.
 
-This documentation grows every day. You are welcome to [contribute](contribute/).
+***
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Developer Guides on <a href="developers/access-rpc.md">Accessing RPC</a>, finding the right <a href="developers/use-a-gateway/">Gateway</a>, and connecting to <a href="developers/public-endpoints.md">Public Endpoints</a>. Also key reference content for <a href="reference/supported-chains.md">Supported Chains</a> and <a href="reference/api-definition.md">API Definitions</a>. </td><td></td><td></td><td><a href=".gitbook/assets/Devs.png">Devs.png</a></td></tr><tr><td>For Node operators looking to learn <a href="node-operators/operate-a-node.md">how to operate a node</a> or <a href="node-operators/manual-node-setup-guide/">perform manual setup</a>. </td><td></td><td></td><td><a href=".gitbook/assets/Operators.png">Operators.png</a></td></tr><tr><td>Learn how and why to build and host your own <a href="gateways/host-a-gateway/">Gateway</a> to POKT Network's universal RPC base layer. </td><td></td><td></td><td><a href=".gitbook/assets/Gateways.png">Gateways.png</a></td></tr></tbody></table>
+
+***
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Learn about the POKT Network <a href="learn-about-pokt/the-rpc-protocol/">Protocol</a>, our project <a href="learn-about-pokt/the-economics.md">Economics</a>, and our <a href="learn-about-pokt/our-dna.md">DNA</a>.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/LEARN (1).png">LEARN (1).png</a></td></tr><tr><td>Quick path to the best info around how to <a href="pokt-token/get-pokt-or-wpokt.md">get</a>, <a href="pokt-token/hold-pokt-in-a-wallet.md">hold</a>, and <a href="pokt-token/stake-pokt.md">stake</a> POKT and <a href="pokt-token/wrapped-pokt-wpokt/">wPOKT</a>.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Our Token.png">Our Token.png</a></td></tr><tr><td>Find out more info about POKT <a href="community/dao-os.md">DAO</a>, how to <a href="community/start-contributing/">contribute</a> and how to <a href="community/governance/">govern</a>.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/COMMUNITY.png">COMMUNITY.png</a></td></tr></tbody></table>
+
+This documentation grows every day. You are welcome to [contribute](broken-reference).
