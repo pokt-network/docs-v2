@@ -38,3 +38,7 @@ This guide is broken down into five parts:
 * [**Part 3: Pocket configuration**](part-3-pocket-configuration.md)
 * [**Part 4: Proxy configuration**](part-4-proxy-configuration.md)
 * [**Part 5: Going live**](part-5-going-live.md)
+
+### Automated Setup Script
+
+If you want to get a head start on the setup process, you can also use the [Pocket Node Setup Script](https://github.com/0xThresh/pokt-node-setup). This script consolidates the steps from Part 2, Part 3 and Part 4. The steps in Part 1 and Part 5 must still be run manually even when using the automated script. 
