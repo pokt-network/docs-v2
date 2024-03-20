@@ -24,10 +24,13 @@ To learn how to earn a vote in the DAO and decide the future of Pocket Network, 
 You don’t need a vote in the DAO to submit proposals or participate in discussions! Everyone is free to share their opinions. Head over to [the forum](https://forum.pokt.network/) to see what decisions are being debated.
 {% endhint %}
 
-### Modular Governance
+### CREDs - 3d Governance
 
-We're rolling out our latest upgrade in modules.
+Our governance needs have evolved as the DAO has evolved, so we went back to the drawing board to create a governance model for POKT in 2024.
 
-We expect to have all modules shared, approved and implemented by mid-December.
+There is an active proposal for upgrading our governance, taking into account the many contributors who don't have a DAO vote.
 
-Watch this space. We’ll bring it all home by Christmas. :christmas\_tree:
+Follow along here:\
+[https://forum.pokt.network/t/discussion-content-creds-governance-at-pokt-network/5033/20](https://forum.pokt.network/t/discussion-content-creds-governance-at-pokt-network/5033/20)
+
+We expect to have the proposal pass in early April and the system fully only by the end of the month, bringing in many new voters and fresh perspectives.
