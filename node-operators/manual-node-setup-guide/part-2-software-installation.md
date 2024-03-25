@@ -1,10 +1,10 @@
 # Part 2 - Software Installation
 
-### Install Dependencies
+### 1. Install Dependencies
 
-Now let's move on to the Pocket CLI installation.
+Now let's install the Pocket CLI.
 
-At this point you should be logged in via SSH as the `pocket` user that we set up in a previous step. Before we install the Pocket software, we need to update the existing system packages and add a few dependencies.
+At this point you should be logged in via SSH as the `pocket` user that we set up in a previous step. Before we install the Pocket software, we need to update the existing system packages and add a few dependencies:&#x20;
 
 #### Updating system packages
 
@@ -23,7 +23,7 @@ After the update completes, we're ready to install the dependencies.
 
 #### Installing dependencies
 
-There are a handful of dependencies but installing them won't take long. Also, some might already be installed. So if one of the dependencies exists, you can just move on to the next one.
+There are a handful of dependencies but installing them won't take long. Some might already be installed so if one of the dependencies exists, you can just move on to the next one.
 
 **git**
 
@@ -73,7 +73,7 @@ sudo apt-get install python3-certbot-nginx -y
 sudo apt install jq -y
 ```
 
-### Install Go
+### 2. Install Go
 
 After installing the dependencies, there is one more dependency we'll need to add, and that's Go. Go (sometimes known as "Golang") is the programming language that the Pocket software was written in.
 
@@ -121,9 +121,9 @@ We could install Go using `apt`, but we want to get the latest stable version wh
 8. Verify the installation by running `go version` and ensure it outputs the correct version number. If it doesn't work, try logging out and logging back in.
 9. Verify the `GOPATH` and `GOBIN` variables are set correctly by running `go env`.
 
-### Install Pocket
+### 3. Install Pocket
 
-After you can verify that you have the latest stable version of Go, we're ready to install the Pocket software.
+After verifying you have the latest stable version of Go, we're ready to install the Pocket software.
 
 We'll be downloading [Pocket Core](https://github.com/pokt-network/pocket-core/) from GitHub and then compiling it with Go to get it fully installed.
 

@@ -1,6 +1,8 @@
 # Use a Public Endpoint
 
-The POKT Network Foundation is funding free public endpoints as a public good, powered by [Nodies](use-a-gateway/nodies.md), POKT Network's second gateway. It's important to note that these endpoints are subject to dynamic throughput limits of around 15-25 requests-per-second (RPS). As such, they are suitable for wallet users, hackathon developers, or anyone sampling POKT's service, but heavier users seeking high-throughput service should explore [creating an account with a gateway](use-a-gateway/), or [self-hosting a gateway](../gateways/host-a-gateway/).
+The POKT Network Foundation funds free public endpoints through Nodies, its second gateway, as a public good. These endpoints have variable limits of 15-25 requests per second, ideal for wallet users and hackathon developers.&#x20;
+
+For higher usage, users should consider creating an [account with a gateway](use-a-gateway/) or [hosting one themselves](../gateways/host-a-gateway/).
 
 ### Endpoints
 
@@ -37,4 +39,6 @@ To change your endpoint in MetaMask, follow these steps, filling in the appropri
 6. (Optional) Insert `<Explorer URL>` into the **Block Explorer URL** field.
 7. Don't forget to save your changes.
 
-> **Note**: If you encounter an error in MetaMask stating `Invalid number. Enter a decimal or '0x'-prefixed hexadecimal number`, simply leave the optional fields blank.
+{% hint style="warning" %}
+If you encounter an error in MetaMask stating `Invalid number. Enter a decimal or '0x'-prefixed hexadecimal number`, simply leave the optional fields blank.
+{% endhint %}

@@ -10,13 +10,11 @@
 
 Shannon is the next major upgrade to the Pocket Network Protocol.&#x20;
 
-
-
 ### History of Shannon&#x20;
 
-In early August, the POKT Network (or Pocket Network) core protocol team made a crucial decision: we temporarily halted all development on the upcoming version of the POKT Protocol: the Shannon upgrade (formerly referred to as v1). We embarked on a 3-week intensive research sprint to evaluate rapid advancements of other projects in the industry and ensure an optimal path forward.
+Early in August, the POKT Network's main team paused work on the next POKT Protocol version, known as the Shannon upgrade. We spent three weeks looking closely at the latest developments in our field to choose the best way forward.
 
-Our research period was a mix of open exploration, daily research syncs lasting 1-2 hours throughout the whole period, in-person discussions at a three-day offsite, extensive deep dives into at least nine projects that particularly caught our attention, calls with core teams from many of these projects, input from industry experts, and the development of several Proof-of-Concepts (POCs) along the way.
+During our research, we did a lot of exploring, met every day for 1-2 hours of updates, had in-depth discussions at a three-day meeting away from the office, examined at least nine projects that caught our eye closely, talked to the teams behind these projects, received guidance from experts in our field, and worked on several test projects to see how our ideas would work in practice.
 
 To get to the punch line, we’re going to implement the Shannon upgrade as a micro-rollup using [Rollkit](http://web.archive.org/web/20231006003924/https://rollkit.dev/)’s modular framework that features [Celestia](http://web.archive.org/web/20231006003924/https://celestia.org/) as the Data Availability (DA) layer.
 
@@ -24,12 +22,7 @@ To get to the punch line, we’re going to implement the Shannon upgrade as a mi
 
 ### Shannon Roadmap&#x20;
 
-This page tracks its roadmap.This page tracks the progress and updates of Shannon's Roadmap.
-
-* ​[2024/01/18](https://docs.pokt.network/readme/our-protocol/shannon/roadmap#20240118)​
-  * ​[Road to mainNet](https://docs.pokt.network/readme/our-protocol/shannon/roadmap#road-to-mainnet)​
-  * ​[MainNet Features](https://docs.pokt.network/readme/our-protocol/shannon/roadmap#mainnet-features)​
-  * ​[Feedback Iteration](https://docs.pokt.network/readme/our-protocol/shannon/roadmap#feedback-iteration)​
+This page tracks its roadmap.This page tracks the progress and updates of Shannon's Roadmap.​
 
 ### 2024/01/18 <a href="#id-2024-01-18" id="id-2024-01-18"></a>
 
@@ -37,11 +30,9 @@ You can find the recording here:&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=-BUoS0yusfI" %}
 
-the presentation can be found [here](https://docs.google.com/presentation/d/1IOiIZjY192RP9FkI1nXdV4I7YcuNkrSIKFIVs25M-TM/edit).​
+The presentation can be found [here](https://docs.google.com/presentation/d/1IOiIZjY192RP9FkI1nXdV4I7YcuNkrSIKFIVs25M-TM/edit).​
 
 ### Road to MainNet <a href="#road-to-mainnet" id="road-to-mainnet"></a>
-
-
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-02-21 at 18.29.17@2x.png" alt=""><figcaption></figcaption></figure>
 

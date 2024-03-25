@@ -2,7 +2,7 @@
 
 ## Overview
 
-To truly understand why gateway operators and the Gateway Server are important, let's review what steps application developers have to perform in order to send a single request to POKT Network without gateways.
+To see why gateway operators and the Gateway Server are important, let's look at what developers need to do to send a request to the POKT Network without using gateways.
 
 The chronological steps assuming the application is staked are:
 

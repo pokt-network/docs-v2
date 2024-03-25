@@ -2,13 +2,13 @@
 
 ### **Overview**
 
-Bounties are specific, scoped work that POKT needs completed, which may be scoped by the Foundation, the Protocol Team, the DAO or anyone working on POKT projects.
+Bounties are tasks that meet specific Pocket Network needs. They can be scoped by the Foundation, the Protocol Team, the DAO, or anyone working on POKT projects.
 
-Many of these will be good for junior or new participants in our ecosystem to build their Proof of Impact. We intend for these to be paths to additional work within the community - one can envision their journey starting by completing bounties, having an idea from their learnings and opening a quick grant, and with continued impact delivered becoming a core contributor being funded from the DAO.
+These tasks are great for newcomers to Pocket Network to show Proof of Impact in the community. We see them as paths to more opportunities. You can start with small tasks, use what you learn to get a grant for your ideas, and eventually become a core contributor being funded from the DAO.
 
-Taking inspiration from dework (and [their docs](https://dework.gitbook.io/product-docs/fundamentals/task-types-and-assignee-gating) explain a lot of the mechanisms we’ve adopted), we’ll be running our grants in discord, optimizing for quick changes without the overhead of another tool. If it becomes cumbersome, we’ll revisit outside tooling for bounties.
+Inspired by [Dework](https://dework.gitbook.io/product-docs/fundamentals/task-types-and-assignee-gating), we'll manage our grants directly in Discord to keep things simple and avoid the hassle of using another tool. If this method gets too complicated, we'll consider using external tools for managing tasks.
 
-Some of you may recall [IDEAS](https://forum.pokt.network/t/pep-41-identify-efficiencies-and-suggestions-ideas/3396). As a continued effort, if individuals or teams want to request bounties, please fill in the required template under the pinned IDEAS/SUGGESTIONS topic. At PNF we'll review & work with the community to identify if this is a good spend for the DAO, and then open it up as a bounty to the community.&#x20;
+Some of you may recall [IDEAS](https://forum.pokt.network/t/pep-41-identify-efficiencies-and-suggestions-ideas/3396). As a continued effort, if individuals or teams want to request bounties, please fill in the required template under the pinned IDEAS/SUGGESTIONS topic. The Foundation will review & work with the community to determine if this is a good spend for the DAO, and then open it up as a bounty to the community.&#x20;
 
 ***
 
@@ -36,13 +36,13 @@ A CLOSED bounty is locked and sticking around for transparency.
 
 #### **Bounty Submission**
 
-All materials must be delivered within the bounty board post, or linked to if applicable (e.g. a google drive folder, a URL, a notion page).
+All materials must be delivered within the bounty board post, or linked to if applicable (e.g. a Google Drive folder, a URL, a Notion page).
 
-All submissions must meet all requirements, otherwise they’re automatically disqualified. All requirements should be CLEARLY LABELED and easily identified.
+Submissions must meet all requirements, or they’ll be automatically disqualified. All requirements should be CLEARLY LABELED and easily identified.
 
 #### **Bounty Payments**
 
-We’ll aim to make bounty payments on Mondays, within 10 days of bounty approval. They’re manual payments, and we’re a team who works all over the globe, so this is our aim but won’t always be the case. Please have patience if it takes a day or two longer!
+Bounty payments are targeted for Mondays, within 10 days of bounty approval. As they're made manually by a Foundation team that works all over the globe, the payments might run a day or two late.&#x20;
 
 **Bounty Eligibility**
 
@@ -52,7 +52,7 @@ Currently bounties are open to anyone. In the future we’re going to play with 
 
 ### **Bounty Template**
 
-This is a template, please feel free to modify to your specific case. Copy-pasta to your discord post, you'll need to manually bold headings.
+This is a template, please feel free to modify to your specific case. Copy-paste to your Discord post, you'll need to manually bold headings.
 
 > **Description**&#x20;
 >

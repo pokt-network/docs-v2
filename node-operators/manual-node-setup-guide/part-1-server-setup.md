@@ -6,7 +6,7 @@ description: >-
 
 # Part 1 - Server Setup
 
-### Setup a server <a href="#setup-a-server" id="setup-a-server"></a>
+## Setup a server <a href="#setup-a-server" id="setup-a-server"></a>
 
 The first thing you’ll need to run a Pocket node is a server. For this guide, we’ll be using a virtual machine on the [Linode](https://www.linode.com/) cloud service, but you can use any cloud service you like, or run a server of your own.
 
@@ -16,7 +16,9 @@ Pocket has no affiliation with Linode and does not recommend any one provider ov
 
 Let’s start by creating a Linode instance (a virtual machine).
 
-#### Create a Linode instance <a href="#create-a-linode-instance" id="create-a-linode-instance"></a>
+
+
+### 1. Create a Linode instance <a href="#create-a-linode-instance" id="create-a-linode-instance"></a>
 
 To create a Linode instance, do the following:
 
@@ -32,11 +34,11 @@ To create a Linode instance, do the following:
 For a more detailed guide on setting up a Linode instance, see the [Linode docs](https://www.linode.com/docs/guides/getting-started/). Also, note that the `Atlanta, GA` region was selected for this guide because it supports [NVMe storage](https://www.linode.com/products/block-storage/#nvme-block-storage) which is preferable for running nodes. [Check to see which other regions support NVMe storage](https://www.linode.com/blog/cloud-storage/nvme-block-storage-global-rollout/).
 {% endhint %}
 
-### Add a storage volume <a href="#add-a-storage-volume" id="add-a-storage-volume"></a>
+### 2. Add a storage volume <a href="#add-a-storage-volume" id="add-a-storage-volume"></a>
 
 The Pocket blockchain is very large and growing all the time, and the snapshot we’ll be downloading in a later step is too large to fit on this Linode instance.
 
-Because of this, we’ll need to create a secondary storage volume. We recommend a size of at least 500GB, but as this requirement will keep growing, a larger volume size (or a dynamically adjustable disk size) will be important.
+Because of this, we’ll need to create a secondary storage volume. Our recommendation is at least 500GB to begin with. But as you'll need more space in the future, opt for a larger volume or one that be dynamically  adjusted.
 
 1. In your Linode account, click **Volumes** and then **Create Volume**.
 2. Create a volume with the following specifications:
@@ -45,7 +47,7 @@ Because of this, we’ll need to create a secondary storage volume. We recommend
    * **Region**: \[Same as your instance]
    * **Linode**: `pokt001`
 
-### Configure DNS <a href="#configure-dns" id="configure-dns"></a>
+### 3. Configure DNS <a href="#configure-dns" id="configure-dns"></a>
 
 Now that the Linode instance is created and running, you’ll need to set up a DNS record that points to the IP address of the Linode instance.
 
@@ -86,11 +88,11 @@ If the IP address matches the IP address of your Linode instance, you’re all s
 It can sometimes take longer than a minute for the DNS to propagate. So, be patient if things don’t seem to work right away.
 {% endhint %}
 
-### Login with SSH <a href="#login-with-ssh" id="login-with-ssh"></a>
+### 4. Login with SSH <a href="#login-with-ssh" id="login-with-ssh"></a>
 
 Now that we have a DNS record setup, we will look at using SSH to log in and continue the setup process.
 
-The [Secure Shell Protocol](https://en.wikipedia.org/wiki/Secure\_Shell) (SSH) is a secure way to connect to your Linode instance from a remote machine, like your local computer. We’ll be using SSH to complete the remainder of the setup process.
+The [Secure Shell Protocol](https://en.wikipedia.org/wiki/Secure\_Shell) (SSH) is a secure way to connect to your Linode instance from a remote machine, like your local computer. We’ll be using SSH to complete the rest of the setup process.
 
 #### SSH from Mac or Linux <a href="#ssh-from-mac-or-linux" id="ssh-from-mac-or-linux"></a>
 
@@ -107,7 +109,7 @@ If you’re using a Mac, or Linux, on your local computer, you can SSH into your
 Don’t forget to replace `pokt001.pokt.run` with your DNS name.
 {% endhint %}
 
-You’ll be prompted for your password. This is the root password that you set when you created your Linode.
+You’ll be asked for your password. This is the root password that you set when you created your Linode.
 
 #### SSH from Windows <a href="#ssh-from-windows" id="ssh-from-windows"></a>
 
@@ -126,7 +128,7 @@ Don’t forget to replace `pokt001.pokt.run` with your DNS name.
 
 If you’re using an older version of Windows, you might need to install [PuTTY](https://www.putty.org/) or some other SSH client.
 
-### Set the hostname <a href="#set-the-hostname" id="set-the-hostname"></a>
+### 5. Set the hostname <a href="#set-the-hostname" id="set-the-hostname"></a>
 
 At this point you should be logged into your node as the `root` user.
 
@@ -139,7 +141,7 @@ To set the server hostname use the following steps:
     ```bash
     nano /etc/hostname
     ```
-2. Change the `localhost` value to the fully qualified hostname of your node (for example, `pokt001.pokt.run`).
+2. Change the `localhost` value to the hostname of your node (for example, `pokt001.pokt.run`).
 3. Save the file with `Ctrl+O` and then `Enter`.
 4. Exit nano with `Ctrl+X`.
 5.  Reboot the server with the following command:
@@ -149,7 +151,7 @@ To set the server hostname use the following steps:
     ```
 6. Wait for the server to reboot then ssh back in as the `root` user before continuing on.
 
-### Create a Pocket user account <a href="#create-a-pocket-user-account" id="create-a-pocket-user-account"></a>
+### 6. Create a Pocket user account <a href="#create-a-pocket-user-account" id="create-a-pocket-user-account"></a>
 
 For security reasons it’s best not to use the `root` user. Instead, it’s better to create a new user and add the user to the `sudo` group.
 
@@ -166,7 +168,7 @@ To create a new user, enter the following commands:
     su - pocket
     ```
 
-### Mount the volume <a href="#mount-the-volume" id="mount-the-volume"></a>
+### 7. Mount the volume <a href="#mount-the-volume" id="mount-the-volume"></a>
 
 Next we want to mount the secondary storage volume that we created in a previous step.
 
@@ -212,7 +214,7 @@ Next we want to mount the secondary storage volume that we created in a previous
 8. Save the file with `Ctrl+O` and then `Enter`.
 9. Exit nano with `Ctrl+X`.
 
-### Move the home directory <a href="#move-the-home-directory" id="move-the-home-directory"></a>
+### 8. Move the home directory <a href="#move-the-home-directory" id="move-the-home-directory"></a>
 
 Many Pocket commands assume a data directory path of `~/.pocket`. While it is possible to specify a different data directory with every command, it will be much easier to change the location of the `pocket` user home directory. For this tutorial, we will be putting the Pocket data directory at `/mnt/data/.pocket`.
 

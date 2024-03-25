@@ -1,8 +1,10 @@
 # Gateway Server
 
-The Gateway Server enables developers of all kinds to interact with the POKT Network protocol and engage with 50+ blockchains without the need to store terabytes of data, require heavy computational power, or understand the POKT Network protocol specifications.
+The Gateway Server lets all developers use the POKT Network protocol access over 50 blockchains. This is all done without the need to store terabytes of data, have powerful computers, or knowledge of the POKT Network protocol.&#x20;
 
-POKT Network's self-hosted Gateway Server is a lightweight [gRPC](https://grpc.io) client that integrates with the POKT Network protocol and maintains a familiar HTTP JSON-RPC Server interface for your applications (and any customer applications) to send and receive RPC requests. The Gateway Server abstracts away the complexities of directly interfacing with the POKT Network protocol – retrieving a session, signing a relay and sending it to RPC nodes – making it as easy as possible to connect to the network while providing the flexibility to choose only the services you need and/or plug in other services. You can read more about the complexities of the relay process (which the Gateway Server simplifies) at the link below:
+POKT Network's self-hosted Gateway Server is a lightweight [gRPC](https://grpc.io) client that connects with the POKT Network. It uses a familiar HTTP JSON-RPC Server interface for your applications (and any customer applications) to send and receive RPC requests.
+
+&#x20;The Gateway Server abstracts away the complexities of directly interfacing with the POKT Network protocol. This means you can connect to the network easily, pick the services you want, and add others as needed.
 
 ## Features
 

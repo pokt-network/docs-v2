@@ -2,7 +2,7 @@
 
 ### Overview&#x20;
 
-hese are small seed or experimental grants to support builders and contributors who have ideas about how to drive impact towards the priorities of POKT Network. Innovation in POKT should as much as possible be permissionless.
+These are small seed or experimental grants to support builders and contributors who have ideas about how to drive impact towards the priorities of POKT Network. Innovation in POKT should as much as possible be permissionless.
 
 They are open to anyone in our community who comes with measurable initiatives that we can keep them accountable to. These move the responsibility for contributors to write great proposals and being part-time politicians, to what actually matters - [generating impact](https://forum.pokt.network/t/contributions-path-to-impact/5038) through work and execution. We have a term for this: _Evidence > Confidence_.
 

@@ -8,7 +8,7 @@ POKT is the lifeblood of the POKT Network ecosystem. It coordinates all actors w
 
 ## The role of POKT within the protocol
 
-* Node runners must currently stake at least 15,000 POKT to run a POKT node. (This is expected to increase as part of the updates to the economics following the output of the [Economics R\&D work with BlockScience](https://forum.pokt.network/t/v1-economics-and-governance-r-d-keystone/4712)).
+* Node runners currently need to stake at least 15,000 POKT to operate a POKT node. We expect this requirement to increase following the updates to the economics based on the Economics R\&D work with BlockScience.
 * Validators must stake enough POKT to become one of the 1,000 validators, a protocol-defined cap. The current “validator threshold” is 75,100 POKT [as per POKTscan](https://poktscan.com/). (A Sequencer will replace validators in the new Shannon protocol upgrade).
 * Every Gateway routing traffic to POKT Network’s decentralised network of nodes must pay a “Gateway Operator Fee” of $0.00000085, as per the [protocol burn proposal](https://forum.pokt.network/t/pip-29-burn-gateway-burn/4401) passed on 16 May 2023. As per [POKTscan](https://poktscan.com/explore?tab=supply), the weekly burn has ranged from 108,000 (as projected for December 2023) to 1.2m POKT per month. The main drivers of the weekly burn are the number of relays and the price of POKT.
 

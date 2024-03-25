@@ -13,12 +13,14 @@ A major protocol upgrade, [Shannon](shannon.md), is targeted to deploy to MainNe
 
 ### [Morse](morse.md)
 
-Our live Protocol (Morse) was built on top of the Tendermint framework within the Cosmos ecosystem. However, it has since evolved and we have made significant modifications to the original Tendermint codebase to optimize our specific use case.
+We built our live Protocol (Morse) on top of the Tendermint framework within the Cosmos ecosystem. Since then, we have significantly modified  the original Tendermint codebase to to be optimized for our specific use case.
 
-Since launch this protocol has served almost 700bn relays across 50+ chains, through a network of c.15k nodes in 22 countries.
+Since its launch, this protocol has severed nearly 700 billion relays on over 50 different chains, using a network of around 15,000 nodes located in 22 countries.
 
 ### [Shannon](shannon.md)
 
-All of our experience is currently being built into a major protocol upgrade called Shannon, after Claude Shannon who was the father of information theory.&#x20;
+All our expertise is going into a significant upgrade we've named Shannon, after Claude Shannon, the founding figure of information theory.
 
-Shannon will deploy to Celestia's Mocha Testnet in February 2024 and is targeted to launch on MainNet at the end of Q2 2024.
+We will deploy Shannon to Celestia's Mocha Testnet in February 2024 and aim to launch it on MainNet by the end of Q2 2024.
+
+\
