@@ -1,4 +1,4 @@
-# CREDS - Governance
+# CREDS - Governance Upgrade
 
 We are currently proposing a governance upgraded entitled CREDS in the [forum](https://forum.pokt.network/). The upgrade enfranchises more of our community as DAO Voters based on the principle that governance power is earned through reputation and cannot be bought. This expands on the existing 1-person-1-vote (1P1V) system.
 
