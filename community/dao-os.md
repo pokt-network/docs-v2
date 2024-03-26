@@ -23,7 +23,7 @@ The current strategy of the POKT DAO is defined in the [PNF Strategy thesis](htt
 
 The POKT DAO currently has 5 major Ambitions (sometimes referred to as Big Hairy Audacious Goals) that orient the way we prioritise funding and attention. These ambitions are defined here:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * Pocket’s V1 is he most success new protocol launch ever
 * Pocket has $1B of annual protocol revenue

@@ -50,6 +50,11 @@
   * [App Developers](community/governance/app-developers.md)
   * [Community Shepherds](community/governance/community-shepherds.md)
   * [Contributors](community/governance/contributors.md)
+  * [CREDS - Governance](community/governance/creds-governance/README.md)
+    * [Privacy & anonymity](community/governance/creds-governance/privacy-and-anonymity.md)
+    * [Onboarding New Voters](community/governance/creds-governance/onboarding-new-voters.md)
+    * [Migration of Existing Voters](community/governance/creds-governance/migration-of-existing-voters.md)
+    * [System Flow Design](community/governance/creds-governance/system-flow-design.md)
 
 ## POKT TOKEN
 
