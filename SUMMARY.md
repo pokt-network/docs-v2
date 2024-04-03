@@ -47,6 +47,7 @@
   * [Retroactive Funding & Grants](community/start-contributing/retroactive-funding-and-grants.md)
 * [Governance](community/governance/README.md)
   * [Earn Your Vote](community/governance/earn-your-vote.md)
+  * [Node Runners](community/governance/node-runners.md)
   * [App Developers](community/governance/app-developers.md)
   * [Community Shepherds](community/governance/community-shepherds.md)
   * [Contributors](community/governance/contributors.md)
