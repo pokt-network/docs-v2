@@ -8,23 +8,23 @@ POKT is the lifeblood of the POKT Network ecosystem. It coordinates all actors w
 
 ## The role of POKT within the protocol
 
-* Node runners currently need to stake at least 15,000 POKT to operate a POKT node. We expect this requirement to increase following the updates to the economics based on the Economics R\&D work with BlockScience.
+* Node runners currently need to stake at least 15,000 POKT to operate a POKT node. We expect this requirement to increase following updates to the economics based on the Economics R\&D work with [BlockScience](https://block.science/).
 * Validators must stake enough POKT to become one of the 1,000 validators, a protocol-defined cap. The current “validator threshold” is 75,100 POKT [as per POKTscan](https://poktscan.com/). (A Sequencer will replace validators in the new Shannon protocol upgrade).
-* Every Gateway routing traffic to POKT Network’s decentralised network of nodes must pay a “Gateway Operator Fee” of $0.00000085, as per the [protocol burn proposal](https://forum.pokt.network/t/pip-29-burn-gateway-burn/4401) passed on 16 May 2023. As per [POKTscan](https://poktscan.com/explore?tab=supply), the weekly burn has ranged from 108,000 (as projected for December 2023) to 1.2m POKT per month. The main drivers of the weekly burn are the number of relays and the price of POKT.
+* Every gateway routing traffic to POKT Network’s decentralized network of nodes must pay a “Gateway Operator Fee” of $0.00000085 per relay, as per the [protocol burn proposal](https://forum.pokt.network/t/pip-29-burn-gateway-burn/4401) passed on 16 May 2023. As per [POKTscan](https://poktscan.com/explore?tab=supply), the weekly burn has ranged from 108,000 (as projected for December 2023) to 1.2m POKT per month. The main drivers of the weekly burn are the number of relays and the price of POKT.
 
 {% hint style="info" %}
-There is a flywheel effect in place for POKT's economics as more gateways drive more relays to the network, requiring gateways to buy more POKT, which is then burned, and more relays incentivize more node runners to join the network to earn more rewards, and with more node runners with better QoS, more gateways are in turn incentivized to bring more of their business to POKT Network, which keeps the flywheel turning.
+There is a flywheel effect in place for POKT's economics as more gateways drive more relays to the network, requiring gateways to buy more POKT, which is then burned. More relays incentivize more node runners to join the network to earn more rewards, and with more node runners with better QoS, more gateways are in turn incentivized to bring more of their business to POKT Network, which keeps the flywheel turning.
 {% endhint %}
 
 ## Supply and minting of POKT
 
-The original genesis distribution for POKT was 649,984,998 POKT distributed as follows:
+The original genesis distribution of POKT was 649,984,998 POKT distributed as follows:
 
 <figure><img src="../.gitbook/assets/spaces_HVZ3BQcmJhVmXh7fy6xP_uploads_git-blob-6eeecf874a2a2d67ee7180acc072f0eae8cf63d1_Screenshot 2024-01-03 at 16 (1).webp" alt=""><figcaption></figcaption></figure>
 
-The vast majority of all of POKT's supply is now liquid and circulating, with most tokens - almost 1B (and counting) of the current supply - distributed permissionlessly since POKT Network’s mainnet launch on 28 July 2020. The mechanism to achieve this distribution - POKT Network’s version of a fair launch - occurred similarly to Bitcoin by distributing POKT rewards to those staking POKT as node runners to serve RPC requests and validators to secure the network. \\
+The vast majority of POKT's supply is now liquid and circulating, with most tokens - almost 1b (and counting) of the current supply - distributed permissionlessly since POKT Network’s mainnet launch on 28 July 2020. The mechanism to achieve distribution - POKT Network’s version of a fair launch - occurred, much like Bitcoin's, by issuing POKT rewards to those staking POKT as node runners to serve RPC requests and as validators to secure the network.&#x20;
 
-The **latest supply schedule** for POKT is dictated by [the ARR proposal](https://forum.pokt.network/t/pup-32-accelerating-the-road-to-revenue-arr/4494) that passed on 5 July 2023. This schedule targets an average mint rate of 220,000 POKT per day, which varies based on the 7-day trailing number of relay requests to the network as per the [Accurate proposal](https://forum.pokt.network/t/pup-29-a-cadence-change-to-updates-of-rttm-adjustment-for-target-emissions-accurate/3777) (which includes the calculator used to update the mint rate each week).
+The **latest supply schedule** for POKT is dictated by [the ARR proposal](https://forum.pokt.network/t/pup-32-accelerating-the-road-to-revenue-arr/4494) that passed on 5 July 2023. This schedule targets an average mint rate of 220,000 POKT per day, which varies based on the 7-day trailing number of relay requests to the network as per the [Accurate proposal](https://forum.pokt.network/t/pup-29-a-cadence-change-to-updates-of-rttm-adjustment-for-target-emissions-accurate/3777) (which includes the calculator used to update the mint rate weekly).
 
 \
 **All POKT minted in each block is distributed as follows:**
@@ -37,13 +37,13 @@ The **latest supply schedule** for POKT is dictated by [the ARR proposal](https:
 
 See [**here**](https://pokt-api.liquify.com/pokt/api/v1/supply/total) for the **total supply of POKT.**&#x20;
 
-The total supply of POKT can also be calculated by adding the monetary base figure on [POKTscan's supply tab](https://poktscan.com/explore?tab=supply) to the [DAO Treasury](https://poktscan.com/explore?tab=governance), or by going direct to [POKT.Money](https://pokt.money/).&#x20;
+You can calculate the total supply of POKT by adding the monetary base figure on [POKTscan's supply tab](https://poktscan.com/explore?tab=supply) to the [DAO Treasury](https://poktscan.com/explore?tab=governance). For supply change figures, see [POKT.Money](https://pokt.money/).
 
 Some exchanges and investors include the [DAO Treasury](https://poktscan.com/explore?tab=governance) and the [main PNF Treasury wallet](https://poktscan.com/node/186afc505903e7c7aa97d5f7f1c555111e2ae2ce) as part of **the circulating supply of POKT**, as neither sum is subject to any legal vesting provisions (apart from the small amount of POKT granted to PNF staff). For those that follow this line of reasoning, the total supply of POKT is the same as the circulating supply.
 
-Certain other data providers, such as POKTscan, calculate the circulating supply of POKT by deducting the [DAO Treasury](https://poktscan.com/explore?tab=governance) from the total supply, as all spending from the DAO Treasury is subject to prior approval from the DAO. See [here](https://poktscan.com/explore?tab=supply) for POKTscan's calculation of the circulating supply, which they refer to as POKT’s “monetary base”. Or [**here**](https://pokt-api.liquify.com/pokt/api/v1/supply/circulating) for a public endpoint showing the same.
+Other data providers, such as POKTscan, calculate the circulating supply of POKT by deducting the [DAO Treasury](https://poktscan.com/explore?tab=governance) from the total supply, as all DAO Treasury spending is subject to prior approval from the DAO. See [here](https://poktscan.com/explore?tab=supply) for POKTscan's calculation of the circulating supply, which they refer to as POKT’s “monetary base.” Or see [**here**](https://pokt-api.liquify.com/pokt/api/v1/supply/circulating) for a public endpoint showing the same.
 
-Ultimately, everyone in the community can decide for themselves. And to assist with any such analysis, all of the DAO and PNF-controlled wallets are listed below for the community's reference:
+For community reference, all of the DAO- and PNF-controlled wallets are listed below:
 
 * the [DAO Treasury](https://poktscan.com/explore?tab=governance),&#x20;
 * the [DAO ERA Budget wallet](https://poktscan.com/account/4e67bdb7d099c8a754b22c852a9fe140b7d47849) (containing all POKT to fund upcoming [ERA expenses](https://forum.pokt.network/t/pep-60-enabling-responsible-allocation-of-budget-era-budget/4443)), &#x20;
@@ -54,12 +54,12 @@ Ultimately, everyone in the community can decide for themselves. And to assist w
 
 ## Supply projections for POKT
 
-The main drivers on the supply of POKT are:
+The main drivers of the supply of POKT are:
 
-1. The amount of POKT paid out to node runners, which is projected to reduce in POKT terms as the price of POKT increases (to target an approximate USD profit margin for node runners, albeit this is subject to a DAO proposal to change/update),
-2. The number of relays and the price charged to gateways for each relay served as every relay results in the burning of POKT
+1. The amount of POKT paid to node runners, which is projected to reduce in POKT terms as the price of POKT increases (to target an approximate USD profit margin for node runners, albeit this is subject to a DAO proposal to change/update).
+2. The number of relays and the price charged to gateways for each relay served as every relay results in the burning of POKT.
 
-Below are some graphs illustrating the potential supply growth for POKT over time and how that impacts the total supply for POKT. Please note that these projections are based on a USD/POKT price of $0.15 and 60 B relays by day in 2028.
+The graphs below illustrate the potential supply growth for POKT over time and how that impacts the total supply of POKT. Please note that these projections are based on a USD/POKT price of $0.15 and 60b relays by day in 2028.
 
 
 
