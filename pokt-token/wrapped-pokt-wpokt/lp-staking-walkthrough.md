@@ -4,9 +4,9 @@ For a different format, see the original twitter thread [here.](https://twitter.
 
 For a full video walkthrough:
 
-[https://github.com/pokt-foundation/docs/assets/6369871/9eef4b3f-9d9d-4b5f-9876-35ce1a120f4c](https://github.com/pokt-foundation/docs/assets/6369871/9eef4b3f-9d9d-4b5f-9876-35ce1a120f4c)
+{% embed url="https://github.com/pokt-foundation/docs/assets/6369871/9eef4b3f-9d9d-4b5f-9876-35ce1a120f4c" %}
 
-#### wPOKT / ETH Liquidity Pools on Uniswap <a href="#wpokt--eth-liquidity-pools-on-uniswap" id="wpokt--eth-liquidity-pools-on-uniswap"></a>
+### wPOKT / ETH Liquidity Pools on Uniswap <a href="#wpokt--eth-liquidity-pools-on-uniswap" id="wpokt--eth-liquidity-pools-on-uniswap"></a>
 
 The wPOKT/ETH liquidity pool on Uniswap is now open.
 

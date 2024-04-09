@@ -63,8 +63,8 @@
 * [Hold POKT In a Wallet](pokt-token/hold-pokt-in-a-wallet.md)
 * [Stake POKT](pokt-token/stake-pokt.md)
 * [Wrapped POKT (wPOKT)](pokt-token/wrapped-pokt-wpokt/README.md)
-  * [Bridging Walkthrough](pokt-token/wrapped-pokt-wpokt/bridging-walkthrough.md)
-  * [Bridging FAQ](pokt-token/wrapped-pokt-wpokt/bridging-faq.md)
+  * [Wrapping Walkthrough](pokt-token/wrapped-pokt-wpokt/wrapping-walkthrough.md)
+  * [Wrapping and Unwrapping FAQ](pokt-token/wrapped-pokt-wpokt/wrapping-and-unwrapping-faq.md)
   * [LP Staking Walkthrough](pokt-token/wrapped-pokt-wpokt/lp-staking-walkthrough.md)
   * [Liquidity Provider Staking FAQ](pokt-token/wrapped-pokt-wpokt/liquidity-provider-staking-faq.md)
 

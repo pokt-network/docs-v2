@@ -6,7 +6,6 @@ In this section, we’ll describe some different wallets that can store and mana
 
 * [Pocket Wallet](hold-pokt-in-a-wallet.md#pocket-wallet)
 * [Pocket Ledger Wallet](hold-pokt-in-a-wallet.md#pocket-ledger-wallet)
-* [SendWallet](hold-pokt-in-a-wallet.md#sendwallet)
 * [NodeWallet](hold-pokt-in-a-wallet.md#nodewallet)
 
 ### Pocket Wallet <a href="#pocket-wallet" id="pocket-wallet"></a>
@@ -16,22 +15,6 @@ You can use the [official wallet web app](https://wallet.pokt.network/) to creat
 ### Pocket Ledger Wallet <a href="#pocket-ledger-wallet" id="pocket-ledger-wallet"></a>
 
 This is the ledger integration for the Pocket Wallet. It is currently the only way to interact with Ledger, although this may change over the coming months. Step-by-step guide available here.
-
-### SendWallet <a href="#sendwallet" id="sendwallet"></a>
-
-[SendWallet](https://sendwallet.net/) is a browser-based Pocket Network wallet built by [SendNodes](https://sendnodes.io/) that is available as a browser extension for [Chrome](https://chrome.google.com/webstore/detail/sendwallet/adganlhbinonbpfiehjjpmklkbghkaio?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sendwallet/).
-
-SendWallet includes a custodial staking option.
-
-SendWallet features:
-
-* Import using the Key File from a Pocket Wallet
-* Import using a private key
-* Generate multiple wallet addresses with one account
-* Recovery phrase to recover wallet
-* Full screen option
-
-For more information, see the [SendWallet documentation](https://docs.sendwallet.net/).
 
 ### NodeWallet <a href="#nodewallet" id="nodewallet"></a>
 

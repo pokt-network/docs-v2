@@ -1,40 +1,44 @@
-# Bridging Walkthrough
+# Wrapping Walkthrough
 
 Written by [POKT News](https://twitter.com/PoktNews/status/1709884757973037221).
 
 {% hint style="info" %}
 **Note**
 
-You will be required to sign 2 transactions, first to deposit your POKT and then to mint your wPOKT. We recommend you keep the modal open and stay in the app until both transactions have been confirmed. If you leave the app before both transactions complete, it will remain pending until you return and finish them.
+You will be required to sign 2 transactions, first to deposit your POKT and then to mint your wPOKT. We recommend you keep the modal open and stay in the app until both transactions have been confirmed. If you leave the app before both transactions complete, they will remain pending until you return and finish them.
 
-Make sure to read the FAQ before attempting to bridge, many common questions are answered [here](broken-reference).
+Make sure to read the FAQ before attempting to bridge as many common questions are answered [here](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/sC7vRmj1fRzIvz4vDUe3/).
 {% endhint %}
 
 ### Video Walkthroughs <a href="#video-walkthroughs" id="video-walkthroughs"></a>
 
 #### Bridging Process <a href="#bridging-process" id="bridging-process"></a>
 
+Wrapping POKT requires that you bridge your tokens from the POKT network to the Ethereum network.
+
 [https://github.com/pokt-foundation/docs/assets/6369871/3a44e15c-627a-43da-ae25-63e612fe9072](https://github.com/pokt-foundation/docs/assets/6369871/3a44e15c-627a-43da-ae25-63e612fe9072)
+
+{% embed url="https://github.com/pokt-foundation/docs/assets/6369871/3a44e15c-627a-43da-ae25-63e612fe9072" %}
 
 #### Minting Process <a href="#minting-process" id="minting-process"></a>
 
-[https://github.com/pokt-foundation/docs/assets/6369871/2045678b-2dfb-44ae-8c3a-3baa751fa6d2](https://github.com/pokt-foundation/docs/assets/6369871/2045678b-2dfb-44ae-8c3a-3baa751fa6d2)
+{% embed url="https://github.com/pokt-foundation/docs/assets/6369871/2045678b-2dfb-44ae-8c3a-3baa751fa6d2" %}
 
-### Written Guide to wrapping $POKT <a href="#written-guide-to-wrapping-pokt" id="written-guide-to-wrapping-pokt"></a>
+### Written Guide on wrapping $POKT <a href="#written-guide-to-wrapping-pokt" id="written-guide-to-wrapping-pokt"></a>
 
-For this tutorial, we’ll use a Ledger Nano S for POKT and MetaMask for the wPOKT. Alternative options for POKT include SendWallet and NodeWallet (read more [here](broken-reference)).
+For this tutorial, we’ll use a Ledger Nano S for POKT, and MetaMask for wPOKT. Another option for POKT is NodeWallet.
 
 1. Go to [http://wpokt.network](http://wpokt.network/) and connect your Pocket Wallet using your Ledger.
 
 [https://github.com/pokt-foundation/docs/assets/6369871/4b6565bb-4d19-402c-9551-c7d39a2eab78](https://github.com/pokt-foundation/docs/assets/6369871/4b6565bb-4d19-402c-9551-c7d39a2eab78)
 
-2. Then, connect your Ethereum Wallet, we’re using MetaMask.
+2. Then, connect your Ethereum Wallet; we’re using MetaMask.
 
 [https://github.com/pokt-foundation/docs/assets/6369871/42d77a5c-df1b-4052-b45b-9dab81366e31](https://github.com/pokt-foundation/docs/assets/6369871/42d77a5c-df1b-4052-b45b-9dab81366e31)
 
 Once connected, you should see both your POKT and wPOKT (if any) balances.[![3-balances](https://github.com/pokt-foundation/docs/assets/6369871/d79fa309-b5a2-49b5-ac52-c35d4f23ab08)](https://github.com/pokt-foundation/docs/assets/6369871/d79fa309-b5a2-49b5-ac52-c35d4f23ab08)
 
-3.  Time to wrap some POKT! If you’re experienced you may feel comfortable wrapping a larger amount, but we recommend testing with a smaller amount.
+3.  Time to wrap some POKT! If you’re experienced, you may feel comfortable wrapping a larger amount, but we recommend testing with a small amount.
 
     Input the amount of POKT you want to wrap. Click ‘Wrap’ and follow the prompt to sign and approve the transaction on your ledger.
 
@@ -48,7 +52,7 @@ Once connected, you should see both your POKT and wPOKT (if any) balances.[![3-b
 {% hint style="info" %}
 **Note:**
 
-If you accidentally (or purposefully) close the page, simply reconnect both wallets (using the same applications). You’ll be prompted to complete the process where you left off.
+If you accidentally (or purposefully) close the page, simply reconnect both wallets (using the same applications). You’ll be prompted to continue the process where you left off.
 {% endhint %}
 
 [![note-closedpage](https://github.com/pokt-foundation/docs/assets/6369871/bf875451-8915-469c-b8d4-4943fe36625f)](https://github.com/pokt-foundation/docs/assets/6369871/bf875451-8915-469c-b8d4-4943fe36625f)

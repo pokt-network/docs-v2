@@ -8,21 +8,21 @@ description: >-
 
 ### [Use a Public Endpoint ](public-endpoints.md)
 
-**Description:** Free but rate-limited endpoint hosted by a third-party
+**Description:** Free but rate-limited endpoint hosted by a third party
 
 **Best for:** Wallet users, hackathon developers, anyone sampling POKT's service
 
 **Cost:** Free
 
 {% hint style="info" %}
-Find our list of [supported chains](../reference/supported-chains.md) and [API definition](../reference/api-definition.md) in the reference section.&#x20;
+See list of [supported chains](../reference/supported-chains.md) and [API definition](../reference/api-definition.md).&#x20;
 {% endhint %}
 
 ***
 
 ### [Use a Gateway](use-a-gateway/)&#x20;
 
-**Description:** Web interface hosted by a third-party
+**Description:** Web interface hosted by a third party
 
 **Best for:**  Developers looking for convenience and value-add features
 
@@ -39,5 +39,5 @@ Find our list of [supported chains](../reference/supported-chains.md) and [API d
 **Cost:**  Self-hosting costs + $0.85 per million relays
 
 {% hint style="info" %}
-**View Supported Chains:** A list of supported chains can be found on the [Supported Chains Page. ](broken-reference)
+See list of [supported chains. ](../reference/supported-chains.md)
 {% endhint %}

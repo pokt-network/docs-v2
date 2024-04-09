@@ -18,6 +18,6 @@ This is what we're working towards:
 
 ### Available Gateways&#x20;
 
-Visit [Grove's docs](https://docs.grove.city/guides/getting-started/welcome).[​](https://docs.grove.city/guides/getting-started/welcome#ready-to-get-started)&#x20;
+Visit [Grove's docs](https://docs.grove.city/guides/getting-started/welcome-to-grove).[​](https://docs.grove.city/guides/getting-started/welcome#ready-to-get-started)&#x20;
 
 Visit [NodiesDLB's docs](https://docs.nodies.app/).
