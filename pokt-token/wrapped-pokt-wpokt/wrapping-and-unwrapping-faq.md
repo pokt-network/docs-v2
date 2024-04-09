@@ -37,7 +37,7 @@ If the wPOKT isn’t in your wallet after 30 minutes, double check that you’ve
 * **Have you waited long enough?** End-to-end wrapping of POKT usually takes about 30 minutes. However, in some cases, it may take up to an hour.
 * **Have you added the wPOKT token address to MetaMask?** If your MetaMask wallet isn’t auto-populating the wPOKT address, you’ll need to add it manually. Follow the instructions [here](https://support.metamask.io/hc/en-us/articles/360015489031-How-to-display-tokens-in-MetaMask#h\_01FWH492CHY60HWPC28RW0872H). The wPOKT address is 0x67f4c72a50f8df6487720261e188f2abe83f57d7 and it should auto-populate once you've added it.
 
-If you've followed all of the above steps but still don't see your tokens, please contact us for support on our [Discord server](https://discord.com/channels/553741558869131266/1159177817574088724).
+If you've followed all of the above steps but still don't see your tokens, please contact us for support at the [Help Desk channel](https://discord.com/channels/553741558869131266/1168923397842022571) on our Discord server.
 
 ### How can I unwrap my wPOKT back to POKT? <a href="#how-can-i-unwrap-my-wpokt-back-to-pokt" id="how-can-i-unwrap-my-wpokt-back-to-pokt"></a>
 
@@ -54,7 +54,7 @@ Before getting started, note that the end-to-end unwrapping process is expected 
 * **Are you looking in the right place?** Make sure you are checking your POKT wallet for the balance, not your Ethereum wallet.
 * **Have you waited long enough?** An end-to-end unwrap of POKT is expected to take approximately 30 minutes. If it has not been 30 minutes or it has only recently turned 30 mins, please try waiting a little longer.
 
-If you have confirmed you’re looking in the right place and you have waited a little longer, but you still do not see your tokens, please contact us for support on our discord: discord.gg/pokt
+If you have confirmed you’re looking in the right place and you have waited a little longer, but you still do not see your tokens, please contact us at our Discord [Help Desk channel](https://discord.com/channels/553741558869131266/1168923397842022571).
 
 ### Why does the bridge take up to 30 mins? <a href="#why-does-the-bridge-take-up-to-30-mins" id="why-does-the-bridge-take-up-to-30-mins"></a>
 
