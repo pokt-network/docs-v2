@@ -28,22 +28,22 @@ While the price for wPOKT may diverge from the price of POKT from time to time d
 
 ### How do I wrap my POKT? <a href="#how-do-i-wrap-my-pokt" id="how-do-i-wrap-my-pokt"></a>
 
-Head over to the [wPOKT bridge](https://wpokt.network/), check out the bridging tutorial below, or refer to the wrapping FAQ for any questions.
+Head over to the [wPOKT bridge](https://wpokt.network/), and check out the wrapping tutorial and FAQ on wrapping and unwrapping linked below.
 
 ## Section Contents <a href="#section-contents" id="section-contents"></a>
 
-#### [FAQ - wPOKT Bridging](wrapping-and-unwrapping-faq.md)
+[Tutorial - Wrapping Walkthrough](wrapping-walkthrough.md)
 
-Guidance for bridging your POKT to Ethereum & back.
+Video and tutorial on how to wrap POKT.
 
-#### [Tutorial - wPOKT Bridging](wrapping-walkthrough.md)
+[FAQ - Wrapping and Unwrapping](wrapping-and-unwrapping-faq.md)
 
-How-to for bridging your POKT to Ethereum & back.
+Step-by-step instructions on bridging your POKT to Ethereum & back.
 
-#### [FAQ - wPOKT Liquidity Provider Staking](liquidity-provider-staking-faq.md)
+[FAQ - wPOKT Liquidity Provider Staking](liquidity-provider-staking-faq.md)
 
-Guidance for liquidity pool staking for your wrapped POKT.
+Guidance on liquidity-pool staking for your wrapped POKT.
 
-#### [Tutorial - wPOKT LP Staking](lp-staking-walkthrough.md)
+[Tutorial - wPOKT LP Staking](lp-staking-walkthrough.md)
 
-Guidance for liquidity pool staking for your wrapped POKT.
+Guidance on liquidity-pool staking for your wrapped POKT.
