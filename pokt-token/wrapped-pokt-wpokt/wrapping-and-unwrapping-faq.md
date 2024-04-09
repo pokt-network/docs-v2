@@ -43,20 +43,20 @@ If you've followed all of the above steps but still don't see your tokens, pleas
 
 Unwrapping wPOKT requires that you bridge your tokens from the Ethereum network back to the POKT network.
 
-End-to-end, the unwrapping process takes up to 30 mins.
+End-to-end, the unwrapping process takes up to about 30 mins.
 
-* Prepare to burn your wPOKT by connecting your Ethereum wallet to the bridge. Make sure your Ethereum wallet has some ETH for gas fees. If you don’t have enough gas, the bridge app will tell you.
-* Prepare to unwrap your POKT by connecting your Ledger, SendWallet, or NodeWallet.
+* Prepare to burn your wPOKT by connecting your Ethereum wallet to the bridge. Make sure your Ethereum wallet has some ETH for gas fees. If you don’t have enough ETH, the bridge app will tell you.
+* Prepare to unwrap your POKT by connecting your Ledger or NodeWallet.
 * You will not be able to initiate the unwrap transaction until you have connected both wallets.
-* Specify the amount of wPOKT tokens to unwrap into POKT tokens, then click Unwrap.
+* Specify the amount of wPOKT tokens to unwrap, then click Unwrap.
 * After \~30 minutes, you should receive your POKT.
 
 ### Why haven’t I received my POKT yet? <a href="#why-havent-i-received-my-pokt-yet" id="why-havent-i-received-my-pokt-yet"></a>
 
 * **Are you looking in the right place?** Make sure you are checking your POKT wallet for the balance, not your Ethereum wallet.
-* **Have you waited long enough?** An end-to-end unwrap of POKT is expected to take approximately 30 minutes. If it has not been 30 minutes or it has only recently turned 30 mins, please try waiting a little longer.
+* **Have you waited long enough?** The unwrap process can take about 30 minutes. If 30 minutes have passed, try waiting a little longer.
 
-If you have confirmed you’re looking in the right place and you have waited a little longer, but you still do not see your tokens, please contact us at our Discord [Help Desk channel](https://discord.com/channels/553741558869131266/1168923397842022571).
+If you have confirmed you’re looking in the right place and you have waited a bit longer, but you still do not see your tokens, please contact us at our Discord [Help Desk channel](https://discord.com/channels/553741558869131266/1168923397842022571).
 
 ### Why does the bridge take up to 30 mins? <a href="#why-does-the-bridge-take-up-to-30-mins" id="why-does-the-bridge-take-up-to-30-mins"></a>
 
