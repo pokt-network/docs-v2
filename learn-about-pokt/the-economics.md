@@ -56,7 +56,7 @@ For community reference, all of the DAO- and PNF-controlled wallets are listed b
 
 The main drivers of the supply of POKT are:
 
-1. The amount of POKT paid to node runners, which is projected to reduce in POKT terms as the price of POKT increases (to target an approximate USD profit margin for node runners, albeit this is subject to a DAO proposal to change/update).
+1. The amount of POKT paid to node runners, which is projected to drop in POKT terms as the price of POKT increases (to target an approximate USD profit margin for node runners, though any change/update requires a DAO vote).
 2. The number of relays and the price charged to gateways for each relay served as every relay results in the burning of POKT.
 
 The graphs below illustrate the potential supply growth for POKT over time and how that impacts the total supply of POKT. Please note that these projections are based on a USD/POKT price of $0.15 and 60b relays by day in 2028.
