@@ -17,7 +17,7 @@ The official POKT wallet does not have built-in support for wPOKT, but you can i
 Before getting started, note that the end-to-end wrapping process is expected to take \~30 mins, and that minting wPOKT will cost gas (in ETH).&#x20;
 {% endhint %}
 
-Prepare to wrap your POKT by connecting Ledger or NodeWallet to the bridge.
+As wrapping POKT requires that you bridge your tokens from the POKT network to the Ethereum network, start by by connecting your Ledger or NodeWallet to the bridge.
 
 * Prepare to mint your wPOKT by connecting your Ethereum wallet. Make sure your Ethereum wallet has some ETH for gas fees. If you don’t have enough ETH for gas, the bridge app will tell you.
 * You will not be able to initiate the wrap transaction until you have connected both wallets.
@@ -41,7 +41,9 @@ If you've followed all of the above steps but still don't see your tokens, pleas
 
 ### How can I unwrap my wPOKT back to POKT? <a href="#how-can-i-unwrap-my-wpokt-back-to-pokt" id="how-can-i-unwrap-my-wpokt-back-to-pokt"></a>
 
-Before getting started, note that the end-to-end unwrapping process is expected to take upwards of 30 mins.
+Unwrapping wPOKT requires that you bridge your tokens from the Ethereum network back to the POKT network.
+
+End-to-end, the unwrapping process takes up to 30 mins.
 
 * Prepare to burn your wPOKT by connecting your Ethereum wallet to the bridge. Make sure your Ethereum wallet has some ETH for gas fees. If you don’t have enough gas, the bridge app will tell you.
 * Prepare to unwrap your POKT by connecting your Ledger, SendWallet, or NodeWallet.
@@ -60,4 +62,4 @@ If you have confirmed you’re looking in the right place and you have waited a 
 
 * **Pocket Network block times.** Pocket Network blocks complete every 15 minutes. Depending on when you sign the transaction, it may take up to 15 minutes for your transaction to appear on-chain.
 * **Bridge validation time.** The wPOKT bridge verifies your request between chains. It takes up to 10 minutes to reach consensus and start a transaction on-chain.
-* **Ethereum block times.** Ethereum blocks complete every 12 seconds. For large balances, it is common to wait for up to 32 blocks before proceeding with a transaction.
+* **Ethereum block times.** Ethereum blocks complete every 12 seconds. For large balances, it is common to have to wait for up to 32 blocks before proceeding with a transaction.
