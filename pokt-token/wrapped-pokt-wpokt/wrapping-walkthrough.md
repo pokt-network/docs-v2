@@ -3,9 +3,7 @@
 Written by [POKT News](https://twitter.com/PoktNews/status/1709884757973037221).
 
 {% hint style="info" %}
-**Note**
-
-You will be required to sign 2 transactions, first to deposit your POKT and then to mint your wPOKT. We recommend you keep the modal open and stay in the app until both transactions have been confirmed. If you leave the app before both transactions complete, they will remain pending until you return and finish them.
+To wrap your POKT you'll be required to sign **2 transactions**, first to deposit your POKT and then to mint your wPOKT. We recommend you keep the modal open and stay in the app until both transactions have been confirmed. If you leave the app before both transactions complete, they will remain pending until you return and finish them.
 
 Make sure to read the FAQ before attempting to bridge as many common questions are answered [here](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/sC7vRmj1fRzIvz4vDUe3/).
 {% endhint %}
