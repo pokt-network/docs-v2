@@ -13,6 +13,7 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | Name                                       | Portal API Prefix         | ServiceID |
 | ------------------------------------------ | ------------------------- | --------- |
 | Arbitrum One                               | arbitrum-one              | 0066      |
+| Arbitrum Sepolia Archival                  | arbitrum-sepolia-archival | A086      |
 | AVAX                                       | avax-mainnet              | 0003      |
 | AVAX Archival                              | avax-archival             | A003      |
 | BOBA Mainnet                               | boba-mainnet              | 0048      |
@@ -55,8 +56,10 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | Oasys Mainnet Archival                     | oasys-mainnet-archival    | 0069      |
 | Optimism Mainnet                           | optimism-mainnet          | 0053      |
 | Optimism Archival                          | optimism-archival         | A053      |
+| Optimism Sepolia Archival                  | optimism-sepolia-archival | A087      |
 | Osmosis Mainnet                            | osmosis-mainnet           | 0054      |
 | Pocket Network Mainnet                     | mainnet                   | 0001      |
+| Polygon Amoy Testnet Archival              | amoy-testnet-archival     | A085      |
 | Polygon Matic                              | poly-mainnet              | 0009      |
 | Polygon Matic Archival                     | poly-archival             | 000B      |
 | Polygon Mumbai                             | polygon-mumbai            | 000F      |
