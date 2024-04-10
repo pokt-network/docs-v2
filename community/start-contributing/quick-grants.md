@@ -4,9 +4,9 @@
 
 These are small seed or experimental grants to support builders and contributors who have ideas about how to drive impact towards the priorities of POKT Network. Innovation in POKT should as much as possible be permissionless.
 
-They are open to anyone in our community who comes with measurable initiatives that we can keep them accountable to. These move the responsibility for contributors to write great proposals and being part-time politicians, to what actually matters - [generating impact](https://forum.pokt.network/t/contributions-path-to-impact/5038) through work and execution. We have a term for this: _Evidence > Confidence_.
+Quick Grants are open to anyone in our community who comes with measurable initiatives for which we can hold them accountable. These move the responsibility for contributors to write great proposals and being part-time politicians, to what actually matters - [generating impact](https://forum.pokt.network/t/contributions-path-to-impact/5038) through work and execution. We have a term for this: _Evidence > Confidence_.
 
-Quick grants are spun up quickly to support action and experimentation, and are spun down just as quickly when the grant is no longer generating ROI for the DAO (or has proved in the affirmative or negative whatever the experiment set out to define).
+Quick Grants are spun up quickly to support action and experimentation, and are wound down just as quickly once the grant is no longer generating ROI for the DAO, or has proven or disproved whatever the experiment had set out to establish.
 
 ***
 
