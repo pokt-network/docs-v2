@@ -25,7 +25,7 @@ There are three bounty types:
 * Multiple Submissions&#x20;
   * Anyone who wants to contribute can submit the requested deliverable without having to apply first. The person who opens the bounty should stipulate if there will be one or multiple winners.
 * Assigned
-  * Used to assign a bounty directly to a contributor (could be a small job that results from direct talks with PNF and is constituted as a bounty to enable public tracking of performance and payment)
+  * Used to assign a bounty directly to a contributor (could be a small job created in direct talks with PNF and is constituted as a bounty to enable public tracking of performance and payment)
 
 #### **Bounty Status**
 
