@@ -23,7 +23,7 @@ There are three bounty types:
 * Open to Applications
   * Interested contributors have to apply for the bounty, and whoever has opened it, will review the applications and assign it. There can be one or multiple winners.
 * Multiple Submissions&#x20;
-  * Anyone who wants to contribute can submit the requested deliverable without having to apply first. The person who opens the bounty should stipulate if there will be one or multiple winners.
+  * Anyone who wants to contribute can submit the requested deliverable without having to apply first. The person who creates the bounty should stipulate if there will be one or multiple winners.
 * Assigned
   * Used to assign a bounty directly to a contributor (could be a small job created in direct talks with PNF and is constituted as a bounty to enable public tracking of performance and payment)
 
@@ -39,7 +39,7 @@ All materials must be delivered within the bounty board post, or if applicable, 
 
 Submissions must meet all requirements or they’ll be automatically disqualified. All requirements should be CLEARLY LABELED and easily identified.
 
-The person who opened the bounty is responsible for approval of the submission and payment.
+The person who created the bounty is responsible for approval of the submissions.
 
 #### **Bounty Payments**
 
