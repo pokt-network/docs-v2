@@ -51,7 +51,7 @@ You can learn more about Quick Grants and the broader "Grants, Rewards, Opportun
 
 ·         If you’re new to the ecosystem (e.g. have no proof of previous impact), your first payment will be made after your first successful monthly Quick Grant review, that is, where your work is found to have had the promised impact. Failure to report will result in automatic closure of the grant and no payment will be made.
 
-·         If there is no impact, your Quick Grant may be closed and a one-time payment may or may not be made at the discretion of PNF. The goal is to prevent bad actors from taking advantage of the system, but at the same time not stifle innovation or penalize experimentation.
+·         If there is no impact, your Quick Grant may be closed and a one-time payment may or may not be made at the discretion of PNF. The goal is to prevent bad actors from taking advantage of the system, but at the same time not discourage innovation and experimentation.
 
 ·         Upon first successful review, you’ll move to the same payment mode as other contributors: a daily [payment stream](https://hedgey.finance/) from the DAO that continues until the Quick Grant is closed.
 
