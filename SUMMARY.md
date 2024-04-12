@@ -32,6 +32,7 @@
 
 * [Host a Gateway](gateways/host-a-gateway/README.md)
   * [Gateway Server](gateways/host-a-gateway/gateway-server.md)
+  * [Quick Onboarding Guide](gateways/host-a-gateway/quick-onboarding-guide.md)
   * [Node Selection](gateways/host-a-gateway/node-selection.md)
   * [API Endpoints](gateways/host-a-gateway/api-endpoints.md)
   * [Relay Process](gateways/host-a-gateway/relay-process.md)
