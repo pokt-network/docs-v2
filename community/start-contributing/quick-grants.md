@@ -33,22 +33,35 @@ You can learn more about Quick Grants and the broader "Grants, Rewards, Opportun
 
 ### Quick Grants - Mechanism Details
 
-1. Quick Grants are **fully self-directed**.&#x20;
+1. Quick Grants are **fully self-directed.**&#x20;
 
-* Quick Grant applicants must be able to complete their work without PNF assistance, or where the work is contingent on others, applicants must ensure their cooperation before applying.
-* Quick Grant recipients must be able to fulfill their commitments each month. This can be a challenge - being self-directed is not for everyone. Where necessary, they can get help from others, but they should not expect any from PNF (though PNF will lend support where it can).&#x20;
+**·**          Quick Grant applicants must be able to complete their work without PNF assistance, or where the work is contingent on others, applicants must ensure their cooperation before applying.
 
-1. Quick Grants need **regular reporting** and **regular reviews** to be effective.
-   * Contributors whose Quick Grants are approved before the 25th of the month must self-report by the last day of the same month. Failure to do so will result in automatic closure of the grant during the review cycle.
-   * PNF’s Head of Community will review all Quick Grants during the first full week of every month and leave an update in the forum.&#x20;
-   * PNF will close Quick Grants that are not delivering impact, or reduce funding for those whose impact falls short.&#x20;
-2. Your **historical impact** (aka reputation) affects payment structure:
-   * If you’re new to the ecosystem (e.g. have no proof of previous impact), your first payment will be made after your first successful monthly Quick Grant review, that is, where your work is found to have had the promised impact. Failure to report will result in automatic closure of the grant and no payment will be made.
-   * If there is no impact, your Quick Grant may be closed and a one-time payment may or may not be made at the discretion of PNF. The idea is to prevent bad actors from taking advantage of the system, but at the same time not stifle innovation or penalize experimentation.
-   * Upon first successful review, you’ll move to the same payment mode as other contributors: a daily [payment stream](https://hedgey.finance/) from the DAO that continues until the Quick Grant is closed.
-3. The **value** of a Quick Grant is evaluated and approved by the Foundation. We want to ensure that the value is in line with the expected impact, not just the highest amount available.
-   * Quick Grant applicants should suggest a pay rate for their Quick Grant, though PNF will have the final say. If PNF balks at the suggested rate, the applicant is free to negotiate or withdraw.
-4. Quick Grants will start on the 1st and 15th of the month, and will be paid in stables. It can take PNF up to about five days to set up new grants.
+**·**        Quick Grant recipients must be able to fulfill their commitments each month. This can be a challenge - being self-directed is not for everyone. Where necessary, they can get help from others, but they should not expect any from PNF (though PNF will lend support where it can).
+
+2\.      Quick Grants need **regular reporting** and **regular reviews** to be effective.
+
+·         Contributors whose Quick Grants are approved before the 25th of the month must self-report by the last day of the same month. Failure to do so will result in automatic closure of the grant during the review cycle.
+
+·         PNF’s Head of Community will review all Quick Grants during the first full week of every month and leave an update in the forum.
+
+·         PNF will close Quick Grants that are not delivering impact, or reduce funding for those whose impact falls short.
+
+3\.      Your **historical impact** (aka reputation) affects payment structure:
+
+·         If you’re new to the ecosystem (e.g. have no proof of previous impact), your first payment will be made after your first successful monthly Quick Grant review, that is, where your work is found to have had the promised impact. Failure to report will result in automatic closure of the grant and no payment will be made.
+
+·         If there is no impact, your Quick Grant may be closed and a one-time payment may or may not be made at the discretion of PNF. The idea is to prevent bad actors from taking advantage of the system, but at the same time not stifle innovation or penalize experimentation.
+
+·         Upon first successful review, you’ll move to the same payment mode as other contributors: a daily [payment stream](https://hedgey.finance/) from the DAO that continues until the Quick Grant is closed.
+
+4\.      The **value** of a Quick Grant is evaluated and approved by the Foundation. We want to ensure that the value is in line with the expected impact, not just the highest amount available.
+
+·         Quick Grant applicants should suggest a pay rate for their Quick Grant, though PNF will have the final say. If PNF balks at the suggested rate, the applicant is free to negotiate or withdraw.
+
+5\.      Quick Grants will start on the 1st and 15th of the month, and will be paid in stables. It can take PNF up to about five days to set up new grants.
+
+
 
 For a good example of a Quick Grant, with reporting and community feedback, see the [POKTNews Socket](https://forum.pokt.network/t/closed-poktnews-plugs-into-the-socket/4058).
 
