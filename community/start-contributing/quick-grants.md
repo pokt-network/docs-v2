@@ -47,6 +47,8 @@ You can learn more about Quick Grants and the broader "Grants, Rewards, Opportun
 
 ·         PNF will close Quick Grants that are not delivering impact, or reduce funding for those whose impact falls short.
 
+&#x20;·        PNF uses a new impact evaluation and reporting tool called [Karma Gap](https://gap.karmahq.xyz/my-projects/). Grant recipients are asked to open a grant in Karma to track their work.
+
 3\.      Your **historical impact** (aka reputation) affects payment structure:
 
 ·         If you’re new to the ecosystem (e.g. have no proof of previous impact), your first payment will be made after your first successful monthly Quick Grant review, that is, where your work is found to have had the promised impact. Failure to report will result in automatic closure of the grant and no payment will be made.
