@@ -47,7 +47,7 @@ You can learn more about Quick Grants and the broader "Grants, Rewards, Opportun
 
 ·         PNF will close Quick Grants that are not delivering impact, or reduce funding for those whose impact falls short.
 
-&#x20;·        PNF uses a new impact evaluation and reporting tool called [Karma Gap](https://gap.karmahq.xyz/my-projects/). Grant recipients are asked to open a grant in Karma to track their work.
+&#x20;·        PNF uses a new impact evaluation and reporting tool called Karma Gap. Grant recipients are asked to open a grant in Karma [here](https://gap.karmahq.xyz/pokt) to track their work.
 
 3\.      Your **historical impact** (aka reputation) affects payment structure:
 
