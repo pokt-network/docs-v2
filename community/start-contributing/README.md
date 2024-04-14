@@ -2,7 +2,7 @@
 
 We have developed several ways for anyone to contribute to Pocket Network and get paid. Creativity and enterprise are rewarded. To find or make an opportunity for yourself, you'll need to know our needs and priorities.&#x20;
 
-An important first step to becoming a contributor is to understand our [POKT DNA](https://docs.pokt.network/learn-about-pokt/our-dna), our [DAO OS](https://docs.pokt.network/community/dao-os), and our [governance](https://docs.pokt.network/community/governance). Get to know what's happening in the ecosystem by joining our [Discord server](https://discord.gg/ZemPunvQ) and attending our weekly Community Calls at 12 noon ET on Wednesdays (the [link](https://discord.com/channels/553741558869131266/1204567822622269521) is under the Community category on Discord). The deeper your knowledge of our protocol and ecosystem, the better your ability  to see where you can add value.
+An important first step to becoming a contributor is to understand our [POKT DNA](https://docs.pokt.network/learn-about-pokt/our-dna), our [DAO OS](https://docs.pokt.network/community/dao-os), and our [governance](https://docs.pokt.network/community/governance). Get to know what's happening in the ecosystem by joining our [Discord server](https://discord.gg/ZemPunvQ) and attending our weekly Community Calls at 12 noon ET on Wednesdays (the [channel](https://discord.com/channels/553741558869131266/956576599875149824) is under the Community category on Discord). The deeper your knowledge of our protocol and ecosystem, the better your ability  to see where you can add value.
 
 ### [Bounties](bounties.md)&#x20;
 
