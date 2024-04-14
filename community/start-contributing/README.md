@@ -8,18 +8,22 @@ An important first step to becoming a contributor is to understand our [POKT DNA
 
 Ideal for newcomers to the ecosystem, these are small, bite-size projects that will begin to build the reputation you'll need to advance to greater involvement.&#x20;
 
-### [**Quick Grants (formerly Sockets)**](quick-grants.md)&#x20;
+### [Quick Grants](https://docs.pokt.network/community/start-contributing/quick-grants)
 
-Contributors can access monthly funding for experiments and new initiatives in a mostly permissionless way.&#x20;
+Contributors can access monthly funding for experiments and new initiatives in a mostly permissionless way. (Formerly known as Sockets)
 
-### [Open RFPs **(formerly Open Priorities or POPs)**](rfps.md)
+### [Requests for Proposals (RFPs)](https://docs.pokt.network/community/start-contributing/rfps)
 
-Pocket Network Foundation regularly opens RFPs for the highest priority work in our ecosystem. This creates a credibly neutral way to allot work across key priorities and allows new talent to enter the ecosystem in meaningful ways.
+Pocket Network Foundation regularly opens RFPs for the highest priority work in our ecosystem. This creates a credibly neutral way to allot work across key priorities and allows new talent to enter the ecosystem in meaningful ways. (Formerly known as POPs or Open Priorities)
 
 ### [Maintainers](maintainers.md)&#x20;
 
-For ongoing maintenance of tools or services supported by the DAO. Typically filled by active community members, these roles are allocated based on impact history and proven abilities.
+For ongoing maintenance of tools or services supported by the DAO. Typically filled by active community members, these roles are allocated based on impact history and proven abilities[.](https://docs.pokt.network/community/start-contributing/retroactive-funding-and-grants)
 
-### [Retroactive Public Goods (RPG)](https://docs.pokt.network/community/start-contributing/retroactive-funding-and-grants)
+### [Retroactive Funding & Grants (RFGs)](https://docs.pokt.network/community/start-contributing/retroactive-funding-and-grants)
 
-Subject to DAO approval of the [related proposal](https://forum.pokt.network/t/pep-72-retroactive-pokt-goods-funding-rpgf/5187), the first round of our retroactive grant and funding mechanism will commence in May 2024. Please keep an eye on the forum thread or our POKT Twitter feed to find out more.
+Subject to DAO approval of the [related proposal](https://forum.pokt.network/t/pep-72-retroactive-pokt-goods-funding-rpgf/5187) in the forum, the first round of our retroactive grant and funding mechanism will commence in May 2024. Please keep an eye on the linked forum thread or our POKT Twitter feed to find out more.
+
+
+
+The DAO and Pocket Network Foundation are constantly evolving new says to encourage and reward impactful contributions to the ecosystem.
