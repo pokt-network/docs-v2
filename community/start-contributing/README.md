@@ -26,4 +26,4 @@ Subject to DAO approval of the [related proposal](https://forum.pokt.network/t/p
 
 
 
-The DAO and Pocket Network Foundation are constantly evolving new says to encourage and reward impactful contributions to the ecosystem.
+The DAO and Pocket Network Foundation are constantly evolving new ways to encourage and reward impactful contributions to the ecosystem.
