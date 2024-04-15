@@ -4,7 +4,7 @@
 
 These are small seed or experimentation grants to support builders and contributors who have ideas on how to help realize the priorities of POKT Network. Innovation in POKT should as much as possible be permissionless.
 
-Quick Grants (formerly known as Sockets) are open to anyone in our community with initiatives that have measurable outcomes for which we can hold them accountable. The are meant to get contributors to focus on what really matters - [generating impact](https://forum.pokt.network/t/contributions-path-to-impact/5038) through work and execution. We have a term for this: _Evidence over Confidence_.
+Quick Grants (formerly known as Sockets) are open to anyone in our community with initiatives that have measurable outcomes for which we can hold them accountable. They are meant to get contributors to focus on what really matters - [generating impact](https://forum.pokt.network/t/contributions-path-to-impact/5038) through work and execution. We have a term for this: _Evidence over Confidence_.
 
 Quick Grants are spun up quickly to support action and experimentation, and are wound down just as quickly once they stop generating ROI for the DAO, or the experiment has concluded.
 
