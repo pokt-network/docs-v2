@@ -21,6 +21,7 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | Base Testnet                               | base-fullnode-testnet     | 0080      |
 | Binance Smart Chain                        | bsc-mainnet               | 0004      |
 | Binance Smart Chain (Archival)             | bsc-archival              | 0010      |
+| BNB Archival (OP)                          | op-bnb-archival           | A089      |
 | Celestia Archival                          | celestia-archival         | A0CA      |
 | Celo Mainnet                               | celo-mainnet              | 0065      |
 | DFKchain Subnet                            | avax-dfk                  | 03DF      |
@@ -32,6 +33,7 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | Ethereum Mainnet High Gas                  | ethereum-mainnet-high-gas | 0062      |
 | Evmos Mainnet                              | evmos-mainnet             | 0046      |
 | Fantom Mainnet                             | fantom-mainnet            | 0049      |
+| Frax Archival                              | frax-archival             | A088      |
 | Fuse                                       | fuse-mainnet              | 0005      |
 | Fuse Archival                              | fuse-archival             | 000A      |
 | Gnosis Chain Mainnet                       | gnosischain-mainnet       | 0027      |
