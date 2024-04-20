@@ -6,7 +6,7 @@ These are small seed or experimentation grants to support builders and contribut
 
 Quick Grants (formerly known as Sockets) are open to anyone in our community with initiatives that have measurable outcomes for which we can hold them accountable. They are meant to get contributors to focus on what really matters - [generating impact](https://forum.pokt.network/t/contributions-path-to-impact/5038) through work and execution. We have a term for this: _Evidence over Confidence_.
 
-Quick Grants are spun up quickly to support action and experimentation, and are wound down just as quickly once they stop generating ROI for the DAO, or the experiment has concluded.
+Quick Grants are spun up quickly to support action and experimentation, and are wound down just as quickly once they stop generating ROI for the DAO, or the experiment has concluded.&#x20;
 
 ***
 
@@ -41,13 +41,13 @@ You can learn more about Quick Grants and the broader "Grants, Rewards, Opportun
 
 2\.      Quick Grants need **regular reporting** and **regular reviews** to be effective.
 
-·         Contributors whose Quick Grants are approved before the 25th of the month must self-report by the last day of the same month. Failure to do so will result in automatic closure of the grant during the review cycle.
+·         PNF uses a new impact evaluation and reporting tool called Karma Gap. Grant recipients are asked to open a grant in Karma [here](https://gap.karmahq.xyz/pokt) to track their work. Please follow the step-by-step instructions [here](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/HVZ3BQcmJhVmXh7fy6xP/\~/changes/108/community/start-contributing/how-to-use-karma-gap) to add your grant to the POKT Community in Karma GAP.&#x20;
+
+&#x20;·         Contributors whose Quick Grants are approved before the 25th of the month must self-report by the last day of the same month. Failure to do so will result in automatic closure of the grant during the review cycle.
 
 ·         PNF’s Head of Community will review all Quick Grants during the first full week of every month and leave an update in the forum.
 
-·         PNF will close Quick Grants that are not delivering impact, or reduce funding for those whose impact falls short.
-
-&#x20;·        PNF uses a new impact evaluation and reporting tool called Karma Gap. Grant recipients are asked to open a grant in Karma [here](https://gap.karmahq.xyz/pokt) to track their work.
+·         PNF will close Quick Grants that are not delivering impact, or reduce funding where impact falls short.
 
 3\.      Your **historical impact** (aka reputation) affects payment structure:
 
