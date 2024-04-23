@@ -1,20 +1,20 @@
 # Part 4 - Proxy Configuration
 
-### Setup SSL <a href="#setup-ssl" id="setup-ssl"></a>
+### SSL Setup <a href="#setup-ssl" id="setup-ssl"></a>
 
-Pocket requires that nodes have an SSL certificate for secure communications. SSL ([Secure Sockets Layer](https://www.cloudflare.com/learning/ssl/what-is-ssl/)) is a layer of security that sits on top of TCP/IP. It’s used to encrypt the data sent between a client and a server. To use SSL, you need to have a certificate and a key. Thankfully, getting an SSL certificate is straightforward and free.
+Pocket requires that nodes have an SSL ([Secure Sockets Layer](https://www.cloudflare.com/learning/ssl/what-is-ssl/)) certificate for secure communications. SSL is a layer of security that sits on top of TCP/IP ([Internet Protocol Suite](https://en.wikipedia.org/wiki/Internet\_protocol\_suite)). It’s used to encrypt the data sent between a client and a server. To use SSL, you need to have a certificate and a key. Thankfully, getting an SSL certificate and key is straightforward and free.
 
-To get a certificate, we’ll be using [Let’s Encrypt](https://letsencrypt.org/) which is a service that issues SSL certificates for free. We’ll also be using software called [certbot](https://certbot.eff.org/) to register, install, and renew the certificate.
+To get a certificate, we’ll be using[ Let’s Encrypt](https://letsencrypt.org/), which is a service that issues SSL certificates for free. We’ll also be using software called[ certbot](https://certbot.eff.org/) to register, install, and renew the certificate.
 
 #### Registering an SSL certificate <a href="#registering-an-ssl-certificate" id="registering-an-ssl-certificate"></a>
 
-We installed certbot in a previous step so we just need to use it to request a certificate.
+We installed certbot in a previous step; now we’ll use it to request a certificate.
 
-To get a certificate, we’ll need to use the `certbot` command with the following options:
+To get a certificate, we’ll need to use the certbot command with the following options:
 
 * `--register-unsafely-without-email`: This option is required to get a certificate without an email address.
 * `--agree-tos`: This option is required to agree to the Let’s Encrypt Terms of Service.
-* `--nginx`: This option is required to use the nginx plugin.
+* `--nginx`: This option is required to use the Nginx plugin.
 * `--no-redirect`: This option is required to disable the redirect to the Let’s Encrypt website.
 * `--domain`: This option is required to specify the domain name.
 
@@ -30,9 +30,9 @@ The output from this command should confirm that the certificate was successfull
 
 #### Testing your certificate <a href="#testing-your-certificate" id="testing-your-certificate"></a>
 
-To be sure, you’ll also want to test that the certificate is working.
+To be sure, you’ll want to test that the certificate is working.
 
-There is a command that certbot provides to test your certificate. It’s used for testing the auto-renewal of the certificate but it also confirms that the certificate is working. You can run it using the following command:
+The command that certbot provides to test the auto-renewal of the certificate also confirms that the certificate is working. You can run it using the following command:
 
 CommandResponse
 
@@ -44,15 +44,15 @@ The resulting output should confirm that the certificate is working.
 
 ### Configure Nginx <a href="#configure-nginx" id="configure-nginx"></a>
 
-Nginx is a web server. We installed it in a previous step but we need to do some additional configuration.
+Nginx is a web server. We installed it in a previous step but now we need to reconfigure it.
 
-Nginx uses config files to define servers and routes for incoming requests. For Pocket nodes, nginx needs to relay public requests to a local HTTP server that pocket core is running. This is referred to as the proxy. We’ll also need to proxy requests made by the Pocket CLI. For example, when we run the command `pocket query height`, the CLI makes an http request to the node’s local HTTP server.
+Nginx uses config files to define servers and routes for incoming requests. For Pocket nodes, Nginx needs to relay public requests to a local HTTP server that Pocket Core is running. This is referred to as the proxy. We’ll also need to proxy requests made by the Pocket CLI. For example, when we run the command pocket query height, the CLI makes an HTTP request to the node’s local HTTP server.
 
-#### Config files <a href="#config-files" id="config-files"></a>
+**Config files**
 
-The nginx configuration files we’re interested in are located in the `/etc/nginx/sites-available/` directory. In that directory there is a default configuration file named `default`. This is the configuration that is created when you install nginx, but we’ll be creating our own for our node.
+The Nginx configuration files we’re interested in are located in the /etc/nginx/sites-available/ directory. In that directory there's a default configuration file named "default." This is the configuration that comes with the Nginx install, but we’ll be creating our own for our node.
 
-To configure nginx:
+To configure Nginx:
 
 1.  Confirm the name of your SSL certificate:
 
@@ -126,7 +126,7 @@ To configure nginx:
     ```
 4. Save the change with `Ctrl+O`.
 5. Exit nano with `Ctrl+X`.
-6.  Stop nginx with:
+6.  Stop Nginx with:
 
     ```bash
     sudo systemctl stop nginx
@@ -141,7 +141,7 @@ To configure nginx:
     ```bash
     sudo ln -s /etc/nginx/sites-available/pocket /etc/nginx/sites-enabled/pocket
     ```
-9.  Start nginx:
+9.  Start Nginx:
 
     ```bash
     sudo systemctl start nginx
@@ -149,11 +149,11 @@ To configure nginx:
 
 ### Enable UFW <a href="#enable-ufw" id="enable-ufw"></a>
 
-We’re almost done, but before we finish we’ll make our server more secure by setting firewall rules to limit network exposure. The [Uncomplicated Firewall](https://wiki.ubuntu.com/UncomplicatedFirewall) (UFW) is a security tool that makes configuring the firewall reasonably simple. We’ll use it to disable unnecessary ports.
+We’re almost done, but before we finish we’ll make our server more secure by setting firewall rules to limit network exposure. The[ Uncomplicated Firewall](https://wiki.ubuntu.com/UncomplicatedFirewall) (UFW) is a security tool that makes configuring the firewall simple. We’ll use it to disable unnecessary ports.
 
-#### Ports you need to open <a href="#ports-you-need-to-open" id="ports-you-need-to-open"></a>
+**Ports you need to open**
 
-For running a Pocket node, you’ll need to open the following ports:
+To run  a Pocket node, you’ll need to open the following ports on the server:&#x20;
 
 * `22`: SSH
 * `80`: HTTP
@@ -201,10 +201,10 @@ To use UFW to configure the firewall:
     sudo ufw allow 26656
     ```
 
-That’s it for the UFW setup. Let’s just check the status to confirm the ports are open. To do that, run the following command:
+That’s it for the UFW setup. To confirm that only the necessary ports are open, run the following command:
 
 ```bash
 sudo ufw status
 ```
 
-After confirming only the necessary ports are open, you can move on to the final steps
+Now you're ready to proceed to the final steps.
