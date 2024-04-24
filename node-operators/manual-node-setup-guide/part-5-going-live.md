@@ -4,11 +4,11 @@
 
 At this point your Pocket node should be up and running!
 
-But you’ll want to test it to confirm. The following are some of the things you can do to test your Pocket Node.
+But you’ll want to confirm this. The following are some of the queries you can perform to test your Pocket node.
 
-#### Make sure the Pocket process is running <a href="#make-sure-the-pocket-process-is-running" id="make-sure-the-pocket-process-is-running"></a>
+#### Pocket process <a href="#make-sure-the-pocket-process-is-running" id="make-sure-the-pocket-process-is-running"></a>
 
-The first thing to check is that the pocket service is running. You can do that by running the following command:
+The first thing to check is that the Pocket process in its service is running by running the following command:
 
 ```bash
 top -b -n 1 | grep pocket
@@ -28,7 +28,7 @@ You’ll want to check that the node is fully synced with the Pocket blockchain.
 pocket query height
 ```
 
-The result should look something like the following.
+The result should look similar to the following:
 
 ```bash
 {
@@ -38,16 +38,15 @@ The result should look something like the following.
 
 #### Network status <a href="#network-status" id="network-status"></a>
 
-Another way to see if your node is fully synced is to check the status with the following command:
+Another way to see if your node is fully synced is to check its status with the following command:
 
 ```bash
 curl http://127.0.0.1:26657/status
 ```
 
-The result should look something like the following. Note the highlighted property `catching_up` which indicates if the node is catching up with the blockchain or fully synced. In the example below, the node is fully synced.
+The result should look similar to the following. Note the highlighted property `catching_up` which indicates if the node is catching up with the blockchain or fully synced. In the example below, the node is fully synced.
 
-```json
-{
+<pre class="language-json"><code class="lang-json">{
   "jsonrpc": "2.0",
   "id": -1,
   "result": {
@@ -77,7 +76,7 @@ The result should look something like the following. Note the highlighted proper
       "earliest_app_hash": "",
       "earliest_block_height": "1",
       "earliest_block_time": "2020-07-28T15:00:00Z",
-      "catching_up": false
+      <a data-footnote-ref href="#user-content-fn-1">"catching_up": false</a>
     },
     "validator_info": {
       "address": "80B80C106115259349DF8EF06267CFF7BBABD194",
@@ -89,39 +88,39 @@ The result should look something like the following. Note the highlighted proper
     }
   }
 }
-```
+</code></pre>
 
-#### Make sure your node is visible to other nodes <a href="#make-sure-your-node-is-visible-to-other-nodes" id="make-sure-your-node-is-visible-to-other-nodes"></a>
+### Node peer-to-peer visibility
 
-You’ll also want to make sure your node is accessible to other nodes.
+You’ll also want to make sure your node is accessible to other Pocket nodes.
 
-To test and confirm your node is visible to other nodes on the public network, you’ll make an HTTP request using the public DNS name for the node. You can use the following command to make that request:
+To test this, you’ll make an HTTP request using the public DNS name of the node, as shown below:
 
 ```bash
 curl https://pokt001.pokt.run:8081/v1
 ```
 
 {% hint style="info" %}
-As always, don’t forget to change `pokt001.pokt.run` to the DNS name for your node.
+As always, don’t forget to change `pokt001.pokt.run` to the DNS name of your node.
 {% endhint %}
 
-This should return the following. This is the version of pocket-core that is running.
+This should return the version of Pocket Core that you're running:
 
 ```bash
-"RC-0.9.2"
+"RC-0.11.1"
 ```
 
 ### Staking your node <a href="#staking-your-node" id="staking-your-node"></a>
 
-To earn POKT rewards, you’ll need to stake at least 15,000 POKT. That said, you should stake at least 15,100 POKT or more to be safe. This provides a little extra room in case your node gets slashed (penalized) for some reason.
+To earn POKT rewards, you’ll need to stake at least 15,000 POKT.
 
 {% hint style="danger" %}
 Please make sure that you understand the risks associated with staking POKT and running a Pocket node.
 {% endhint %}
 
-If you’re using the Pocket CLI to fund an account, keep in mind that the CLI uses uPOKT (the smallest unit of POKT) for its calculations. The formula for converting POKT to uPOKT is: `uPOKT = POKT * 10^6`. So, multiplying 15050 POKT by 10^6 (one million) will result in 15050000000 uPOKT.
+If you’re using the Pocket CLI to fund an account, keep in mind that the CLI uses µPOKT (the smallest unit of POKT) for its calculations. The formula for converting POKT to uPOKT is: `µPOKT = POKT * 10^6`. So, multiplying 15000 POKT by 10^6 (one million) will result in 15000000000 µPOKT.
 
-Also keep in mind that there is a cost for every transaction you send. At the moment, that cost is a flat fee of 0.01 POKT, or 10000 uPOKT, but this may be subject to change.
+Also keep in mind that there is a cost for every transaction you execute. At the moment, that cost is a flat fee of 0.01 POKT, or 10000 µPOKT (one POKT covers 100 transactions).
 
 1.  List your accounts:
 
@@ -133,7 +132,7 @@ Also keep in mind that there is a cost for every transaction you send. At the mo
     ```bash
     pocket accounts get-validator
     ```
-3.  Confirm the validator account has enough POKT. This should be at least 15,101 POKT. You’ll want 15,100 to stake and a bit more for network fees:
+3.  Confirm the node account has enough POKT. This should be at least 15,001 POKT. You’ll want 15,000 to stake and one POKT to cover the staking transaction fee :
 
     ```bash
     pocket query balance [YOUR_VALIDATOR_ADDRESS]
@@ -141,18 +140,18 @@ Also keep in mind that there is a cost for every transaction you send. At the mo
 4.  Stake your node, making sure to enter the correct details for your setup:
 
     ```bash
-    pocket nodes stake custodial [YOUR_VALIDATOR_ADDRESS] 15100000000 [CHAIN_IDS] https://[HOSTNAME]:443 mainnet 10000 false
+    pocket nodes stake custodial [YOUR_VALIDATOR_ADDRESS] 15000000000 [CHAIN_IDS] https://[HOSTNAME]:443 mainnet 10000 false
     ```
 
 {% hint style="info" %}
-The `[CHAIN_IDS]` placeholder should be a list of relay chain IDs that are defined in your `~/.pocket/config/chains.json` file. In this guide we only set up `0001`, but if you were relaying to multiple chains, each id would be separated by a comma. For example, `0001,0022,0040`.
+The `[CHAIN_IDS]` placeholder should be a list of relay chain IDs that are defined in your `~/.pocket/config/chains.json` file. In this guide we set up only`0001`, but if you were relaying to multiple chains, each id would be separated by a comma. For example, `0001,0022,0040`.
 {% endhint %}
 
 {% hint style="info" %}
-As of `RC-0.9.1.3` there are [two staking methods](broken-reference): `custodial` and `non-custodial`. The custodial method is used in the example above.
+As of Pocket Core version`RC-0.9.1.3` there are two staking methods: `custodial` and `non-custodial`. The custodial method is used in the example above.
 {% endhint %}
 
-After you send the stake command, you’ll be prompted for your `passphrase`, then you should see something like this:
+After you send the stake command, you’ll be prompted for your passphrase, after which you should see something similar to this:
 
 ```bash
 http://localhost:8082/v1/client/rawtx
@@ -162,17 +161,17 @@ http://localhost:8082/v1/client/rawtx
 }
 ```
 
-The actual time it takes to stake will vary depending on when the last block was processed, but generally, it should take less than 15 minutes.
+The time it takes to stake will vary depending on when the last block was created, but generally, it takes less than 15 minutes.
 
-#### Confirm your node is live <a href="#confirm-your-node-is-live" id="confirm-your-node-is-live"></a>
+#### Confirm your node is staked <a href="#confirm-your-node-is-live" id="confirm-your-node-is-live"></a>
 
-After you’ve staked your node, you can confirm it’s live by running the following command:
+After you’ve staked your node, you can confirm it’s staked by running the following command:
 
 ```bash
 pocket query node [YOUR_VALIDATOR_ADDRESS]
 ```
 
-If you see something like the following, it just means your node is not live yet:
+If you see something like the following, it means your node is not yet staked:
 
 ```bash
 http://localhost:8082/v1/query/node
@@ -185,4 +184,6 @@ If this happens, please wait a few minutes and try again.
 
 Congratulations! You’ve successfully set up a Pocket node.
 
-There’s more to running a Pocket node than this, such as maintenance, upgrades, and other administrative tasks, but hopefully this has gotten you started and on the right path. Thank you for doing your part to help decentralize Web3!
+There’s more to running a Pocket node than this, such as maintenance, upgrades, and other administrative tasks, but now you're on the right path. Thank you for doing your part to help decentralize Web3!
+
+[^1]: 
