@@ -20,6 +20,6 @@ Since launch, the protocol has served nearly 700 billion relays on over [50 diff
 
 All our expertise is going into a major upgrade we've named Shannon, after mathematician and cryptographer Claude Shannon, the father of information theory.
 
-We will deploy Shannon to Celestia's Mocha Testnet in February 2024 and aim to launch it on MainNet by the end of Q2 2024.
+Shannon was deployed to Celestia's Mocha Testnet in April 2024 and we aim to launch it on MainNet by the end of Q2 2024.
 
 \

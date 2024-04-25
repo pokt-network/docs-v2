@@ -114,11 +114,11 @@ This should return the version of Pocket Core that you're running:
 
 To earn POKT rewards, you’ll need to stake at least 15,000 POKT.
 
-{% hint style="danger" %}
-Please make sure that you understand the risks associated with staking POKT and running a Pocket node.
+{% hint style="info" %}
+NOTE: Under the current Morse protocol, the risk of stake slashing for service nodes is exceedingly remote.
 {% endhint %}
 
-If you’re using the Pocket CLI to fund an account, keep in mind that the CLI uses µPOKT (the smallest unit of POKT) for its calculations. The formula for converting POKT to uPOKT is: `µPOKT = POKT * 10^6`. So, multiplying 15000 POKT by 10^6 (one million) will result in 15000000000 µPOKT.
+If you’re using the Pocket CLI to fund an account, keep in mind that the CLI uses µPOKT (the smallest unit of POKT) for its calculations. The formula for converting POKT to µPOKT is: `µPOKT = POKT * 10^6`. So, multiplying 15000 POKT by 10^6 (one million) will result in 15000000000 µPOKT.
 
 Also keep in mind that there is a cost for every transaction you execute. At the moment, that cost is a flat fee of 0.01 POKT, or 10000 µPOKT (one POKT covers 100 transactions).
 
