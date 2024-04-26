@@ -1,7 +1,5 @@
 # Retroactive Funding & Grants
 
-Retroactive funding is complementary to upfront grants as it enables to community to award funds to the activities or projects that generate most impact. It can provide a regular and predictable mechanism for public goods to be funded, and inspire the type of “ecosystem goods” and values driven behaviours we want to see in our open source community.
+Retroactive funding complements upfront payment mechanisms by enabling the community to reward activity or projects that have generated the most impact. It can serve as a regular and predictable mechanism for public goods funding and inspire the “ecosystem goods” and value-driven behavior we want to see in our open-source community.
 
-We stand on the shoulders of many projects that preceded us and deliver benefit to us all, and we want to encourage people to build, maintain and improve these over time.
-
-The retroactive funding mechanism is currently in final design and our grants program will be announced soon. Keep an eye on this space, the forum or our twitter account to find out the latest.
+The first round of retroactive funding will roll out in May 2024. Details on how it will work are being finalized. Keep an eye on the related [forum thread](https://forum.pokt.network/t/pep-72-retroactive-pokt-goods-funding-rpgf/5187) or our twitter account for updates.

@@ -22,7 +22,7 @@ For ongoing maintenance of tools or services supported by the DAO. Typically fil
 
 ### [Retroactive Funding & Grants (RFGs)](https://docs.pokt.network/community/start-contributing/retroactive-funding-and-grants)
 
-Subject to DAO approval of the [related proposal](https://forum.pokt.network/t/pep-72-retroactive-pokt-goods-funding-rpgf/5187) in the forum, the first round of our retroactive grant and funding mechanism will commence in May 2024. Please keep an eye on the linked forum thread or our POKT Twitter feed to find out more.
+The first round of our retroactive grant and funding program will commence in May 2024. Full details will be released in the weeks prior. Please keep an eye on the related [forum thread](https://forum.pokt.network/t/pep-72-retroactive-pokt-goods-funding-rpgf/5187) or our POKT Twitter feed for updates.
 
 
 
