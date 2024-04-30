@@ -21,6 +21,7 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | Base Testnet                               | base-fullnode-testnet     | 0080      |
 | Binance Smart Chain                        | bsc-mainnet               | 0004      |
 | Binance Smart Chain (Archival)             | bsc-archival              | 0010      |
+| Blast Archival                             | blast-archival            | A090      |
 | BNB Archival (OP)                          | op-bnb-archival           | A089      |
 | Celestia Archival                          | celestia-archival         | A0CA      |
 | Celo Mainnet                               | celo-mainnet              | 0065      |
@@ -61,6 +62,7 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | Optimism Sepolia Archival                  | optimism-sepolia-archival | A087      |
 | Osmosis Mainnet                            | osmosis-mainnet           | 0054      |
 | Pocket Network Mainnet                     | mainnet                   | 0001      |
+| Pocket Network Archival                    | pokt-archival             | A001      |
 | Polygon Amoy Testnet Archival              | amoy-testnet-archival     | A085      |
 | Polygon Matic                              | poly-mainnet              | 0009      |
 | Polygon Matic Archival                     | poly-archival             | 000B      |
