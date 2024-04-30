@@ -8,7 +8,7 @@ description: >-
 
 The POKT Network protocol first launched on MainNet in July 2020.
 
-A major protocol upgrade, [Shannon](shannon.md), is slated to deploy to MainNet in the summer of 2024.
+A major protocol upgrade, [Shannon](shannon.md), is slated to deploy to MainNet by Q4 of 2024 if not sooner.
 
 ### [Morse](morse.md)
 
@@ -20,6 +20,6 @@ Since launch, the protocol has served nearly 700 billion relays on over [50 diff
 
 All our expertise is going into a major upgrade we've named Shannon, after mathematician and cryptographer Claude Shannon, the father of information theory.
 
-Shannon was deployed to Celestia's Mocha Testnet in April 2024 and we aim to launch it on MainNet by the end of Q2 2024.
+Shannon is expected to deploy on Celestia's Mocha Testnet in May 2024 and on MainNet later this year.
 
 \
