@@ -40,6 +40,7 @@
 ## Community
 
 * [DAO (OS)](community/dao-os.md)
+* [Community Calls + Events](community/community-calls-+-events.md)
 * [Start Contributing](community/start-contributing/README.md)
   * [Bounties](community/start-contributing/bounties.md)
   * [Quick Grants](community/start-contributing/quick-grants.md)
