@@ -2,8 +2,6 @@
 
 ### 1. Install Dependencies
 
-Now let's install the Pocket CLI.
-
 At this point you should be logged in via SSH as the `pocket` user that we set up in a previous step. Before we install the Pocket software, we need to update the existing system packages and add a few dependencies:&#x20;
 
 #### Updating system packages
@@ -23,7 +21,7 @@ After the update completes, we're ready to install the dependencies.
 
 #### Installing dependencies
 
-There are a handful of dependencies but installing them won't take long. Some might already be installed so if one of the dependencies exists, you can just move on to the next one.
+Some of the following dependencies might already be installed so if one of the them exists, you can just move on to the next one.
 
 **git**
 
@@ -75,11 +73,11 @@ sudo apt install jq -y
 
 ### 2. Install Go
 
-After installing the dependencies, there is one more dependency we'll need to add, and that's Go. Go (sometimes known as "Golang") is the programming language that the Pocket software was written in.
+After installing the dependencies above, there is one more we'll need to add, and that's Go tools. Go (sometimes referred to as "Golang") is the programming language that the Pocket software was written in.
 
 We could install Go using `apt`, but we want to get the latest stable version which probably isn't available by default in the `apt` repository. So, we'll use the steps below to install Go.
 
-1.  Make sure you're in the pocket home directory.
+1.  Make sure you're in the `pocket` home directory.
 
     ```bash
     cd ~
@@ -87,19 +85,19 @@ We could install Go using `apt`, but we want to get the latest stable version wh
 2.  Find the latest version of Go from [https://golang.org/dl/](https://golang.org/dl/) then download it with the following command. (Make sure to change the link below to point to the correct version of Go.)
 
     ```bash
-    wget https://dl.google.com/go/go1.19.2.linux-amd64.tar.gz
+    wget https://go.dev/dl/go1.22.2.linux-amd64.tar.gz
     ```
 3.  Extract the archive:
 
     ```bash
-    sudo tar -xvf go1.19.2.linux-amd64.tar.gz
+    sudo tar -xvf go1.22.2.linux-amd64.tar.gz
     ```
 4.  Set permissions on the extracted files:
 
     ```bash
     sudo chown -R pocket ./go
     ```
-5.  Add Go to the `PATH`:
+5.  Add Go to the `PATH` environment variable
 
     ```bash
     echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.profile
@@ -118,8 +116,18 @@ We could install Go using `apt`, but we want to get the latest stable version wh
     ```bash
     source ~/.profile
     ```
-8. Verify the installation by running `go version` and ensure it outputs the correct version number. If it doesn't work, try logging out and logging back in.
-9. Verify the `GOPATH` and `GOBIN` variables are set correctly by running `go env`.
+8.  Verify the installation:
+
+    ```bash
+    go version
+    ```
+
+    Ensure this outputs the correct version number. If this doesn't work, try logging out and logging back in.
+9.  Verify the `GOPATH` and `GOBIN` variables are set correctly:
+
+    ```bash
+    go env
+    ```
 
 ### 3. Install Pocket
 
@@ -134,7 +142,7 @@ To download and install Pocket Core, do the following:
     ```bash
     sudo mkdir -p $GOPATH/src/github.com/pokt-network
     ```
-2.  Change to the project directory:
+2.  Move to the project directory:
 
     ```bash
     cd $GOPATH/src/github.com/pokt-network
@@ -144,12 +152,12 @@ To download and install Pocket Core, do the following:
     ```bash
     sudo git clone https://github.com/pokt-network/pocket-core.git
     ```
-4.  Change to the code directory:
+4.  Move to the code directory:
 
     ```bash
     cd pocket-core
     ```
-5.  Checkout the latest version. You can find the latest tag by going to the Pocket Core tags on GitHub.
+5.  Checkout the latest released version. You can find this by going to the Pocket Core releases on GitHub.
 
     ```bash
     sudo git checkout tags/<pocket-version>
@@ -158,9 +166,15 @@ To download and install Pocket Core, do the following:
     **Note:** You may see a warning about being in a "detached HEAD" state. This is normal.
 6.  Build project code:
 
+    {% code overflow="wrap" %}
     ```bash
-    bashCopy codego build -o $GOPATH/bin/pocket $GOPATH/src/github.com/pokt-network/pocket-core/app/cmd/pocket_core/main.go
+    go build -o $GOPATH/bin/pocket $GOPATH/src/github.com/pokt-network/pocket-core/app/cmd/pocket_core/main.go
     ```
-7. Test that the build succeeded by running `pocket version`.
+    {% endcode %}
+7.  Test that the build succeeded:
 
-That’s it for the software installation. Now let’s move on to the Pocket core configuration.
+    ```
+    pocket version
+    ```
+
+That’s it for the software installation. Now let’s move on to the Pocket Core configuration.

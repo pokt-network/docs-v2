@@ -2,15 +2,9 @@
 
 ### 1. Download Snapshot
 
-Rather than synchronizing your Pocket node from block zero (which could take weeks), you can use a snapshot.
+Instead of synchronizing your node from block zero, which could take weeks, you can use a snapshot.  A snapshot of the Pocket blockchain is taken once a week and can be downloaded using the instructions on the [Pocket Snapshotter](https://github.com/pokt-network/pocket-core/blob/staging/doc/guides/snapshot.md) page.
 
-Instead of synchronizing your node from block zero, which could take weeks, you can use a snapshot.  A snapshot of the Pocket blockchain is taken every 12 hours and can be downloaded using the instructions on the [Pocket Snapshots Repository](https://github.com/pokt-foundation/pocket-snapshotter) page.
-
-{% hint style="info" %}
-The snapshots are updated every 12 hours. Check the last update time of the README.md file in the GitHub repo to know when the last snapshot was taken, and it's best to download one that's just a few hours old.
-{% endhint %}
-
-**Downloading a snapshot will likely take a few hours**, so we’re going to use the `screen` command so that the download can run in the background, allowing you to perform other tasks.
+**Downloading a snapshot will likely take a few hours**, so we’re going to use the `screen` command so that the download can run in the background, allowing you to perform other tasks while it's downloading.
 
 **To download the most recent snapshot:**
 
@@ -20,22 +14,21 @@ The snapshots are updated every 12 hours. Check the last update time of the READ
     screen
     ```
 
-    Press `Enter` to get back to a prompt.
-2.  Change into the `.pocket` directory.
+    Press `Enter` to return to a prompt.
+2.  Move into the `.pocket` directory.
 
     ```bash
     cd ~/.pocket
     ```
-3.  Create a directory named `data` and change into it:
+3.  Download the latest snapshot using the following command:
 
+    {% code overflow="wrap" %}
     ```bash
-    mkdir data && cd data
+    wget -c "https://pocket-snapshot.liquify.com/files/$(curl -s https://pocket-snapshot-uk.liquify.com/files/latest.txt)" -qO - | tar -xv
     ```
-4.  Download the latest snapshot using the following command:
+    {% endcode %}
 
-    ```bash
-    wget -qO- https://snapshot.nodes.pokt.network/latest.tar.gz | tar xvfz -
-    ```
+    Note that this command downloads the uncompressed, unpruned snapshot and that to save storage space extracts it to the `data` directory while downloading. For instructions on how to download pruned or compressed versions, or how not to extract while downloading, see the [Pocket Snapshotter](https://github.com/pokt-network/pocket-core/blob/staging/doc/guides/snapshot.md) page.
 
 While the snapshot is downloading, press `Ctrl-A` and then `d` to let the process run in the background and be returned to a prompt.
 
@@ -51,21 +44,21 @@ You can also check on the status of the download by watching your disk usage:
 df -h
 ```
 
-Once your download is completed, make the `pocket` user the owner of the `data` directory:
+Once your download completes, make the `pocket` user the owner of the `data` directory:
 
 ```bash
 sudo chown -R pocket ~/.pocket/data
 ```
 
-And when you’re done with your `screen` instance, you can exit out of it:
+When you’re done with your `screen` instance, exit out of it:
 
 ```bash
 exit
 ```
 
-### 2. Create a Pocket wallet account <a href="#create-a-pocket-wallet-account" id="create-a-pocket-wallet-account"></a>
+### 2. Create a POKT wallet account <a href="#create-a-pocket-wallet-account" id="create-a-pocket-wallet-account"></a>
 
-Pocket nodes work with a Pocket wallet account, which handles sending and receiving transactions from the node. You can make a new account with the Pocket CLI tool we just installed, or use one you already have. We'll make a new account for this guide.
+Pocket nodes work with a POKT wallet account, which handles sending and receiving transactions from the node. You can use an existing account or make a new one with the Pocket CLI (Command-line interface) tool we just installed. For this guide, we'll make a new account.
 
 #### Creating an account <a href="#creating-an-account" id="creating-an-account"></a>
 
@@ -75,16 +68,16 @@ To create an account, run the following command:
 pocket accounts create
 ```
 
-You’ll be asked to set a passphrase for the account. You can use any passphrase you like but for security reasons, it’s best to use a passphrase that is at least 12 characters long, preferably longer.
+You’ll be asked to set a passphrase for the account. You can use any passphrase you like, but for security reasons it’s best to use a random one that's at least 12 characters long.
 
 {% hint style="info" %}
-If you already have a Pocket account that you’d like to use to run the node, you can import it here. Upload the JSON file associated with your account to the server and run the following command:
+If you already have a POKT account that you’d like to use to run the node, you can import it here. Upload the JSON file associated with your account to the server and run the following command:
 
 ```
 pocket accounts import-armored <armoredJSONFile>
 ```
 
-You will be prompted for the decryption passphrase of the file, and then for a new encryption passphrase to store in the keybase.
+You will be prompted for the file's decryption passphrase, and then for a new encryption passphrase to store in the keybase.
 {% endhint %}
 
 #### Listing accounts <a href="#listing-accounts" id="listing-accounts"></a>
@@ -105,7 +98,7 @@ pocket accounts set-validator [YOUR_ACCOUNT_ADDRESS]
 
 #### Confirm the validator address <a href="#confirm-the-validator-address" id="confirm-the-validator-address"></a>
 
-Finally, you can confirm that the validator address was set correctly by running the following command:
+Finally, confirm that the validator address was set correctly by running the following command:
 
 ```bash
  pocket accounts get-validator
@@ -113,9 +106,7 @@ Finally, you can confirm that the validator address was set correctly by running
 
 ### Create `config.json` <a href="#create-configjson" id="create-configjson"></a>
 
-The Pocket core software uses a config file to store configuration details. By default the config file is located at `~/.pocket/config/config.json`. In this step we’ll look at how to create a new config file.
-
-To create a new config file:
+The Pocket core software uses a file to store configuration details. By default this config file is located at `~/.pocket/config/config.json`. In this step we’ll look at how to create a new config file.
 
 1.  Run the following command, which will create the default `config.json` file, add the seeds, set port 8081 to 8082, and increase the RPC timeout value:
 
@@ -132,12 +123,10 @@ To create a new config file:
     ```
 
 {% hint style="warning" %}
-This code above includes a long command! Make sure you’ve copied it completely.
+The above command is a long one! Make sure you’ve copied all of it.
 {% endhint %}
 
 2. Verify the `config.json` file setting by viewing the contents of the file:
-
-Command Response
 
 ```bash
 cat ~/.pocket/config/config.json
@@ -145,9 +134,9 @@ cat ~/.pocket/config/config.json
 
 ### 3. Create `chains.json` <a href="#create-chainsjson" id="create-chainsjson"></a>
 
-Pocket nodes relay transactions to other blockchains. So, you’ll need to configure the chains your node can relay to. For this guide, we’ll just be setting up our node to relay to the Pocket mainnet blockchain, essentially through itself.
+Pocket nodes relay transactions to other blockchains. So, you’ll need to configure the chains to which your node can relay. For this guide, we’ll be setting up our node to relay only to the Pocket Mainnet blockchain.
 
-To maximize your rewards, you’ll want to relay to other chains. We’ll cover that in more detail later but here is a list of [other blockchains you could relay to](../../reference/supported-chains.md).
+To maximize your rewards, you’ll want to relay to other chains too, but running other chains is not covered in this tutorial. Here is a list of Pocket Network's [Supported Chains](https://docs.pokt.network/reference/supported-chains).
 
 #### Generating a `chains.json` file with the CLI <a href="#generating-a-chainsjson-file-with-the-cli" id="generating-a-chainsjson-file-with-the-cli"></a>
 
@@ -159,17 +148,17 @@ pocket util generate-chains
 
 This will prompt you for the following information:
 
-*   Enter the ID of the Pocket Network RelayChain ID:
+*   Enter the ServiceID of the chain as listed on the Supported Chains page, which in this is case for Pocket Network Mainnet.
 
     ```
     0001
     ```
-*   Enter the URL of the local network identifier.
+*   Enter the URL of the chain, which in this case is the local network identifier since the Pocket chain is running on this computer.
 
     ```
     http://127.0.0.1:8082/
     ```
-* When you’re prompted to add another chain, enter `n` for now.
+* When you’re prompted to add another chain, enter `n.`
 
 {% hint style="info" %}
 By default the `chains.json` file will be created in `~/.pocket/config`. You can use the `--datadir` flag to create the chains.json file in an alternate location. For example: `pocket util generate-chains --datadir "/mnt/data/.pocket"`.
@@ -177,30 +166,30 @@ By default the `chains.json` file will be created in `~/.pocket/config`. You can
 
 ### 4. Create `genesis.json` <a href="#create-genesisjson" id="create-genesisjson"></a>
 
-Now that we have a `chains.json` file set up, so we can move on to test our node.
+Now that we have a `chains.json` file set up, we can proceed to test our node.
 
-When you start a Pocket node for the first time, it will need to find other nodes (peers) to connect with. To do that we use a file named `genesis.json` with details about peers the node should connect to get on the network.
+When you start a Pocket node for the first time, it needs to initialize with a `genesis.json` file that has details about the first block in the blockchain.
 
 To create a JSON file with the genesis information:
 
-1.  Change to the `.pocket/config` directory:
+1.  Go to the `.pocket/config` directory:
 
     ```bash
     cd ~/.pocket/config
     ```
-2.  Use the following command to get the `genesis.json` file from GitHub:
+2.  Use the following command to get the `genesis.json` file from GitHub and install it in that directory:
 
     ```bash
-    wget https://raw.githubusercontent.com/pokt-network/pocket-network-genesis/master/mainnet/genesis.json genesis.json
+    wget https://raw.githubusercontent.com/pokt-network/pocket-network-genesis/mainnet/genesis.json genesis.json
     ```
 
 ### 5. Set open file limits <a href="#set-open-file-limits" id="set-open-file-limits"></a>
 
-Ubuntu and other UNIX-like systems have a `ulimit` shell command that’s used to set resource limits for users. One of the limits that can be set is the number of open files a user is allowed to have. Pocket nodes will have a lot of files open at times, so we’ll want to increase the default ulimit for the `pocket` user account.
+Ubuntu and other UNIX-like systems have a `ulimit` shell command that’s used to set resource limits for users. One of the limits that can be set is the number of open files a user is allowed to have. Pocket nodes will have a lot of files open at times, so we’ll want to increase the default `ulimit` for the `pocket` user account.
 
 #### Increasing the ulimit <a href="#increasing-the-ulimit" id="increasing-the-ulimit"></a>
 
-1.  Before increasing the ulimit, you can check the current ulimit with the following command:
+1.  Before increasing the ulimit, you can check the current ulimit with the following command. The `-n` option is for getting the limit for the number of open files:
 
     ```bash
     ulimit -n
@@ -210,7 +199,7 @@ Ubuntu and other UNIX-like systems have a `ulimit` shell command that’s used t
     ```bash
     ulimit -Sn 16384
     ```
-3.  Check the new ulimit to confirm that it was set correctly. The `-n` option is for getting the limit for just the number of open files:
+3.  Check the new ulimit to confirm that it was set correctly.&#x20;
 
     ```bash
     ulimit -n
@@ -218,7 +207,7 @@ Ubuntu and other UNIX-like systems have a `ulimit` shell command that’s used t
 
 #### Permanent settings <a href="#permanent-settings" id="permanent-settings"></a>
 
-Using the above method for setting the `ulimit` only keeps the change in effect for the current session. To permanently set the ulimit, you can do the following:
+Using the above method for setting the `ulimit` only keeps the change in effect for your current session. To permanently set the `ulimit`, do the following:
 
 1.  Open the `/etc/security/limits.conf` file.
 
@@ -233,15 +222,13 @@ Using the above method for setting the `ulimit` only keeps the change in effect 
 3. Save the file with `Ctrl+O` and then `Enter`.
 4. Exit nano with `Ctrl+X`.
 
-After permanently setting the ulimit, the next thing we’ll do is download a snapshot of the Pocket blockchain.
-
 ### 6. Configure systemd <a href="#configure-systemd" id="configure-systemd"></a>
 
 Next, we’ll configure the Pocket service using [systemd](https://en.wikipedia.org/wiki/Systemd), a Linux service manager. This will enable the Pocket node to run and restart even when we’re not logged in.
 
 #### Creating a systemd service in Linux <a href="#creating-a-systemd-service-in-linux" id="creating-a-systemd-service-in-linux"></a>
 
-To setup a systemd service for Pocket, do the following:
+To set up a systemd service for Pocket, do the following:
 
 1.  Open nano and create a new file called `pocket.service`:
 
@@ -265,33 +252,31 @@ To setup a systemd service for Pocket, do the following:
     [Install]
     WantedBy=default.target
     ```
-3. Make sure the `User` is set to the user that will run the Pocket service.
+3. Make sure the `User` is set to the user that will be running the Pocket service.
 4. Make sure the `ExecStart` and `ExecStop` paths are set to the path for the Pocket binary.
 5. Save the file with `Ctrl+O` and then `return`.
 6. Exit nano with `Ctrl+X`.
-7.  Reload the service files to include the pocket service:
+7.  Reload the service files to include the Pocket service:
 
     ```bash
     sudo systemctl daemon-reload
     ```
-8.  Start the pocket service:
+8.  Start the Pocket service:
 
     ```bash
     sudo systemctl start pocket.service
     ```
 9.  Verify the service is running:
 
-    CommandResponse
-
     ```bash
     sudo systemctl status pocket.service
     ```
-10. Stop the pocket service:
+10. Stop the Pocket service:
 
     ```bash
     sudo systemctl stop pocket.service
     ```
-11. Verify the service is stopped:
+11. Verify the service has stopped:
 
     ```bash
     sudo systemctl status pocket.service
@@ -303,18 +288,16 @@ To setup a systemd service for Pocket, do the following:
     ```
 13. Verify the service is set to start on boot:
 
-    CommandResponse
-
     ```bash
     sudo systemctl list-unit-files --type=service | grep pocket.service
     ```
-14. Start the pocket service:
+14. Start the Pocket service:
 
     ```bash
     sudo systemctl start pocket.service
     ```
 
-#### Other systemctl commands <a href="#other-systemctl-commands" id="other-systemctl-commands"></a>
+#### Other system service commands <a href="#other-systemctl-commands" id="other-systemctl-commands"></a>
 
 *   Restart the Pocket service:
 
@@ -331,9 +314,6 @@ To setup a systemd service for Pocket, do the following:
     ```bash
     sudo systemctl list-units --type=mount
     ```
-
-#### Viewing the logs <a href="#viewing-the-logs" id="viewing-the-logs"></a>
-
 *   View the logs for the Pocket service:
 
     ```bash
@@ -344,27 +324,24 @@ To setup a systemd service for Pocket, do the following:
     ```bash
     sudo journalctl -u pocket.service -n 100 --no-pager
     ```
+*   You can use `grep` to find errors in the logs.
 
-#### Finding Errors <a href="#finding-errors" id="finding-errors"></a>
-
-You can use `grep` to find errors in the logs.
-
-```bash
-sudo journalctl -u pocket.service | grep -i error
-```
+    ```bash
+    sudo journalctl -u pocket.service | grep -i error
+    ```
 
 {% hint style="info" %}
-In case you skipped the step above while the snapshot was downloading, once your download is completed, make the `pocket` user the owner of the `data` directory:
+In case you forgot to make the`pocket`user the owner of the `data`directory after downloading the snapshot of the Pocket blockchain, do so now with the following command:
 
 ```
 sudo chown -R pocket ~/.pocket/data
 ```
 
-And when you’re done with your `screen` instance, you can exit out of it:
+And when you’re done with your `screen` instance, exit out of it:
 
 ```
 exit
 ```
 {% endhint %}
 
-We are almost done! We now need to setup an HTTP proxy in the next step and we’ll be ready to go live.
+We are almost done! Our [next step](part-4-proxy-configuration.md) is to set up an HTTP proxy, and then we’ll be ready to go live.
