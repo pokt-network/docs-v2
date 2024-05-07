@@ -5,6 +5,7 @@
 Wrapped POKT (wPOKT) is an Ethereum ERC-20 token backed 1:1 by POKT.
 
 * The token contract address is `0x67F4C72a50f8Df6487720261E188F2abE83F57D7` which you can see on Etherscan [here](https://etherscan.io/token/0x67F4C72a50f8Df6487720261E188F2abE83F57D7).
+* The vault address where you'll need to send POKT to mint wPOKT is 2eb054616797de8565506333afb334655e7774ed
 * The MintController address is `0x0d006D9e862B362180eb602e5973Fd1fdb6f78dd`
 * The DAO’s SAFE address for wPOKT is `0x2f16615234827eE4dF14d02d40C24E6a258dD360`
 
