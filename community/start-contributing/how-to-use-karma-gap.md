@@ -36,7 +36,7 @@ There are spaces for provision of impact criteria and other data listed below. W
 * **Define Clear Objectives**: Each milestone should have a clear, measurable objective that corresponds to a significant phase or achievement of the project. This could be the completion of a development sprint, reaching a certain number of users, or publishing a research paper.
 * **Link Milestones to Specific Deliverables**: Ensure that each milestone has associated deliverables. These could be reports, product features, or any quantifiable output that indicates progress.
 
-For the life of your Quick Grant, you'll need to update your milestones for the coming month by the first of the month.
+For the life of your Quick Grant, you'll need to update your milestones monthly by the first of the month.
 
 Maintainers should create milestones where it accords with the nature of their work.&#x20;
 
@@ -48,7 +48,7 @@ After you’ve created your grant, you can modify it by clicking on “Edit Gran
 
 Maintainers also must report at the end of the month on work progress. They can do so under "Grant Update" or, if they've set milestones, under "Milestones and Updates."
 
-While all contributors must provide monthly updates, they can choose to do so at shorter intervals.
+While all contributors must provide monthly updates, they also have the option of doing so at shorter intervals.
 
 Make sure to save a copy of any updates you intend to publish on Karma in case you have to re-enter them (e.g., if there's an error and the save transaction doesn't complete).
 
