@@ -59,6 +59,11 @@
     * [Onboarding New Voters](community/governance/creds-governance-upgrade/onboarding-new-voters.md)
     * [Migration of Existing Voters](community/governance/creds-governance-upgrade/migration-of-existing-voters.md)
     * [System Flow Design](community/governance/creds-governance-upgrade/system-flow-design.md)
+* [Retro POKT Goods Funding](community/retro-pokt-goods-funding/README.md)
+  * [Timeline](community/retro-pokt-goods-funding/timeline.md)
+  * [Application Process](community/retro-pokt-goods-funding/application-process.md)
+  * [Voters & Voting](community/retro-pokt-goods-funding/voters-and-voting.md)
+  * [Support & FAQ](community/retro-pokt-goods-funding/support-and-faq.md)
 
 ## POKT TOKEN
 
