@@ -9,23 +9,15 @@
 
 Shannon is the next major upgrade to the Pocket Network Protocol.&#x20;
 
-Under development since August 2023, it will be implemented as a micro-rollup using [Rollkit](http://web.archive.org/web/20231006003924/https://rollkit.dev/)’s modular framework that features [Celestia](http://web.archive.org/web/20231006003924/https://celestia.org/) as the Data Availability (DA) layer.
+Under development since August 2023, it will be implemented with the Cosmos SDK backed by CometBFT's PoS consensus, and using the Rollchains module to leverage Celestia's data availability layer.
 
 ### Shannon Roadmap&#x20;
 
-This section tracks the progress and updates of Shannon's Roadmap.​
+You can access the latest version of Shannon's Roadmap [here](https://github.com/orgs/pokt-network/projects/144?query=is%3Aopen+sort%3Aupdated-desc).​
 
-### 2024/01/18 <a href="#id-2024-01-18" id="id-2024-01-18"></a>
+Here is the latest version as of May 2024. Target to deploy mainnet early H2.
 
-You can find the recording here:&#x20;
-
-{% embed url="https://www.youtube.com/watch?v=-BUoS0yusfI" %}
-
-The presentation can be found [here](https://docs.google.com/presentation/d/1IOiIZjY192RP9FkI1nXdV4I7YcuNkrSIKFIVs25M-TM/edit).​
-
-### Road to MainNet <a href="#road-to-mainnet" id="road-to-mainnet"></a>
-
-<figure><img src="../../.gitbook/assets/CleanShot 2024-02-21 at 18.29.17@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 2.png" alt=""><figcaption></figcaption></figure>
 
 The technical documentation for the repository currently resides at [dev.poktroll.com](https://dev.poktroll.com).
 
