@@ -34,3 +34,5 @@ The retroactive rewards pool will be made up of:
 Each funded applicant will receive funding from all three pools proportionally.
 
 Rewards will be streamed over the course of one month starting from the rewards date. Applicants are not obligated to complete KYC although the Pocket Network Foundation may withold rewards until KYC is provided as part of any risk assessment during the program.
+
+#### Next: [Timeline](timeline.md)
