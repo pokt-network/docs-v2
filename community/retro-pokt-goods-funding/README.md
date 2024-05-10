@@ -1,38 +1,110 @@
 # Retro POKT Goods Funding
 
-Retroactive funding is a novel mechanism for reducing the gap between impact and rewards through the introduction of a third variable - time. \
-\
-POKT Network has been the recipient of retroactive rewards and is now redistributing these funds via our own retroactive grants program. POKT DAO wants to create a domino effect, ensuring funds aren't captured in companies or DAO treasuries but instead make their way into the hands of the people who directly created impact.&#x20;
+### Retroactive POKT Goods Funding will be live on Monday 13th May 2024
 
-## Categories
 
-Retroactive funding focuses on three categories and each application can apply within only one category.&#x20;
 
-1. **Protocol** This category is limited to applicants that have contributed to the POKT stack itself either through contribution to main code sources such as the Morse protocol or other dependancies.
-2. **Ecosystem** Applicants within this category should have created an impact over the ecosystem through creating meaningful tools and applications using the POKT stack or for POKT stack to further help with the usability of the protocol.
-3. **Adoption** This category includes applicants who have created awareness about Pocket Network, help with adaption of the system through support, discussions, leads, and etc or in general help Pocket Network in any other way to reach a broader audience.
+POKT’s experimental first round of retroactive grants will focus on three categories where we want impact to be rewarded. Projects & Individuals can apply under these categories:\
 
-Voters will assess the applicants impact based on the evidence provided, and applicants should provide as much qualitative and quantitative data that they can to demonstrate impact, such as:
 
-* How many dependents, stars, forks, downloads and etc. a project have?
-* How the applicant has effected the utilization of POKT token?
-* How much awareness was created and how many users or participants were touched?
-* How many users this applicant has affected and to what extent?
+### Eligibility Criteria:
 
-Retroactive rewards does not include users who have only contributed to the system through transactions and staking of POKT or wPOKT.
+* **Contributions that took place between Feb 23rd 2023 and May 10th 2024**
+* **Contributions towards the POKT ecosystem**
+* **Contributions for which the impact is already delivered (no unshipped projects or promises of future impact!)**
+* **Contributions for which the impact delivered is above and beyond a scope of work that was already funded (through PEPs, sockets, RFPs)**
 
-**Keep in mind,** this is a _retroactive_ funding round and only applicants that have created impact before the submission deadline will be considered eligible (and no rewards for promises of future value or impact!).
+Some applicants may also be required to complete KYC if requested by the Foundation (as part of the Foundation's ongoing risk assessment)
 
-## Rewards
 
-The retroactive rewards pool will be made up of:
 
-* 60,000 OP
-* 60,000 ARB
-* 750,000 wrapped POKT
+### Category: Protocol&#x20;
 
-Each funded applicant will receive funding from all three pools proportionally.
+This category is to recognize individuals and projects that have positively impacted the core elements of the POKT Network protocol, including main code sources such as Morse, and other crucial dependencies and repositories.
 
-Rewards will be streamed over the course of one month starting from the rewards date. Applicants are not obligated to complete KYC although the Pocket Network Foundation may withold rewards until KYC is provided as part of any risk assessment during the program.
+**Who Should Consider Applying?**
 
-#### Next: [Timeline](timeline.md)
+* Made direct enhancements to the POKT Network protocol's core codebases.
+* Contributed significantly to the dependencies and related repositories that support the POKT Network protocol.
+* Played a key role in developing features or improvements that have been implemented in official protocol releases.
+
+**Criteria to Highlight in Your Submission:**
+
+* Detailed descriptions of your contributions to the core POKT protocol or its key dependencies.
+* Metrics demonstrating the impact of your work, such as usage statistics, dependency graphs, and community adoption.
+* Specific examples of how your contributions have advanced the functionality, efficiency or stability of the POKT protocol, including improvements to the experience for network actors such as validators, servicers, and/or gateways.
+* Explain how you delivered extra impact beyond a scope of work that was already funded in a PEP, socket, RFP, or from PNF.\
+  \
+
+
+### Category: Ecosystem
+
+This Ecosystem category is focused on acknowledging and supporting tools and applications that enhance the experience of participating in the POKT Network ecosystem.&#x20;
+
+**Who Should Consider Applying?**
+
+This category is designed for developers, innovators, and project teams who have:
+
+* Created or improved tools and applications that interact with or support participating in the POKT Network ecosystem.
+* Enhanced the accessibility, efficiency, or usability of the POKT Network ecosystem through innovative solutions.
+* Contributed to the development and release of features that impact how users interact with POKT Network.
+* Developed or contributed to wallets, explorers, and other technologies that directly benefit the POKT Network ecosystem.
+
+**Criteria to Highlight in Your Submission:**
+
+* Detailed description of your tool or application, its functionality within the POKT Network ecosystem, and how this improves on the functionality that existed before your contribution.
+* Quantitative and qualitative metrics demonstrating the impact of your work, such as user feedback, testimonials, usage statistics, dependency graphs, and community adoption.
+* Specific examples of how your contributions have positively impacted the broader POKT Network ecosystem, such as specific ways they have improved the user experience.
+* Explain how you delivered extra impact beyond a scope of work that was already funded in a PEP, socket, RFP, or from PNF.\
+
+
+### Category: Adoption&#x20;
+
+The Awareness and Adoption category supports efforts that have significantly contributed to raising awareness and increasing adoption of POKT Network. This category targets initiatives focused on discussions, referrals, marketing, and other forms of support that help POKT reach a broader audience.
+
+**Who Should Consider Applying?**&#x20;
+
+This category is perfect for marketers, business developers, community managers, content creators, and advocates who have:
+
+* Led campaigns or initiatives that increased awareness of POKT Network.
+* Contributed to adoption through innovative outreach strategies.
+* Engaged effectively with communities to attract people to POKT Network.
+* Engaged with newcomers to our community, created educational content, helped community members out, and generally worked to make POKT a welcoming place.
+* Helped attract/onboard developers as customers to a POKT gateway.
+
+**Criteria to Highlight in Your Submission:**
+
+* Detailed description of your activities and how they drove awareness/adoption.
+* Quantitative and qualitative metrics demonstrating the quality and quantity of awareness/adoption created.
+* Evidence of how your efforts have driven adoption and attracted new users to the POKT Network ecosystem.
+* Feedback and impact assessment before and after your initiatives. Explain how your efforts generated more awareness/adoption over and above that created by other awareness/adoption initiatives.
+* Explain how you delivered extra impact beyond a scope of work that was already funded in a PEP, socket, RFP, or from PNF.\
+
+
+## Applicants Guideline&#x20;
+
+You are only evaluated based on the impact you have already created. Do not mention or allude to your future work or future impact. This is retroactive funding, not proactive funding!
+
+Every type of developer and contributor is eligible for RetroPGF. It doesn’t matter if you’re building a consumer app, a key piece of infra that POKT pays for, or a free-to-use community tool that POKT love or your actions in the DAO or forums.&#x20;
+
+Applications will be assessed by the Foundation before entering the voting pool and after voting concludes. Violating any of the following rules may result in disqualification and removal. Voters are also able to report violations during the voting process which may result in the same outcome. Disqualifications will be published by PNF along with the reasons for disqualification.
+
+1. **Promises of future impact** - You are only evaluated based on the impact you have already created. Do not mention or allude to your future work or future impact. This is retroactive funding, not proactive funding!
+2. **False statements & deception** - False claims about your contributions, past impact or funding & grants are not allowed.
+3. **Hateful Content** - No racist, sexist, or otherwise hateful speech, no discrimination.
+4. **Deceiving Voters** - Malicious content that could cause harm or unintended consequences to users.
+5. **Fraud & Impersonation** - Claiming to be a brand or person you are not. The Grant owner must be directly affiliated with the project, the funds must go to the project.
+6. **Advertising** - Using RetroPGF application to showcase something you are selling like a token sale or NFT drop.
+7. **Bribery** - Bribing voters or vote buying is strictly forbidden.
+8. **Contacting voters to promote your application** - Using private channels such as DMs to promote your applications to voters.
+9. **Self-dealing** - Voting for your own application (self-dealing) or refusing to comply with the Conflicts Committee's efforts to prevent self-dealing. This includes failing to disclose the existence of Conflicted Voters\* when applying, refusing to disclose the voting addresses of Conflicted Voters if asked by the Conflicts Committee\*\*, or receiving votes from any Conflicted Voter. The Conflicts Committee, not PNF, will be the final authority on self-dealing disqualifications.
+   * \*_Conflicted Voters are defined as DAO voters who have a direct interest in an applying organization, either as an employee, contractor or equity holder._
+   * _\*\*The Conflicts Committee ensures that PNF is not the unilateral authority on suspected self-dealing activities. The Committee will determine if applications have failed to disclose Conflicted Voters and will inspect the ballots of Conflicted Voters to ensure that no self-dealing votes have been cast._
+10. **Refusing to KYC** - The POKT Network Foundation reserves the right to request KYC as part of any risk-based assessment they complete as part of the program. If you are asked to complete KYC and fail to comply, your grant may be returned to the RetroPGF treasury for future rounds. Applications on behalf of a DAO or Foundation will be required to provide proof that the provided wallet addresses are official wallet addresses.
+11. **Outside of RetroPGF’s scope** - Contributions that do not have a clear relationship to POKT Network, applications that do not highlight a valid contribution\*\*\*, or contributions which are outside of the RetroPGF scope.
+    * _\*\*\*We define contribution as an activity which required a minimum time commitment of 1 hour and which provided impact to POKT. User interactions (e.g. sending transactions) with POKT or wPOKT and staking are not part of the scope of this round_
+12. **Spam** - Applications containing spam, such as irrelevant answers, plagiarized content, broken or unrelated impact metrics and contribution links.&#x20;
+13. **Languages other than English** - This is the working language of the majority of voters so please ensure you translate any content that is part of your application.
+14. **Duplicate applications** - Multiple applications from the same individual, project or group which apply for the same impact. An applicant can list multiple projects as its impact evidence but applying with different applications for the same impact results are not allowed.
+
+Further information on the application process is available [here](application-process.md)

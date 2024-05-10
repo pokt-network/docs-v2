@@ -64,6 +64,7 @@
   * [Application Process](community/retro-pokt-goods-funding/application-process.md)
   * [Voters & Voting](community/retro-pokt-goods-funding/voters-and-voting.md)
   * [Support & FAQ](community/retro-pokt-goods-funding/support-and-faq.md)
+  * [What is Retro POKT Goods funding Round 1?](community/retro-pokt-goods-funding/what-is-retro-pokt-goods-funding-round-1.md)
 
 ## POKT TOKEN
 
