@@ -68,8 +68,14 @@
 
 ## POKT TOKEN
 
+* [What is $POKT](pokt-token/what-is-usdpokt/README.md)
+  * [POKT Today](pokt-token/what-is-usdpokt/pokt-today.md)
+  * [What Network is $POKT on?](pokt-token/what-is-usdpokt/what-network-is-usdpokt-on.md)
 * [Get POKT or wPOKT](pokt-token/get-pokt-or-wpokt.md)
-* [Hold POKT In a Wallet](pokt-token/hold-pokt-in-a-wallet.md)
+* [Holding POKT](pokt-token/holding-pokt/README.md)
+  * [Pocket Wallet](pokt-token/holding-pokt/pocket-wallet.md)
+  * [NodeWallet](pokt-token/holding-pokt/nodewallet.md)
+  * [Ledger](pokt-token/holding-pokt/ledger.md)
 * [Stake POKT](pokt-token/stake-pokt.md)
 * [Wrapped POKT (wPOKT)](pokt-token/wrapped-pokt-wpokt/README.md)
   * [Wrapping Walkthrough](pokt-token/wrapped-pokt-wpokt/wrapping-walkthrough.md)
