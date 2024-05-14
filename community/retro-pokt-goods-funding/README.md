@@ -1,6 +1,6 @@
 # Retro POKT Goods Funding
 
-### Retroactive POKT Goods Funding will be live on Monday 13th May 2024
+### Retroactive POKT Goods Funding is now accepting submissions at [impact.pokt.network](https://impact.pokt.network/)
 
 
 
