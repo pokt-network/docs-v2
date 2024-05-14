@@ -99,6 +99,8 @@ Applicants will be required to provide the following information as part of thei
 * Details of funding already received for the contribution (such as through a PEP, socket, RFP, or from PNF) and an explanation of how the impact delivered exceeds the scope of the funding received
 * Links to relevant resources, such as repositories, product demos, or user testimonials
 
+
+
 ## Application Guidelines
 
 Applications will be assessed by the Foundation before entering the voting pool and after voting concludes. Violating any of the following rules may result in disqualification and removal. Voters are also able to report violations during the voting process which may result in the same outcome. Disqualifications will be published by PNF along with the reasons for disqualification.
@@ -113,7 +115,7 @@ Applications will be assessed by the Foundation before entering the voting pool 
 8. **Contacting voters to promote your application** - Using private channels such as DMs to promote your applications to voters.
 9. **Self-dealing** - Voting for your own application (self-dealing) or refusing to comply with the Conflicts Committee's efforts to prevent self-dealing. This includes failing to disclose the existence of Conflicted Voters\* when applying, refusing to disclose the voting addresses of Conflicted Voters if asked by the Conflicts Committee\*\*, or receiving votes from any Conflicted Voter. The Conflicts Committee, not PNF, will be the final authority on self-dealing disqualifications.
    * \*_Conflicted Voters are defined as DAO voters who have a direct interest in an applying organization, either as an employee, contractor or equity holder._
-   * _\*\*The Conflicts Committee ensures that PNF is not the unilateral authority on suspected self-dealing activities. The Committee will determine if applications have failed to disclose Conflicted Voters and will inspect the ballots of Conflicted Voters to ensure that no self-dealing votes have been cast._
+   * _\*\*The Conflicts Committee ensures that PNF is not the unilateral authority on suspected self-dealing activities. It consists of three members – a PNF director, a DAO-nominated board observer, and a neutral (non-POKT) third-party selected by PNF. The Committee will determine if applications have failed to disclose Conflicted Voters and will inspect the ballots of Conflicted Voters to ensure that no self-dealing votes have been cast._
 10. **Refusing to KYC** - The POKT Network Foundation reserves the right to request KYC as part of any risk-based assessment they complete as part of the program. If you are asked to complete KYC and fail to comply, your grant may be returned to the RetroPGF treasury for future rounds. Applications on behalf of a DAO or Foundation will be required to provide proof that the provided wallet addresses are official wallet addresses.
 11. **Outside of RetroPGF’s scope** - Contributions that do not have a clear relationship to POKT Network, applications that do not highlight a valid contribution\*\*\*, or contributions which are outside of the RetroPGF scope.
     * _\*\*\*We define contribution as an activity which required a minimum time commitment of 1 hour and which provided impact to POKT. User interactions (e.g. sending transactions) with POKT or wPOKT and staking are not part of the scope of this round_
