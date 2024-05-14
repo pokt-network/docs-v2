@@ -1,6 +1,8 @@
 # Retro POKT Goods Funding
 
-### Retroactive POKT Goods Funding is now accepting submissions at [impact.pokt.network](https://impact.pokt.network/)
+### Retroactive POKT Goods Funding is now accepting submissions!
+
+### Apply at [impact.pokt.network](https://impact.pokt.network/)
 
 
 
