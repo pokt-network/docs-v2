@@ -46,7 +46,6 @@
   * [Quick Grants](community/start-contributing/quick-grants.md)
   * [RFPs](community/start-contributing/rfps.md)
   * [Maintainers](community/start-contributing/maintainers.md)
-  * [Retroactive Funding & Grants](community/start-contributing/retroactive-funding-and-grants.md)
   * [How to Use Karma GAP](community/start-contributing/how-to-use-karma-gap.md)
 * [Governance](community/governance/README.md)
   * [Earn Your Vote](community/governance/earn-your-vote.md)
