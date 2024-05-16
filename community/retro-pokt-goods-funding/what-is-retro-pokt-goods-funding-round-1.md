@@ -1,6 +1,8 @@
 # What is Retro POKT Goods funding Round 1?
 
-Retroactive funding is a novel mechanism for reducing the gap between impact and rewards through the introduction of a third variable - time. \
+Retroactive funding is a novel mechanism for reducing the gap between impact and rewards through the introduction of a third variable - time.&#x20;
+
+For a high level overview, read our [blog post](https://www.pokt.network/blog/submissions-open)\
 \
 POKT Network has been the recipient of retroactive rewards and is now redistributing these funds via our own retroactive grants program. POKT DAO wants to create a domino effect, ensuring funds aren't captured in companies or DAO treasuries but instead make their way into the hands of the people who directly created impact.&#x20;
 
