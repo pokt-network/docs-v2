@@ -15,7 +15,7 @@ Under development since August 2023, it will be implemented with the Cosmos SDK 
 
 You can access the latest version of Shannon's Roadmap [here](https://github.com/orgs/pokt-network/projects/144?query=is%3Aopen+sort%3Aupdated-desc).​
 
-Here is the latest version as of May 2024. Target to deploy mainnet early H2.
+Here is the latest version as of May 2024. The target to deploy to mainnet is early H2.
 
 <figure><img src="../../.gitbook/assets/Frame 2.png" alt=""><figcaption></figcaption></figure>
 

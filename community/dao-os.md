@@ -37,7 +37,7 @@ These ambitions all align towards our _**North Star**_, which is Protocol Revenu
 
 #### The Era
 
-To DAO aligns behind these ambitions through a mechanism called an Era. The Era is a milestone-based objective which creates a shared and definable objective for the Era. The objective of the current Era is the launch of the protocol's [Shannon Upgrade](../learn-about-pokt/the-rpc-protocol/shannon.md)
+To DAO aligns behind these ambitions through a mechanism called an Era. The Era is a milestone-based objective which creates a shared and definable objective for the Era. The objective of the current Era is the launch of the protocol's [Shannon Upgrade](../learn-about-pokt/the-rpc-protocol/shannon.md).
 
 The Era aligns focus and funding mechanisms and aims to remove the proxy strategy debates that many DAOs fall into by conflating resource allocation decisions with strategy. We seek to avoid the [known DAO problems](https://docs.google.com/document/d/1RETQRH2cgzn3\_72JmF5xr0LW7sIsVyjCmiRY3-wrq3E/edit#heading=h.iif52hhnu202) that we've identified.
 
@@ -49,7 +49,7 @@ Because we operate under a milestone-based Era for revisiting strategy, we use q
 
 The Era Budget is activated at the beginning of the Era and describes the primary budgets within the DAO. it has two main components: the Era Budget and the Era Allocation.
 
-Our Era reports are published quarterly in the Forum. The most recent report can be found here: [Q4 2023 Era Cycle Report - Cycle 3](https://forum.pokt.network/t/era-cycle-report-cycle-3/4960)
+Our Era reports are published quarterly in the Forum. The most recent report can be found here: [Q4 2023 Era Cycle Report - Cycle 3](https://forum.pokt.network/t/era-cycle-report-cycle-3/4960).
 
 **Era Budget**
 
@@ -89,20 +89,20 @@ The DAO should operate optimistically and with only very lite permissions for su
 
 Permissions ensure that people who are already contributing or have demonstrated reputation in the community do not face new hurdles to participation.
 
-For new contributors, the alignment we require most is with our Pocket DNA and understanding our DAO OS and contribution mechanisms. To learn more please refer to the docs with links under the "Community" heading in the menu to the left, or visit the channels under "Governance" on [Pocket Network's Discord server](https://discord.gg/GmpbGZnh).
+For new contributors, the alignment we require most is with our Pocket DNA and understanding our DAO OS and contribution mechanisms. To learn more please refer to the docs with links under the "Community" heading in the menu to the left or visit the channels under "Governance" on [Pocket Network's Discord](https://discord.gg/azA589Y5) server.
 
 #### Payments
 
 The DAO continues to evolve and update its payment operations and aims to do so as transparently as possible. Here are the main details about payments that you should know:
 
-_**Schedule:**_ Recurring Payments from the DAO are made monthly on the first date of governance transactions each month (generally the first Tuesday of each month).
+_**Schedule:**_ Recurring Payments from the DAO are made monthly on the first day of governance transactions each month (generally the first Tuesday of each month).
 
-For recurring payments from the Era funding mechanisms the aim is to make payments within 7 days, whereas recurring contributors to the Era Allocation receive payment via [Hedgey Finance](https://app.hedgey.finance/).
+For recurring payments from the Era funding mechanisms, the aim is to make payments within 7 days, whereas recurring contributors to the Era Allocation receive payment via [Hedgey Finance](https://app.hedgey.finance/).
 
-_**Calculation:**_ Payments are generally made based on the prevailing 30-day average POKT price, where pricing has been stated in USD terms.
+_**Calculation:**_ Payments are generally made based on the trailing 30-day average POKT price, where pricing has been stated in USD.
 
-_**Method**_: DAO transactions are made direct to the relevant POKT wallet. Era payments are made from the relevant multisig either to an Eth wallet, or streamed via [Hedgey Finance](https://app.hedgey.finance/).
+_**Method**_: DAO transactions are made direct to the relevant POKT wallet. Era payments are made from the relevant multisig either to an Eth wallet or streamed via [Hedgey Finance](https://app.hedgey.finance/).
 
 ***
 
-_This is an evolving and possibly incomplete record of the DAOs OS. Faster learning beats better planning, so please help us learn of any gaps or challenges related to any of the above_ 🫂
+_This is an evolving and possibly incomplete record of the DAO's OS. Faster learning beats better planning, so please let us know of any gaps or challenges related to any of the above_ 🫂
