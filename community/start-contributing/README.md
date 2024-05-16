@@ -22,7 +22,7 @@ For ongoing maintenance of tools or services supported by the DAO. Typically fil
 
 ### [Retroactive Funding & Grants (RFGs)](https://docs.pokt.network/community/start-contributing/retroactive-funding-and-grants)
 
-The first round of our retroactive funding and grants program is open. Read all the program details [here](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/sC7vRmj1fRzIvz4vDUe3/), then hop over to [POKT Impact](https://impact.pokt.network/) to see who's filed an application and submit your own. The deadline for applications is May 31, 2024, and voting starts June 9, 2024.
+The first round of our retroactive funding and grants program is open. Read all the program details [here](https://app.gitbook.com/o/-MVU655bEpKMcmpTxlOG/s/sC7vRmj1fRzIvz4vDUe3/), then hop over to [POKT Impact](https://impact.pokt.network/) to see who's put in an application and submit your own. The deadline for applications is May 31, 2024, and voting starts June 9, 2024.
 
 
 
