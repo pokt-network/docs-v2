@@ -2,7 +2,7 @@
 
 ### Before You Start
 
-* Set up your Nano S Plus or Nano X Ledger device. For information on how to do so, refer to [Ledger Docs](https://support.ledger.com/hc/en-us/categories/4404376139409-Documentation?docs=true). If your device is already set up, make sure the latest firmware is installed. (The Nano S has been [phased out](https://support.ledger.com/hc/en-us/articles/5615862066717-Ledger-Nano-S-Sunset-FAQ?support=true).)
+* Set up your Nano S Plus or Nano X Ledger device. For information on how to do so, refer to [Ledger Docs](https://support.ledger.com/hc/en-us/categories/4404376139409-Documentation?docs=true). If your device is already set up, make sure the latest firmware is installed. (Nano S has been [phased out.](https://support.ledger.com/hc/en-us/articles/5615862066717-Ledger-Nano-S-Sunset-FAQ?support=true)
 * Update Ledger Live or download [the latest version](https://www.ledger.com/ledger-live).
 
 ### Install the Pocket Wallet Web App <a href="#install-the-pocket-app" id="install-the-pocket-app"></a>

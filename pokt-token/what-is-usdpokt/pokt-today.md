@@ -17,5 +17,6 @@ _Note: this chart is based on the current cap. We are targeting deflation by the
 ![image](https://hackmd.io/\_uploads/SJ7GdkKZR.png) ![image](https://hackmd.io/\_uploads/r18EO1Kb0.png)
 
 {% hint style="info" %}
-For more information: [Token Economics](https://docs.pokt.network/learn-about-pokt/the-economics)
+For more information: [POKT Token Economics](https://docs.pokt.network/learn-about-pokt/the-economics)
 {% endhint %}
+

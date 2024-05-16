@@ -16,7 +16,7 @@ Learn more about [POKT's economics](https://docs.pokt.network/learn-about-pokt/t
 
 ## History of $POKT
 
-POKT Network was launched with the aim of decentralizing the RPC layer of the Web3 stack. It Pocket is the only decentralized RPC network on mainnet today that's supply-side permissionless. After the Shannon upgrade later this year, it will be demand-side permissionless as well.
+POKT Network was launched with the aim of decentralizing the RPC layer of the Web3 stack. Pocket is the only decentralized RPC network on mainnet today that's supply-side permissionless. After the Shannon upgrade later this year, it will be the only one that's demand-side permissionless as well.
 
 POKT launched its mainnet on July 28th, 2020, with 650m POKT tokens created at genesis. The amount of POKT minted is directly proportional to the number of proven data relays in a given block, with the compensation divided between service nodes, validator nodes, and the POKT Network DAO that governs the protocol.
 
@@ -25,6 +25,6 @@ POKT launched its mainnet on July 28th, 2020, with 650m POKT tokens created at g
 ## POKT is first and foremost a utility token
 
 * POKT is used to incentivize and facilitate the operation of Gateways and POKT nodes.
-* Staking POKT is what underpins our network of vital digital infrastructure that is owned and governed by its users.
+* Staking POKT underpins the network's digital infrastructure that is owned and governed by its users.
 * POKT allows you to act as a Liquidity Provider for our decentralized RPC ecosystem.
 
