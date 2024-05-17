@@ -4,11 +4,14 @@
 
 ## Learn About POKT
 
-* [The RPC Protocol](learn-about-pokt/the-rpc-protocol/README.md)
-  * [Morse](learn-about-pokt/the-rpc-protocol/morse.md)
-  * [Shannon](learn-about-pokt/the-rpc-protocol/shannon.md)
-* [The Economics](learn-about-pokt/the-economics.md)
 * [Our DNA](learn-about-pokt/our-dna.md)
+* [The Economics](learn-about-pokt/the-economics.md)
+
+## POKT Protocol
+
+* [Our evolution](pokt-protocol/our-evolution.md)
+* [Morse](pokt-protocol/morse.md)
+* [Shannon](pokt-protocol/shannon.md)
 
 ## Developers
 
