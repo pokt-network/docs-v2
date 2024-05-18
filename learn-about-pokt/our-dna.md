@@ -1,7 +1,7 @@
 ---
 description: >-
   This section contains information about what we do, how you can access POKT
-  Network, why we do what we do , and what we're planning to do next (our
+  Network, why we do what we do, and what we're planning to do next (our
   roadmap).
 ---
 
