@@ -49,6 +49,8 @@ The public Testnet is structured in phases, each providing specific areas of foc
 
 A rewards system for contributors including new [bounties](../community/start-contributing/bounties.md) will be announced shortly. We encourage you to help identify areas for improvement. POKT has a proud tradition of community contributions that substantially improved the protocol, and we hope to draw on this throughout the Testnet phases.
 
+<figure><img src="../.gitbook/assets/testnetphases.png" alt=""><figcaption></figcaption></figure>
+
 #### Our Priorities for launch
 
 <details>
@@ -107,7 +109,7 @@ This is the first protocol deployment tooling to be this simple in the Web3 spac
 
 As always, you can follow our [Github Roadmap](https://github.com/orgs/pokt-network/projects/144?query=is%3Aopen+sort%3Aupdated-desc) and very soon (not yet) apply for tasks with the community label [here](https://github.com/orgs/pokt-network/projects/144?query=is%3Aopen+sort%3Aupdated-desc).&#x20;
 
-POKT Network is an open-source project and you can find our active repo for Shannon [here](https://github.com/pokt-network/poktroll#roadmap).
+POKT Network is an open-source project and you can find our active repo for Shannon [here](https://dev.poktroll.com/).
 
 ***
 
