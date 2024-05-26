@@ -4,14 +4,13 @@
 The information below applies to RetroPGF Round 1. This document may be updated for subsequent rounds.
 {% endhint %}
 
-Retroactive POKT Goods Funding is open to anyone who meets the following eligibility criteria:&#x20;
+Retroactive POKT Goods Funding is open to anyone for contributions to the POKT ecosystem that meet the following criteria:&#x20;
 
-* Contributions that took place between Feb 23rd 2023 and May 10th 2024
-* Contributions towards the POKT ecosystem
-* Contributions for which the impact is already delivered (no unshipped projects or promises of future impact!)
-* Contributions for which the impact delivered is above and beyond a scope of work that was already funded (through PEPs, sockets, RFPs)
+* Made between Feb 23rd 2023 and May 10th 2024
+* Impact has already been delivered (no unshipped projects or promises of future impact!)
+* Impact delivered is above and beyond a scope of work that was already funded (through PEPs, Sockets, RFPs) or contribution was unsolicited or voluntary and did not receive funding
 
-Applicants may be asked to complete KYC by the POKT Network Foundation (PNF) as part of a risk-based assessment. Applying does not obligate you to complete KYC, however, failing to complete KYC if asked may lead to the rewards you have been granted being returned to the RetroPGF treasury for future rounds.
+Applicants may be asked to complete KYC by the POKT Network Foundation (PNF) as part of a risk-based assessment. Failing to complete KYC if asked may lead to the rewards you have been granted being returned to the RetroPGF treasury for future rounds.
 
 ## Application Categories
 
