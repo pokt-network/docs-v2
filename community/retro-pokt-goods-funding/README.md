@@ -14,9 +14,9 @@ To be eligible, contributions must meet the following criteria:
 
 * Made between Feb 23rd 2023 and May 10th 2024
 * Impact has already been delivered (no unshipped projects or promises of future impact!)
-* Impact delivered is above and beyond a scope of work that was already funded (through PEPs, Sockets, RFPs) or contribution was unsolicited or voluntary and did not receive funding
+* Impact delivered is above and beyond a scope of work that was already funded (through PEPs, Sockets, RFPs)
 
-The three categories where we want to reward impact are Protocol, Ecosystem and Adoption. These categories are explained below.
+The three categories where we want to reward impact are Protocol, Ecosystem and Adoption. These categories are explained below. Each application can apply to a single category only.
 
 NOTE: For ongoing risk assessment, POKT Network Foundation (PNF) may require some applicants to complete KYC.
 
@@ -109,4 +109,4 @@ Violating any of the following rules may result in disqualification. Violations 
 13. **Languages other than English** - English is the working language of the majority of voters so please ensure you translate any content that is part of your application.
 14. **Duplicate applications** - Multiple applications from the same individual, project or group that relate to the same impact. While a single application can list multiple projects in regard to the same impact, applying with different applications regarding the same impact is not allowed.
 
-Further information on the application process is available [here](application-process.md).
+Please also refer to the section titled "Additional Information Required" for the application process that's available [here](application-process.md).

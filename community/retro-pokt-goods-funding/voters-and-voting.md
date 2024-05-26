@@ -1,14 +1,14 @@
 # Voters & Voting
 
-Upon completion of the submission and assessment period, voters will complete their voting.
+Upon completion of the submission and assessment periods, voting will commence.
 
 ## Voters
 
-Voters for this retroactive funding round are :
+Voters for this retroactive funding round are:
 
 * [POKT DAO Voters](https://gnosisscan.io/token/0x59f9e6e5e495f2fb259963dec5ba56cfbd5846e7)
 
-Plus DAO approved Retro PGF Badgeholders
+Plus DAO-approved Retro PGF Badge Holders
 
 * b3nnn.eth (POKT Network Foundation)
 * Adz (POKT Network Foundation)
@@ -21,4 +21,4 @@ Plus DAO approved Retro PGF Badgeholders
 
 ## Voting
 
-POKT is implementing a user-centred approach to voting.  Details of the mechanism and rubric will be provided in advance of voting.
+POKT is implementing a user-centered approach to voting. Details of the mechanism and rubric will be provided in advance of voting.
