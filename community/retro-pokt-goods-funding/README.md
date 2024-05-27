@@ -14,9 +14,9 @@ To be eligible, contributions must meet the following criteria:
 
 * Made between Feb 23rd 2023 and May 10th 2024
 * Impact has already been delivered (no unshipped projects or promises of future impact!)
-* Impact delivered is above and beyond a scope of work that was already funded (through PEPs, Sockets, RFPs)
+* Impact delivered is above and beyond a scope of work that was already funded (through PEPs, Sockets, RFPs) or contribution was unsolicited or voluntary and did not receive prior funding
 
-The three categories where we want to reward impact are Protocol, Ecosystem and Adoption. These categories are explained below. Each application can apply to a single category only.
+The three categories where we want to reward impact are Protocol, Ecosystem and Adoption. These categories are explained below. While applicants can submit more than one application, each application can relate to a single category only.&#x20;
 
 NOTE: For ongoing risk assessment, POKT Network Foundation (PNF) may require some applicants to complete KYC.
 
@@ -102,7 +102,7 @@ Violating any of the following rules may result in disqualification. Violations 
 9. **Self-dealing** - Voting for your own application (self-dealing) or refusing to comply with the Conflicts Committee's efforts to prevent self-dealing. This includes failing to disclose the existence of Conflicted Voters\* when applying, refusing to disclose the voting addresses of Conflicted Voters if asked by the Conflicts Committee\*\*, or receiving votes from a Conflicted Voter. The Conflicts Committee, not PNF, will be the final authority on self-dealing disqualifications.
    * \*_Conflicted Voters are defined as DAO voters who have a direct interest in an applicant organization, either as an employee, contractor or equity holder._
    * _\*\*The Committee will determine if applications have failed to disclose Conflicted Voters and will inspect the ballots of Conflicted Voters to ensure that no self-dealing votes have been cast._
-10. **Refusing to KYC** - PNF reserves the right to request KYC as part of any risk-based assessment they complete as part of the program. If you are asked to complete KYC and fail to comply, your grant may be returned to the RetroPGF treasury for future rounds. Applicants on behalf of a DAO or PNF will be required to supply proof that the provided wallet addresses are official wallet addresses of the organization in question.
+10. **Refusing to KYC** - PNF reserves the right to request KYC for ongoing risk-based assessment. If you are asked to complete KYC and fail to comply, your grant will be returned to the RetroPGF Treasury for future funding rounds. Applicants on behalf of a DAO or PNF will be required to supply proof that the provided wallet addresses are official wallet addresses of the organization in question.
 11. **Outside of RetroPGF’s scope** - Contributions that do not have a clear relationship to POKT Network, applications that do not highlight a valid contribution\*\*\*, or contributions which are outside of the RetroPGF scope.
     * _\*\*\*We define "contribution" as any activity that created impact for POKT and required at least one hour of work. User interactions (e.g. sending transactions) with POKT or wPOKT and staking do not qualify as "contributions."_
 12. **Spam** - Applications containing spam, such as irrelevant answers, plagiarized content, unrelated impact metrics and broken or irrelevant contribution links.&#x20;
