@@ -21,7 +21,7 @@ Voters will assess the applicants' impact based on the evidence provided, and ap
 * How much awareness was created and how many users or participants were touched?
 * How many users this applicant has affected and to what extent?
 
-Users' transactions and staking of POKT or wPOKT do not qualify as "contributions" eligible for retroactive rewards.&#x20;
+User transactions and staking of POKT or wPOKT do not qualify as "contributions" eligible for retroactive rewards.&#x20;
 
 **Keep in mind** this is a _retroactive_ funding round and only applicants who have created impact _before_ the submission deadline will be considered eligible (no rewards for promises of future value or impact!).
 
