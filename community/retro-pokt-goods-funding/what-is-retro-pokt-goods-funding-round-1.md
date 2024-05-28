@@ -4,7 +4,7 @@ Retroactive funding is a novel mechanism for reducing the gap between impact and
 
 For a high level overview, read our [blog post](https://www.pokt.network/blog/submissions-open).\
 \
-POKT Network has been the recipient of retroactive rewards and is now redistributing these funds via our own retroactive grants program. POKT DAO wants to create a domino effect, ensuring funds aren't captured by company or DAO treasuries but instead find their way into the hands of the people who directly created impact.&#x20;
+POKT Network has been the recipient of retroactive rewards and is now redistributing these funds via our own retroactive grants program. POKT DAO wants to create a domino effect, ensuring funds aren't captured by company or DAO treasury but instead find their way into the hands of the people who create impact.&#x20;
 
 ## Categories
 
@@ -23,7 +23,7 @@ Voters will assess the applicants' impact based on the evidence provided, and ap
 
 User transactions and staking of POKT or wPOKT do not qualify as "contributions" eligible for retroactive rewards.&#x20;
 
-**Keep in mind** this is a _retroactive_ funding round and only applicants who have created impact _before_ the submission deadline will be considered eligible (no rewards for promises of future value or impact!).
+NOTE: this is a _retroactive_ funding round and only applicants who have created impact _before_ the submission deadline are eligible (no rewards for promises of future value or impact!).
 
 ## Rewards
 
@@ -33,8 +33,8 @@ The retroactive rewards pool consists of:
 * 60,000 ARB
 * 750,000 wrapped POKT
 
-Successful applicants will receive funding from all three pools proportionally.
+Successful applicants will receive funding from all three pools proportionally.&#x20;
 
-Rewards will be streamed over the course of one month starting from the rewards release date of July 15, 2024. Applicants are not obligated to complete KYC but the Pocket Network Foundation may withhold rewards until KYC is provided as part of any risk assessment during the program.
+All of these funds are meant to be distributed in this funding round.  Rewards will be streamed over the course of one month starting from the rewards release date of July 15, 2024. Applicants are not obligated to complete KYC but the Pocket Network Foundation may withhold rewards until KYC is provided as part of any risk assessment during the program.
 
 #### Next: [Timeline](timeline.md)
