@@ -4,7 +4,9 @@
 
 ### Apply at [impact.pokt.network](https://impact.pokt.network/).
 
-
+{% hint style="info" %}
+**Deadline for submissions: 12 midnight UTC May 31, 2024 (or 8 PM ET)**
+{% endhint %}
 
 POKT’s experimental first round of retroactive grants is open to projects & individuals for contributions that delivered impact to the POKT ecosystem.
 
