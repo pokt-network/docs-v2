@@ -28,7 +28,7 @@ The following actions may lead to your application being disqualified:
 {% hint style="info" %}
 \*_Conflicted Voters are defined as DAO voters who have a direct interest in an applicant organization, either as an employee, contractor or equity holder._
 
-_\*\*The Committee will determine if applications have failed to disclose Conflicted Voters and will inspect the ballots of Conflicted Voters to ensure that no self-dealing votes have been cast._
+_\*\*The Conflicts Committee ensures that PNF is not the unilateral authority on suspected self-dealing activities. It consists of three members – a PNF director, a DAO-nominated board observer, and a neutral (non-POKT) third-party selected by PNF. The Committee will determine if applications have failed to disclose Conflicted Voters and will inspect the ballots of Conflicted Voters to ensure that no self-dealing votes have been cast._
 {% endhint %}
 
 10. **Refusing to KYC** - PNF reserves the right to request successful applicants to complete KYC for its ongoing risk-based assessment. If you are asked to complete KYC and fail to comply, your grant will be returned to the RetroPGF treasury for future funding rounds. Applicants on behalf of a DAO or other entity will be required to supply proof that the provided wallet addresses are official wallet addresses of the entity in question.
