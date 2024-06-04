@@ -66,6 +66,7 @@
   * [Eligibility Criteria](community/retro-pokt-goods-funding/eligibility-criteria.md)
   * [Rules of Conduct](community/retro-pokt-goods-funding/rules-of-conduct.md)
   * [Voters & Voting](community/retro-pokt-goods-funding/voters-and-voting.md)
+  * [Voting Rubric](community/retro-pokt-goods-funding/voting-rubric.md)
   * [Support & FAQ](community/retro-pokt-goods-funding/support-and-faq.md)
   * [What is Retro POKT Goods funding Round 1?](community/retro-pokt-goods-funding/what-is-retro-pokt-goods-funding-round-1.md)
 
