@@ -1,9 +1,9 @@
 # Retro POKT Goods Funding
 
 {% hint style="info" %}
-### Retroactive POKT Goods Funding Round 1 is now accepting submissions! Apply at [impact.pokt.network](https://impact.pokt.network/).
+### Retroactive POKT Goods Funding Round 1 is now open for voting! Vote at [impact.pokt.network](https://impact.pokt.network/).
 
-#### **Deadline for submissions: 12 midnight Pacific Daylight Time on May 31, 2024 (3 AM Eastern Daylight Time on June 1 PM ET)**
+#### **Deadline for Voting: 12 midnight Pacific Daylight Time on June 21, 2024 (3 AM Eastern Daylight Time on June 1 PM ET)**
 {% endhint %}
 
 POKT’s first round of retroactive grants is open to projects & individuals for contributions that delivered impact to the POKT ecosystem.

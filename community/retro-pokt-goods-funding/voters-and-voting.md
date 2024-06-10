@@ -1,6 +1,12 @@
 # Voters & Voting
 
-Upon completion of the submission and assessment periods, voting will commence.
+## Voting is now OPEN!!
+
+Voters should be able to get everything they need from the [Voter Guide](https://poktdao.notion.site/POKT-RetroPGF-Voter-Guide-43b0f2e59d424f61a989adbdb64fe5db) and by reviewing the [Voter Onboarding call recording](https://www.youtube.com/watch?v=UidBGNrEFhs) and [Voting Rubric](https://docs.pokt.network/community/retro-pokt-goods-funding/voting-rubric)
+
+### Voter guide [here](https://poktdao.notion.site/POKT-RetroPGF-Voter-Guide-43b0f2e59d424f61a989adbdb64fe5db)
+
+
 
 ## Voters
 
@@ -17,8 +23,4 @@ Plus DAO-approved Retro PGF Badge Holders
 * Jun (Arbitrum Delegate)
 * LauNaMu (Optimism Retro PGF team)
 * Sejal Rekhan (Gitcoin / Easy RetroPGF)
-* TBC (FireEyes DAO)
 
-## Voting
-
-POKT is implementing a user-centered approach to voting. Details of the mechanism and rubric will be provided in advance of voting.
