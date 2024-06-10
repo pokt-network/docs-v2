@@ -10,7 +10,7 @@ Morse is still live on MainNet but the final update was pushed in February 2024.
 
 ### About Morse
 
-Since launch in July 2020, the protocol has served almost 700bn relays across 50+ chains, through a network of c.15k nodes in 22 countries.
+Since launch in July 2020, the protocol has served over 740bn relays across 50+ chains, through a network of c.15k nodes in 22 countries.
 
 It was built on top of the Tendermint framework in the Cosmos ecosystem. However, it has since evolved and we have made significant modifications to the original Tendermint codebase to optimize for our specific use case.
 
