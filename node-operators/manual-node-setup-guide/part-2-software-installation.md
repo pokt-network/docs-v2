@@ -21,7 +21,7 @@ After the update completes, we're ready to install the dependencies.
 
 #### Installing dependencies
 
-Some of the following dependencies might already be installed so if one of the them exists, you can just move on to the next one.
+Some of the following dependencies might already be installed so if one of them exists, you can just move on to the next one.
 
 **git**
 
