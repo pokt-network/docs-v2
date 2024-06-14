@@ -9,7 +9,7 @@ description: >-
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Protocol Core:</strong></td><td>Official implementation of the POKT Network Protocol</td><td><a href="https://github.com/pokt-network/pocket-core">https://github.com/pokt-network/pocket-core</a></td></tr><tr><td><strong>POKTroll:</strong></td><td>The official Shannon upgrade implementation of the POKT Network Protocol</td><td><a href="https://github.com/pokt-network/poktroll">https://github.com/pokt-network/poktroll</a></td></tr><tr><td><strong>Gateway Server:</strong></td><td>Interact with the POKT Protocol with ease with our Gateways</td><td><a href="https://github.com/pokt-network/gateway-server">https://github.com/pokt-network/gateway-server</a></td></tr></tbody></table>
 
-The **POKT Network protocol** first launched on Mainnet in July 2020 with our original protocol, called [Morse](morse.md). A major protocol upgrade, [Shannon](shannon.md), is already live on public testnet and dates for Mainnet will be confirmed shortly.
+The **POKT Network protocol** first launched on Mainnet in July 2020 with our original protocol, called [Morse](morse.md). A major protocol upgrade, [Shannon](shannon/), is already live on public testnet and dates for Mainnet will be confirmed shortly.
 
 ***
 
@@ -27,7 +27,7 @@ Since launch, the protocol has served nearly 700 billion relays on over [50 diff
 
 ***
 
-### [Shannon](shannon.md)
+### [Shannon](shannon/)
 
 Under development since August 2023, or next major upgrade is named Shannon, [after mathematician and cryptographer Claude Shannon](https://en.wikipedia.org/wiki/Claude\_Shannon), the father of information theory.
 
@@ -36,6 +36,6 @@ Shannon is already live on public testnet and dates for Mainnet will be shared s
 \
 
 
-{% content-ref url="shannon.md" %}
-[shannon.md](shannon.md)
+{% content-ref url="shannon/" %}
+[shannon](shannon/)
 {% endcontent-ref %}

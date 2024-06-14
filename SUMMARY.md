@@ -11,7 +11,26 @@
 
 * [Our evolution](pokt-protocol/our-evolution.md)
 * [Morse](pokt-protocol/morse.md)
-* [Shannon](pokt-protocol/shannon.md)
+* [Shannon](pokt-protocol/shannon/README.md)
+  * [Technical Overview](pokt-protocol/shannon/technical-overview/README.md)
+    * [Launch Roadmap](pokt-protocol/shannon/technical-overview/launch-roadmap.md)
+    * [Morse -> Shannon Migration](pokt-protocol/shannon/technical-overview/morse-greater-than-shannon-migration/README.md)
+      * [PIP Migration](pokt-protocol/shannon/technical-overview/morse-greater-than-shannon-migration/pip-migration.md)
+      * [Other Migration](pokt-protocol/shannon/technical-overview/morse-greater-than-shannon-migration/other-migration.md)
+      * [Expected Gaps](pokt-protocol/shannon/technical-overview/morse-greater-than-shannon-migration/expected-gaps.md)
+      * [Future Features](pokt-protocol/shannon/technical-overview/morse-greater-than-shannon-migration/future-features.md)
+    * [Secondary DA Networks](pokt-protocol/shannon/technical-overview/secondary-da-networks.md)
+  * [Shannon Actors](pokt-protocol/shannon/shannon-actors/README.md)
+    * [Sovereign Applications](pokt-protocol/shannon/shannon-actors/sovereign-applications.md)
+    * [Gateways](pokt-protocol/shannon/shannon-actors/gateways.md)
+    * [Suppliers](pokt-protocol/shannon/shannon-actors/suppliers.md)
+    * [Sources](pokt-protocol/shannon/shannon-actors/sources.md)
+  * [Proposed Tokenomics](pokt-protocol/shannon/proposed-tokenomics/README.md)
+    * [Token Logic Modules](pokt-protocol/shannon/proposed-tokenomics/token-logic-modules.md)
+    * [Gaming Prevention](pokt-protocol/shannon/proposed-tokenomics/gaming-prevention.md)
+    * [Aligned Incentives](pokt-protocol/shannon/proposed-tokenomics/aligned-incentives.md)
+    * [Tokenomics Resources](pokt-protocol/shannon/proposed-tokenomics/tokenomics-resources.md)
+  * [Jump in to Shannon Today](pokt-protocol/shannon/jump-in-to-shannon-today.md)
 
 ## Developers
 

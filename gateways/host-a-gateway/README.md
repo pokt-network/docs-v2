@@ -7,7 +7,7 @@ Decentralizing your node operations brings huge benefits but it is challenging.
 Instead, you can unlock the same benefits by building your services on top of our decentralized network of c.15 k nodes, 66% on bare metal, in 22 countries, and with dozens of independent hardware operators.
 
 {% hint style="info" %}
-With the [Shannon Upgrade](../../pokt-protocol/shannon.md) (targeted to deploy to MainNet late Q2 2024), the ability to deploy a Gateway to POKT Network will be fully permissionless.&#x20;
+With the [Shannon Upgrade](../../pokt-protocol/shannon/) (targeted to deploy to MainNet late Q2 2024), the ability to deploy a Gateway to POKT Network will be fully permissionless.&#x20;
 
 In the meantime, POKT Network Foundation is working with a group of high potential [Early Access](broken-reference) partners. Partners are selected based on potential contribution to protocol revenue, innovation, and values alignment.
 

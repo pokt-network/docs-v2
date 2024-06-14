@@ -1,6 +1,6 @@
 # Morse
 
-Morse is still live on MainNet but the final update was pushed in February 2024. There will be no further development as we now focus on the launch of [Shannon.](shannon.md)
+Morse is still live on MainNet but the final update was pushed in February 2024. There will be no further development as we now focus on the launch of [Shannon.](shannon/)
 
 ### Contents&#x20;
 
