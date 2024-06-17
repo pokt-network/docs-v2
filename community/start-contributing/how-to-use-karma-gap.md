@@ -52,6 +52,10 @@ While all contributors must provide monthly updates, they also have the option o
 
 Make sure to save a copy of any updates you intend to publish on Karma in case you have to re-enter them (e.g., if there's an error and the save transaction doesn't complete).
 
+{% hint style="info" %}
+**Save on gas fees**: You are welcome to request PNF to send you a tiny amount of ETH on the Optimism network to pay for the transactions involved in setting up your grant, creating milestones or submitting updates. Send your request with wallet address to Zak - @DoctorRobinson - on Discord. This will save you the cost of moving ETH from the Ethereum Mainnet.
+{% endhint %}
+
 **For a great example of how to set up a project and gran**t, see the [Develop DAO project](https://gap.karmahq.xyz/project/simplify-infrastructure-deployments-and-operations) and its "Simplify Infrastructure Deployments and Operations" grant.
 
 ### PNF Can Do Initial Setup
