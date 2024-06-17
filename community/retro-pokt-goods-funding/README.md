@@ -7,7 +7,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-**NEW!! Need some ETH on Optimism to place your vote?** Upon request PNF, will send $1 in ETH to a verified wallet address to cover your voting transactions. Reach out to PNF in the [retroPGF channel](https://discord.com/channels/553741558869131266/1247303166014259200) on POKT Discord.
+**NEW!! Need some ETH on Optimism to place your vote?** Just ask and PNF will send you $1 in ETH to a verified wallet address. Reach out in the [retroPGF channel](https://discord.com/channels/553741558869131266/1247303166014259200) on POKT Discord.
 {% endhint %}
 
 POKT’s first round of retroactive grants is open to projects & individuals for contributions that delivered impact to the POKT ecosystem.
