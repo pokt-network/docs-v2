@@ -37,7 +37,7 @@ These ambitions all align towards our _**North Star**_, which is Protocol Revenu
 
 #### The Era
 
-To DAO aligns behind these ambitions through a mechanism called an Era. The Era is a milestone-based objective which creates a shared and definable objective for the Era. The objective of the current Era is the launch of the protocol's [Shannon Upgrade](../pokt-protocol/shannon/).
+To DAO aligns behind these ambitions through a mechanism called an Era. The Era is a milestone-based objective which creates a shared and definable objective for the Era. The objective of the current Era is the launch of the protocol's [Shannon Upgrade](../pokt-protocol/the-shannon-upgrade/).
 
 The Era aligns focus and funding mechanisms and aims to remove the proxy strategy debates that many DAOs fall into by conflating resource allocation decisions with strategy. We seek to avoid the [known DAO problems](https://docs.google.com/document/d/1RETQRH2cgzn3\_72JmF5xr0LW7sIsVyjCmiRY3-wrq3E/edit#heading=h.iif52hhnu202) that we've identified.
 

@@ -1,14 +1,14 @@
-# Morse
+# The Morse Protocol
 
-Morse is still live on MainNet but the final update was pushed in February 2024. There will be no further development as we now focus on the launch of [Shannon.](shannon/)
+The Morse protocol has been live on MainNet since July 2020, but the final update was pushed in February 2024. There will be no further development as we now focus on the launch of [Shannon.](the-shannon-upgrade/)
 
 ### Contents&#x20;
 
-1. [About Morse ](morse.md#about-morse)
-2. [History of Morse](morse.md#a-history-of-morse)&#x20;
-3. [How Morse Worse Works ](morse.md#how-morse-works)
+1. [The Morse Protocol ](the-morse-protocol.md#the-morse-protocol)
+2. [History of Morse](the-morse-protocol.md#a-history-of-morse)&#x20;
+3. [How Morse Worse Works ](the-morse-protocol.md#how-morse-works)
 
-### About Morse
+### The Morse Protocol
 
 Since launch in July 2020, the protocol has served over 740bn relays across 50+ chains, through a network of c.15k nodes in 22 countries.
 

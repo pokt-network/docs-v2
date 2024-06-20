@@ -2,11 +2,11 @@
 description: The future of POKT Network's universal RPC infra layer
 ---
 
-# Shannon
+# The Shannon Upgrade
 
-Shannon transforms POKT Network from a leading DePIN (Decentralized Physical Infrastructure) with full supply-side decentralization and an empowered community into the first true sharing economy for any open data-source.&#x20;
+The upcoming Shannon upgrade will transform POKT Network from a leading DePIN (Decentralized Physical Infrastructure) with full supply-side decentralization and an empowered community into the first true sharing economy for any open data-source.&#x20;
 
-It accelerates key changes that are already taking place at POKT Network.
+It will accelerate key changes that are already taking place at POKT Network.
 
 Including:
 
