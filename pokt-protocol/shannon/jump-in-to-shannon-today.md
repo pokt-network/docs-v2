@@ -6,10 +6,10 @@ This is the first protocol deployment tooling to be this simple in the Web3 spac
 
 As always, you can follow our [Github Roadmap](https://github.com/orgs/pokt-network/projects/144?query=is%3Aopen+sort%3Aupdated-desc) and very soon (not yet) apply for tasks with the community label [here](https://github.com/orgs/pokt-network/projects/144?query=is%3Aopen+sort%3Aupdated-desc).&#x20;
 
-POKT Network is an open-source project and you can find our active repo for Shannon [here](https://dev.poktroll.com/).
+POKT Network is an open-source project and you can find our active repo for our Shannon protocol upgrade [here](https://dev.poktroll.com/).
 
 ***
 
 > ### A Note From PNF
 >
-> Shannon is not only the next era of the POKT Protocol, but also the next stage of growth for the POKT Network community. This evolution in technology will also see the evolution of our community, as it will enable more developers to engage directly with the protocol and contribute in meaningful ways. We are excited for what is next. Please be on the lookout for new materials and initiatives rolling out in the coming weeks.
+> The Shannon upgrade is not only the next era of the POKT Protocol, but also the next stage of growth for the POKT Network community. This evolution in technology will also see the evolution of our community, as it will enable more developers to engage directly with the protocol and contribute in meaningful ways. We are excited for what is next. Please be on the lookout for new materials and initiatives rolling out in the coming weeks.

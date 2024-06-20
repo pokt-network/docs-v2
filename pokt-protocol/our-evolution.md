@@ -13,7 +13,7 @@ The **POKT Network protocol** first launched on Mainnet in July 2020 with our or
 
 ***
 
-### [Morse](morse.md)
+### The Live Protocol, [Morse](morse.md)
 
 We built our live protocol (Morse) on top of the [Tendermint framework](https://tendermint.com/) in the Cosmos ecosystem. Over time, we significantly modified the original Tendermint codebase to optimize for our specific use case.
 
@@ -27,11 +27,11 @@ Since launch, the protocol has served nearly 700 billion relays on over [50 diff
 
 ***
 
-### [Shannon](shannon/)
+### The Future Protocol, [Shannon](shannon/)
 
-Under development since August 2023, or next major upgrade is named Shannon, [after mathematician and cryptographer Claude Shannon](https://en.wikipedia.org/wiki/Claude\_Shannon), the father of information theory.
+Under development since August 2023, our next major upgrade is named Shannon, [after mathematician and cryptographer Claude Shannon](https://en.wikipedia.org/wiki/Claude\_Shannon), the father of information theory.
 
-Shannon is already live on public testnet and dates for Mainnet will be shared soon.
+The Shannon upgrade is already live on public testnet and dates for Mainnet will be shared soon.
 
 \
 

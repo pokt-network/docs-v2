@@ -2,9 +2,9 @@
 
 Suppliers host the data sources or backend service that Sovereign Applications and Gateways want access to. They bring the data infrastructure to POKT Network. With Shannon we want to enable Suppliers to dramatically reduce their costs, encourage growth, and improve decentralization.
 
-### Proposed Shannon Improvements
+### Proposed Improvements with the Shannon upgrade
 
-Shannon is redefining the economics around running Supplier nodes. Shannon will unlock the ability for 1 Supplier node to generate network average rewards with a single PC.
+The Shannon upgrade will redefine the economics around running Supplier nodes. It will unlock the ability for 1 Supplier node to generate network average rewards with a single PC.
 
 |                                  | Morse    | Shannon      |
 | -------------------------------- | -------- | ------------ |

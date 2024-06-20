@@ -38,7 +38,7 @@ If POKT Network has an unlimited Access layer, then there are no limitations on 
 
 For web3 services to outperform their web2 counterparts, they must offer superior UX. POKT Network understands this at a protocol level.
 
-### Morse Vs Shannon Gateways
+### Gateways in Morse (today) and Shannon (soon)
 
 |                             | Morse                                  | Shannon       |
 | --------------------------- | -------------------------------------- | ------------- |
@@ -47,9 +47,11 @@ For web3 services to outperform their web2 counterparts, they must offer superio
 | Self-dealing susceptibility | ❌ (Avoided through trusted federation) | ✅ (avoided)   |
 | On-chain scalability        | ❌ (Number of gateways is limited)      | ✅ (non-issue) |
 
-### Shannon Gateways
+### Future Gateways (after the Shannon Upgrade)
 
-Shannon provides gateways with on-chain and permissionless access. This enables POKT Network's demand side to grow without the restraints required under Morse. Major features from the start will include:
+The Shannon upgrade will provide gateways with on-chain and permissionless access. This will enable POKT Network's demand side to grow without the restraints required under the current Morse protocol.&#x20;
+
+Major features from the start will include:
 
 1. Permissionless staking
 2. On-chain payments
@@ -58,7 +60,7 @@ Shannon provides gateways with on-chain and permissionless access. This enables 
 
 #### Gateway Staking
 
-_Gateway staking in Shannon will likely differ from most staking practices in web3. As Shannon's tokenomics continues to mature, there will likely be changes, but for now, this is where the team stands._
+_Gateway staking after the Shannon upgrade will likely differ from most staking practices in web3. As Shannon's tokenomics continue to mature, there will likely be changes, but for now, this is where the team stands._
 
 How Gateways interact with the POKT token will be crucial to POKT adoption. In the context of DePIN, token interaction can often be the most challenging part of using a protocol.
 

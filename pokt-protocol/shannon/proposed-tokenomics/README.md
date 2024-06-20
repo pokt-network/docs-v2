@@ -10,9 +10,9 @@ POKT Network is designed to create a mutually beneficial ecosystem for all actor
 
 Shannon's proposed tokenomics are the mechanism that achieves this balance and provides incentives that make business sense. It fosters an environment that entices businesses to bring their operations to POKT Network, thereby generating revenue. It also plays a crucial role in achieving network-wide goals, such as hitting deflation as demand grows on POKT Network. In this scenario, all actors and stakeholders, including POKT token holders, stakers, and LP suppliers, benefit from the growth of POKT Network's demand side and the influx of more businesses joining the ecosystem.
 
-### Morse Tokenomics
+### Current Tokenomics
 
-Morse currently uses a relatively high ratio of POKT minted per POKT burned to sustain a competitive APR for suppliers. However, high minting opens the door for “self-dealing,” which is economic gaming through permissionless gateways. This is why gateways are currently permissioned and under the control of PNF.
+Our live protocol (Morse)  uses a relatively high ratio of POKT minted per POKT burned to sustain a competitive APY for suppliers. However, high minting opens the door for “self-dealing,” which is economic gaming through permissionless gateways. This is why gateways are currently permissioned and under the control of PNF.
 
 | Relays per day: 400M    | Demand Side | Supply Side   |
 | ----------------------- | ----------- | ------------- |
@@ -21,18 +21,18 @@ Morse currently uses a relatively high ratio of POKT minted per POKT burned to s
 | Staking APR             | -           | 9%            |
 | Self Dealing Mitigation | PNF         | PNF           |
 
-### Shannon MVP Tokenomic Goals
+### Future Tokenomic Goals
 
-To do this, Shannon has four main goals for the MVP implementation to unlock POKT’s full potential:
+POKT Network's major protocol upgrade, called Shannon, has four main goals to start to unlock POKT’s full potential:
 
-1. <mark style="color:red;">`Permissionless Gateways and Nodes`</mark> - Allow POKT’s demand and supply sides to grow in a fully permissionless manner.
+1. <mark style="color:red;">`Permissionless Gateways and Nodes`</mark> - Allow POKT Network’s demand and supply sides to grow in a fully permissionless manner.
 2. <mark style="color:red;">`Meaningful staking APR`</mark> - Incentivize stakers to ruse their POKT productively to earn from serving the network
 3. <mark style="color:red;">`Address Self Dealing`</mark> - Enable both #1 and #2 without making self dealing possible
 4. <mark style="color:red;">`Introduce rewards for Sources`</mark> - New source of revenue for new actors to incentivize ecosystem growth and connections.
 
-To ensure these goals are met, Shannon is introducing <mark style="color:red;">`Token Logic Modules`</mark>.
+To ensure these goals are met, we proposes to introduce <mark style="color:red;">`Token Logic Modules`</mark> into the Shannon upgrade.
 
-### MVP Tokenomic Features
+### Shannon Tokenomic Features
 
 ✅ Permissionless Gateways
 

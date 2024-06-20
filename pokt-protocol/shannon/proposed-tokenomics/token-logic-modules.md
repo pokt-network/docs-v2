@@ -1,8 +1,8 @@
 # Token Logic Modules
 
-Shannon brings a groundbreaking innovation into the POKT network by introducing Token Logic Modules (TLMs). These TLMs are housed within the tokenomic module, a custom component developed using the Cosmos SDK. Each TLM represents a distinct economic model with its own unique logic.
+The Shannon upgrade brings a potentially groundbreaking innovation into the POKT Network with Token Logic Modules (TLMs). These TLMs are housed within the tokenomic module, a custom component developed using the Cosmos SDK. Each TLM represents a distinct economic model with its own unique logic.
 
-The beauty of this system is that it allows for multiple TLMs to operate concurrently, each applied to different ServiceIDs within the network. This means that POKT can have a fully modular tokenomics system, tailored to the specific needs and dynamics of each service. This is a revolutionary development for a DePIN utility token to scale into completely different markets, each with their own needs.
+The beauty of this system is that it allows for multiple TLMs to operate concurrently, each applied to different ServiceIDs within the network. This means that POKT Network can have a fully modular tokenomics system, tailored to the specific needs and dynamics of each service. This is a revolutionary development for a DePIN utility token to scale into completely different markets, each with their own needs.
 
 For example, here's how different TLMs can be applied to different ServiceIDs:
 
@@ -29,7 +29,7 @@ With TLMs, we can create novel economic models for new services, such as AI or o
 
 #### 1. RMB (Relay Burn = Mint) TLM
 
-This is the base mechanism we want in Shannon, where when 1 POKT burned on the demand side, 1 POKT or less is minted on the supply side. Having the mint be less then 1 POKT is how POKT can become deflationary.
+This is the base mechanism we want in the Shannon upgrade, where when 1 POKT burned on the demand side, 1 POKT or less is minted on the supply side. Having the mint be less then 1 POKT is how POKT can become deflationary.
 
 |                         | Demand      | Supply      |
 | ----------------------- | ----------- | ----------- |
@@ -69,7 +69,7 @@ Here is an example of what the rewards can be for some Source with RMB TLM and S
 | Solana   | 15M            | $98 <mark style="color:orange;">(24%)</mark>  | $305 <mark style="color:orange;">(76%)</mark>   | <mark style="color:green;">$404</mark> <mark style="color:orange;">(100%)</mark>   | <mark style="color:green;">$4,855</mark>  |
 | DFKchain | 10M            | $55 <mark style="color:orange;">(24%)</mark>  | $172 <mark style="color:orange;">(76%)</mark>   | <mark style="color:green;">$228</mark> <mark style="color:orange;">(100%)</mark>   | <mark style="color:green;">$2,737</mark>  |
 
-With POKT currently on-boarding half a dozen gateways and the growth opportunities that come from permissionless gateways in Shannon, substantial relay growth is expected. Here's how relay growth to \~5B relays a day would look for Champions 👇
+With POKT Network currently on-boarding half a dozen gateways and the growth opportunities that come from permissionless gateways once the Shannon upgrade is live on MainNet, substantial relay growth is expected. Here's how relay growth to \~5B relays a day would look for Sources. 👇
 
 <table><thead><tr><th></th><th>Relays per day</th><th>Reward from Mint = Burn</th><th>Reward from Champion Boost</th><th>Total Monthly Reward</th><th width="100">Annual Reward</th></tr></thead><tbody><tr><td>Polygon</td><td>1.1B</td><td>$5,964 <mark style="color:green;">(44%)</mark></td><td>$7,539 <mark style="color:green;">(56%)</mark></td><td><mark style="color:green;">$13,504</mark> (100%)</td><td><mark style="color:green;">$162,133</mark></td></tr><tr><td>Ethereum</td><td>849M</td><td>$4,404 <mark style="color:orange;">(36%)</mark></td><td>$7,723 <mark style="color:orange;">(64%)</mark></td><td><mark style="color:green;">$12,128</mark> (100%)</td><td><mark style="color:green;">$145,615</mark></td></tr><tr><td>Solana</td><td>217M</td><td>$1,127 <mark style="color:orange;">(26%)</mark></td><td>$3,135 <mark style="color:orange;">(74%)</mark></td><td><mark style="color:green;">$4,263</mark> (100%)</td><td><mark style="color:green;">$51,187</mark></td></tr><tr><td>DFKchain</td><td>121M</td><td>$632 <mark style="color:orange;">(25%)</mark></td><td>$1,857 <mark style="color:orange;">(75%)</mark></td><td><mark style="color:green;">$2,490</mark> (100%)</td><td><mark style="color:green;">$29,898</mark></td></tr></tbody></table>
 

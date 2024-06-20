@@ -4,7 +4,7 @@ Sources are a new actor being introduced to the POKT network. These are the buil
 
 ### The Incentive Gap
 
-Historically, there has not been a market incentive for chains to encourage their users to use POKT Network, since those that economically benefit from POKT Network have only been Suppliers and Gateways. With Shannon, we aim to close this gap so that chain foundations and future data sources have incentives to come to POKT Network and bring their users.
+Historically, there has not been a market incentive for chains to encourage their users to use POKT Network, since those that economically benefit from POKT Network have only been Suppliers and Gateways. With the Shannon upgrade, we aim to close this gap so that chain foundations and future data sources have incentives to come to POKT Network and bring their users.
 
 POKT Network will be the only web3 protocol driving direct revenue to the data source builders. For example, in POKT Network’s early days, the Avalanche Foundation was running RPC infrastructure for their community, which was doing 3B relays a day. With Shannon, we have the ability to turn those 3B relays a day into a source of revenue for the Avalanche Foundation and the client developers. When modelled out, 3B relays a day could generate the Avalanche Foundation 100s of thousands dollars a year, enabling them to put more resources into actual client development. It would also further strengthen ties between the POKT and AVAX communities.
 
