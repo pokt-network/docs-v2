@@ -62,7 +62,6 @@
 ## Community
 
 * [DAO (OS)](community/dao-os.md)
-* [Community Calls + Events](community/community-calls-+-events.md)
 * [Start Contributing](community/start-contributing/README.md)
   * [Bounties](community/start-contributing/bounties.md)
   * [Quick Grants](community/start-contributing/quick-grants.md)
@@ -88,6 +87,22 @@
   * [Voting Rubric](community/retro-pokt-goods-funding/voting-rubric.md)
   * [Support & FAQ](community/retro-pokt-goods-funding/support-and-faq.md)
   * [What is Retro POKT Goods funding Round 1?](community/retro-pokt-goods-funding/what-is-retro-pokt-goods-funding-round-1.md)
+* [Community Calls + Events](community/community-calls-+-events.md)
+* [POKT Events Playbook](community/pokt-events-playbook/README.md)
+  * [Hosting Your Event](community/pokt-events-playbook/hosting-your-event/README.md)
+    * [Event Type](community/pokt-events-playbook/hosting-your-event/event-type/README.md)
+      * [Small Events](community/pokt-events-playbook/hosting-your-event/event-type/small-events.md)
+      * [Mid-sized Events](community/pokt-events-playbook/hosting-your-event/event-type/mid-sized-events.md)
+      * [Large Events](community/pokt-events-playbook/hosting-your-event/event-type/large-events.md)
+  * [Event Agenda](community/pokt-events-playbook/event-agenda.md)
+  * [Speaker](community/pokt-events-playbook/speaker.md)
+  * [Venue](community/pokt-events-playbook/venue.md)
+  * [Applying for Funding](community/pokt-events-playbook/applying-for-funding.md)
+  * [Your Responsibilities as a Host](community/pokt-events-playbook/your-responsibilities-as-a-host.md)
+  * [Resources](community/pokt-events-playbook/resources/README.md)
+    * [Email Templates](community/pokt-events-playbook/resources/email-templates.md)
+    * [Social Media Templates](community/pokt-events-playbook/resources/social-media-templates.md)
+    * [Survey Questions Template](community/pokt-events-playbook/resources/survey-questions-template.md)
 
 ## POKT TOKEN
 

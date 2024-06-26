@@ -25,7 +25,7 @@ There are three bounty types:
 * Assigned
   * Used to assign a bounty directly to a contributor (could be a small job created in direct talks with PNF and is constituted as a bounty to enable public tracking of performance and payment)
 * Multiple Submissions
-  * Anyone who wants to contribute can submit the requested deliverable without having to apply first. The person who creates the bounty must indicate if there will be one or multiple winners. Since some participants might not be paid, this bounty type applies only to tasks involving very little work, such as “Come up with this year’s best POKT joke.”
+  * Anyone who wants to contribute can submit the requested deliverable without having to apply first. The person who creates the bounty should stipulate if there will be one or multiple winners. Since some participants might not be paid, this bounty type applies only to tasks involving very little work, such as “Come up with this year’s best POKT joke.”
 
 #### **Bounty Status**
 

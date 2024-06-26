@@ -1,0 +1,5 @@
+# Speaker
+
+Here are 3 broad themes that guide effective speaker selection. :point\_down:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Would your audience be interesting in hearing about different projects?</td><td>Bring in speakers who can share what they're working on. You can also use their network to promote the event.</td><td><a href="../../.gitbook/assets/Projects1.png">Projects1.png</a></td></tr><tr><td><p></p><p>Would your audience be interested in learning a skill in DePIN? </p></td><td>Bring in someone who can help them learn something valuable. Like  operating nodes and earning opportunities.</td><td></td><td><a href="../../.gitbook/assets/Learning1.png">Learning1.png</a></td></tr><tr><td></td><td><p>Would your audience like to dive down the ideological rabbit hole?</p><p></p><p>Bring in one of the philosophers who can talk to the vision and values of DePIN.<br><br></p></td><td></td><td><a href="../../.gitbook/assets/Ideology.png">Ideology.png</a></td></tr></tbody></table>
