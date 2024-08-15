@@ -1,10 +1,10 @@
-# What is $POKT
+# POKT Overview
 
 ## The universal RPC base layer token&#x20;
 
 POKT coordinates ecosystem actors and powers the decentralized RPC network. Gateways and node runners use the token to service the ever-growing demand for on-chain data.
 
-* Node runners must stake $POKT (currently 15,000 POKT) to operate a single node.
+* Node runners must stake $POKT (between 15k and 60k POKT) to operate a single node.
 * Gateways must pay an operator fee in $POKT per relay ($0.00000085).
 * Every week the aggregated operator fees from Gateways are burned by the Pocket Network Foundation.
 

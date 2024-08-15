@@ -1,16 +1,39 @@
 # Table of contents
 
-* [WELCOME](README.md)
+* [WHAT IS POKT?](README.md)
+* [$POKT TOKEN](usdpokt-token/README.md)
+  * [Bridging](usdpokt-token/bridging/README.md)
+    * [Wrapped POKT (wPOKT)](usdpokt-token/bridging/wrapped-pokt-wpokt/README.md)
+      * [Wrapping Walkthrough](usdpokt-token/bridging/wrapped-pokt-wpokt/wrapping-walkthrough.md)
+      * [Wrapping and Unwrapping FAQ](usdpokt-token/bridging/wrapped-pokt-wpokt/wrapping-and-unwrapping-faq.md)
+      * [LP Staking Walkthrough](usdpokt-token/bridging/wrapped-pokt-wpokt/lp-staking-walkthrough.md)
+      * [Liquidity Provider Staking FAQ](usdpokt-token/bridging/wrapped-pokt-wpokt/liquidity-provider-staking-faq.md)
+  * [POKT Rewards](usdpokt-token/pokt-rewards/README.md)
+    * [Stake POKT](usdpokt-token/pokt-rewards/stake-pokt.md)
+  * [Holding POKT](usdpokt-token/holding-pokt/README.md)
+    * [NodeWallet](usdpokt-token/holding-pokt/nodewallet.md)
+    * [Pocket Wallet](usdpokt-token/holding-pokt/pocket-wallet.md)
+    * [Ledger](usdpokt-token/holding-pokt/ledger.md)
+* [WELCOME](readme-1.md)
 
-## Learn About POKT
+## WHO WE ARE
 
-* [Our DNA](learn-about-pokt/our-dna.md)
-* [The Economics](learn-about-pokt/the-economics.md)
+* [POKT Overview](who-we-are/pokt-overview/README.md)
+  * [POKT Today](who-we-are/pokt-overview/pokt-today.md)
+  * [What Network is $POKT on?](who-we-are/pokt-overview/what-network-is-usdpokt-on.md)
+* [Our DNA](who-we-are/our-dna.md)
+
+## POKT TOKEN
+
+* [Get POKT or wPOKT](pokt-token/get-pokt-or-wpokt.md)
+* [Multi-Chain POKT](pokt-token/multi-chain-pokt/README.md)
+  * [Liquid Staking Incentives](pokt-token/multi-chain-pokt/liquid-staking-incentives.md)
 
 ## POKT Protocol
 
 * [Our evolution](pokt-protocol/our-evolution.md)
-* [The Morse Protocol](pokt-protocol/the-morse-protocol.md)
+* [The Morse Protocol](pokt-protocol/the-morse-protocol/README.md)
+  * [The Economics](pokt-protocol/the-morse-protocol/the-economics.md)
 * [The Shannon Upgrade](pokt-protocol/the-shannon-upgrade/README.md)
   * [Technical Overview](pokt-protocol/the-shannon-upgrade/technical-overview/README.md)
     * [Launch Roadmap](pokt-protocol/the-shannon-upgrade/technical-overview/launch-roadmap.md)
@@ -103,23 +126,6 @@
     * [Email Templates](community/pokt-events-playbook/resources/email-templates.md)
     * [Social Media Templates](community/pokt-events-playbook/resources/social-media-templates.md)
     * [Survey Questions Template](community/pokt-events-playbook/resources/survey-questions-template.md)
-
-## POKT TOKEN
-
-* [What is $POKT](pokt-token/what-is-usdpokt/README.md)
-  * [POKT Today](pokt-token/what-is-usdpokt/pokt-today.md)
-  * [What Network is $POKT on?](pokt-token/what-is-usdpokt/what-network-is-usdpokt-on.md)
-* [Get POKT or wPOKT](pokt-token/get-pokt-or-wpokt.md)
-* [Holding POKT](pokt-token/holding-pokt/README.md)
-  * [NodeWallet](pokt-token/holding-pokt/nodewallet.md)
-  * [Pocket Wallet](pokt-token/holding-pokt/pocket-wallet.md)
-  * [Ledger](pokt-token/holding-pokt/ledger.md)
-* [Stake POKT](pokt-token/stake-pokt.md)
-* [Wrapped POKT (wPOKT)](pokt-token/wrapped-pokt-wpokt/README.md)
-  * [Wrapping Walkthrough](pokt-token/wrapped-pokt-wpokt/wrapping-walkthrough.md)
-  * [Wrapping and Unwrapping FAQ](pokt-token/wrapped-pokt-wpokt/wrapping-and-unwrapping-faq.md)
-  * [LP Staking Walkthrough](pokt-token/wrapped-pokt-wpokt/lp-staking-walkthrough.md)
-  * [Liquidity Provider Staking FAQ](pokt-token/wrapped-pokt-wpokt/liquidity-provider-staking-faq.md)
 
 ## Reference
 

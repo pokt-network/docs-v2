@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # POKT Today
 
 The vast majority of POKT's supply is now liquid and circulating, with most tokens - almost 1b (and counting) of the current supply - distributed permissionlessly since POKT Network’s mainnet launch on 28 July 2020. The distribution mechanism - POKT Network’s version of a fair launch à la Bitcoin - was to issue POKT rewards to those staking POKT as node runners to serve RPC requests and as validators to secure the network.
