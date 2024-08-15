@@ -14,14 +14,13 @@ Currently, POKT nodes serve blockchain RPCs, allowing applications to reliably i
 
 POKT has an exciting future ahead:
 
-*   **Shannon Upgrade**: Scheduled for Q2 2025, the Shannon upgrade will make POKT a fully permissionless stack. It introduces new innovations:
+* **Shannon Upgrade**: Scheduled for Q2 2025, the Shannon upgrade will make POKT a fully permissionless stack. It introduces new innovations:
 
-    \
-    :heavy\_check\_mark: Relay Minting: The ability to prove work for trillions of API requests\
-    \
-    :heavy\_check\_mark: Token Logic Modules: Modular tokenomics, enabling POKT to scale into any market\
-    \
-    :heavy\_check\_mark: Native multi-chain: Allowing $POKT services to be used on any chain\
+:heavy\_check\_mark: Relay Minting: The ability to prove work for trillions of API requests
+
+:heavy\_check\_mark: Token Logic Modules: Modular tokenomics, enabling POKT to scale into any market
+
+:heavy\_check\_mark: Native multi-chain: Allowing $POKT services to be used on any chain
 
 * **Expanding Data Support**: With the launch of Shannon, POKT will be able to extend its infrastructure beyond blockchain RPCs to support thousands of open data sources. This includes indexing services, AI inferencing, oracles, inter-chain relaying, and other types of decentralized public infrastructure.
 
