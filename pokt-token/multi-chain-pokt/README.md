@@ -14,6 +14,6 @@ The POKT multi-chain smart contract was audited by [Nethermind](https://github.c
 
 To go from POKT on POKT Network to another chain, you can follow the following steps.
 
-1. First you need to bridge native POKT from POKT Network to wPOKT on Ethereum using the [wPOKT Bridge](../../usdpokt-token/bridging/wrapped-pokt-wpokt/wrapping-walkthrough.md). wPOKT is a dedicated wrapped token used for entering or exiting the native POKT blockchain.
+1. First you need to bridge native POKT from POKT Network to wPOKT on Ethereum using the [wPOKT Bridge](../../welcome/usdpokt-token/bridging/wrapped-pokt-wpokt/wrapping-walkthrough.md). wPOKT is a dedicated wrapped token used for entering or exiting the native POKT blockchain.
 2. Once you hold wPOKT on Ethereum, you can then convert to POKT on other chains using the [Multi-Chain Bridge](https://bridge.pokt.network).
    1. NOTE: You can not go directly from wPOKT to Solana do to technical limitations. First convert wPOKT to POKT on an EVM chain (like Ethereum), then you can bridge to Solana.

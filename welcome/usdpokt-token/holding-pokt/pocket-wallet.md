@@ -18,11 +18,11 @@ With an open-source interface, Pocket Wallet allows you to easily send, receive,
 
 Using any browser, navigate to [https://wallet.pokt.network](https://wallet.pokt.network). Click `Create` to start the process of setting up a new wallet.
 
-<figure><img src="../../.gitbook/assets/Screenshot_2024-05-02_at_22.49.29.png" alt=""><figcaption><p>visit the site</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_2024-05-02_at_22.49.29.png" alt=""><figcaption><p>visit the site</p></figcaption></figure>
 
 ### 2. Create your wallet:
 
-<figure><img src="../../.gitbook/assets/Screenshot_2024-05-02_at_22.57.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_2024-05-02_at_22.57.55.png" alt=""><figcaption></figcaption></figure>
 
 Next, enter a passphrase (password). This passphrase can be used to decrypt the keyfile that will be created in the next step.
 
@@ -34,7 +34,7 @@ After entering your passphrase, click `Create` to move to the next step.
 
 ### 3. Save your Keyfile:
 
-<figure><img src="../../.gitbook/assets/Screenshot_2024-05-02_at_23.14.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_2024-05-02_at_23.14.18.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This is a vital step that ensures you don’t lose access to your tokens. Make sure to back up your keyfile and save your passphrase securely.&#x20;
@@ -44,4 +44,4 @@ Once you've downloaded the keyfile, press `Continue`to complete the wallet-creat
 
 ### Welcome to the POKT ecosystem&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot_2024-05-02_at_23.21.04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_2024-05-02_at_23.21.04.png" alt=""><figcaption></figcaption></figure>

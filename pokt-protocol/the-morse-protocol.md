@@ -1,12 +1,12 @@
 # The Morse Protocol
 
-The Morse protocol has been live on MainNet since July 2020, but the final update was pushed in February 2024. There will be no further development as we now focus on the launch of [Shannon.](../the-shannon-upgrade/)
+The Morse protocol has been live on MainNet since July 2020, but the final update was pushed in February 2024. There will be no further development as we now focus on the launch of [Shannon.](the-shannon-upgrade/)
 
 ### Contents&#x20;
 
-1. [The Morse Protocol ](./#the-morse-protocol)
-2. [History of Morse](./#a-history-of-morse)&#x20;
-3. [How Morse Worse Works ](./#how-morse-works)
+1. [The Morse Protocol ](the-morse-protocol.md#the-morse-protocol)
+2. [History of Morse](the-morse-protocol.md#a-history-of-morse)&#x20;
+3. [How Morse Worse Works ](the-morse-protocol.md#how-morse-works)
 
 ### The Morse Protocol
 

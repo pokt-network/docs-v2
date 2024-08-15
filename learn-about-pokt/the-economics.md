@@ -4,7 +4,7 @@ POKT is the lifeblood of the POKT Network ecosystem. It coordinates all actors w
 
 
 
-<figure><img src="../../.gitbook/assets/spaces_HVZ3BQcmJhVmXh7fy6xP_uploads_qoRt8gKnYOtnXs06l6W4_The Growth Flywheel (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_HVZ3BQcmJhVmXh7fy6xP_uploads_qoRt8gKnYOtnXs06l6W4_The Growth Flywheel (1).webp" alt=""><figcaption></figcaption></figure>
 
 ## The role of POKT within the protocol
 
@@ -20,7 +20,7 @@ There is a flywheel effect in place for POKT's economics as more gateways drive 
 
 The original genesis distribution of POKT was 649,984,998 POKT distributed as follows:
 
-<figure><img src="../../.gitbook/assets/spaces_HVZ3BQcmJhVmXh7fy6xP_uploads_git-blob-6eeecf874a2a2d67ee7180acc072f0eae8cf63d1_Screenshot 2024-01-03 at 16 (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_HVZ3BQcmJhVmXh7fy6xP_uploads_git-blob-6eeecf874a2a2d67ee7180acc072f0eae8cf63d1_Screenshot 2024-01-03 at 16 (1).webp" alt=""><figcaption></figcaption></figure>
 
 ## Most POKT now circulating
 
@@ -64,7 +64,7 @@ The graphs below illustrate the potential supply growth for POKT over time and h
 
 
 
-<figure><img src="../../.gitbook/assets/spaces_HVZ3BQcmJhVmXh7fy6xP_uploads_git-blob-132a5f527c0f9fe00e572549efa5124bfc1ee3f4_image (1) (1).webp" alt=""><figcaption><p>Total supply for POKT over time based on such assumptions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_HVZ3BQcmJhVmXh7fy6xP_uploads_git-blob-132a5f527c0f9fe00e572549efa5124bfc1ee3f4_image (1) (1).webp" alt=""><figcaption><p>Total supply for POKT over time based on such assumptions</p></figcaption></figure>
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9frYjAjtKqZHrIgdCbj2%2Fuploads%2FVkvKrQjmErUCRX7VHcwS%2Fspaces_HVZ3BQcmJhVmXh7fy6xP_uploads_git-blob-a9cd805eb5ed6137e2cc873b760a9083736deda9_image%20(2).webp?alt=media&#x26;token=841fd9d7-20eb-46af-a8ad-9b3335f03bfa" alt=""><figcaption><p>Supply growth for POKT based on an indicative number of relays and price per POKT</p></figcaption></figure>
 

@@ -45,7 +45,7 @@ Learn more:
 * [Trade wPOKT on Uniswap](https://app.uniswap.org/explore/tokens/ethereum/0x67f4c72a50f8df6487720261e188f2abe83f57d7).
 
 {% hint style="info" %}
-Note: you can act as a [Liquidity Provider](../usdpokt-token/bridging/wrapped-pokt-wpokt/liquidity-provider-staking-faq.md) in the [wPOKT/ETH](https://v2.info.uniswap.org/pair/0xa7fd8ff8f4cada298286d3006ee8f9c11e2ff84e) liquidity pool on Uniswap.
+Note: you can act as a [Liquidity Provider](../welcome/usdpokt-token/bridging/wrapped-pokt-wpokt/liquidity-provider-staking-faq.md) in the [wPOKT/ETH](https://v2.info.uniswap.org/pair/0xa7fd8ff8f4cada298286d3006ee8f9c11e2ff84e) liquidity pool on Uniswap.
 {% endhint %}
 
 ***

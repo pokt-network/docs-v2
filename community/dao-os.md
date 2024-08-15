@@ -11,7 +11,7 @@ description: >-
 
 The roles and powers of the POKT DAO and its voters, and of the Pocket Network Foundation (PNF) are set out in our [constitution](https://github.com/pokt-network/governance/blob/12949c5060638591accd2ba07f07626426723c26/constitution/constitution.md) and [articles of association](https://github.com/pokt-network/governance/tree/master/foundation).
 
-In simple terms, the role of the POKT DAO is to be a place for all stakeholders in the ecosystem to coordinate on important questions and decisions and to uphold and propagate the [POKT DNA](../who-we-are/our-dna.md).
+In simple terms, the role of the POKT DAO is to be a place for all stakeholders in the ecosystem to coordinate on important questions and decisions and to uphold and propagate the [POKT DNA](../learn-about-pokt/our-dna.md).
 
 ### Strategy of the POKT DAO
 

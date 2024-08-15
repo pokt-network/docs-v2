@@ -1,4 +1,4 @@
-# $POKT TOKEN
+# $POKT Token
 
 ## <mark style="color:blue;">POKT's Native Chain</mark>
 
