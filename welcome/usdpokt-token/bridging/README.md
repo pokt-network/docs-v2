@@ -2,9 +2,9 @@
 
 ## [<mark style="color:blue;">POKT Bridge</mark>](https://bridge.pokt.network/)
 
-POKT has a [native multi-chain bridge](https://bridge.pokt.network/) to allow the easy moving of POKT tokens between chains.
+POKT has a [multi-chain bridge](https://bridge.pokt.network/) to allow the easy moving of POKT tokens between chains.
 
-Bridge in 3 steps:
+Bridge in a few steps:
 
 1. Connect your wallet.\
    ![](<../../../.gitbook/assets/image (6).png>)
