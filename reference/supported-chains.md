@@ -9,7 +9,7 @@ description: >-
 ### POKT Mainnet
 
 Below is the full list of supported, reward-generating RelayChains, identical to the `SupportedBlockchains` parameter.
-**NOTE:** As of December 18, 2024, all services have **one** ServiceID for both mainnet and archival nodes. The legacy ServiceIDs will no longer be valid. If you were previously using separate IDs for mainnet and archival, please update to the new IDs listed below. Ethereum is the one exception as the new Service ID includes what is previously known as mainnet, archival and trace services. 
+**NOTE:** As of December 18, 2024, all services have **one** ServiceID for both mainnet and archival nodes. The legacy ServiceIDs will no longer be valid. If you were previously using separate IDs for mainnet and archival, please update to the new IDs listed below. 
 
 | Name                                       | ServiceID | Legacy ServiceID |
 | ------------------------------------------ | --------- | ---------------- |
@@ -23,12 +23,12 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | Blast                                      | F008      | A090             |
 | BNB Chain                                  | F009      | 0004, 0010       |
 | Boba                                       | F00A      | 0048             |
-| Celestia Consensus                         | A0CB      | A0CB             |
-| Celestia Consensus Testnet                 | A0CC      | A0CC             |
-| Celestia DA                                | A0CA      | A0CA             |
-| Celestia DA Testnet                        | A0CD      | A0CD             |
+| Celestia Consensus*                        | A0CB      | A0CB             |
+| Celestia Consensus Testnet*                | A0CC      | A0CC             |
+| Celestia DA*                               | A0CA      | A0CA             |
+| Celestia DA Testnet*                       | A0CD      | A0CD             |
 | Celo                                       | F00B      | 0065             |
-| Ethereum                                   | F00C      | 0021, 0022, 0028 |
+| Ethereum**                                 | F00C      | 0021, 0022, 0028 |
 | Ethereum Holesky Testnet                   | F00D      | 0081             |
 | Ethereum Sepolia Testnet                   | F00E      | 0077, 0078       |
 | Evmos                                      | F00F      | 0046             |
@@ -63,17 +63,16 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | zkLink                                     | F02A      | A091             |
 | zkSync Era                                 | F02B      | 0084             |
 
+*Celestia Consensus and DA ServiceIDs are the only ones to remain the same.
+**The new Ethereum ServiceID includes the previous mainnet, archival, and trace IDs consolidated into one. 
+
 
 ### POKT Testnet
 
 The following table shows the supported blockchains on the Pocket Testnet.
 
-| Name                   | Portal API Prefix        | RelayChainID |
-| ---------------------- | ------------------------ | ------------ |
-| Ethereum Goerli        | eth-goerli               | 0026         |
-| Ethereum Archival      | goerli-archival          | 0063         |
-| Ethereum Rinkeby       | rinkeby                  | 0022         |
-| Ethereum Holešky       | holesky-fullnode-testnet | 0081         |
-| Polygon Mumbai         | polygon-mumbai           | 000F         |
-| Pocket Network Testnet |                          | 0002         |
-| Scroll Testnet         | scroll-testnet-alpha     | 0075         |
+| Name                   | RelayChainID |
+| ---------------------- | ------------ |
+| Ethereum Holešky       | 0081         |
+| Pocket Network Testnet | 0002         |
+
