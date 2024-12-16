@@ -51,7 +51,6 @@ Below is the full list of supported, reward-generating RelayChains, identical to
 | Osmosis                                    | F020      | 0054             |
 | Pocket Network                             | F000      | 0001, A001       |
 | Polygon                                    | F021      | 0009, 000B       |
-| PolygonArchival                            | F021      | 000B             |
 | Polygon Amoy Testnet                       | F022      | A085             |
 | Polygon zkEVM                              | F029      | 0074             |
 | Radix                                      | F023      | 0083             |
