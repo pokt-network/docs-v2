@@ -2,31 +2,6 @@
 
 The Morse protocol has been live on MainNet since July 2020, but the final update was pushed in February 2024. There will be no further development as we now focus on the launch of [Shannon.](the-shannon-upgrade/)
 
-### Contents&#x20;
-
-1. [The Morse Protocol ](the-morse-protocol.md#the-morse-protocol)
-2. [History of Morse](the-morse-protocol.md#a-history-of-morse)&#x20;
-3. [How Morse Worse Works ](the-morse-protocol.md#how-morse-works)
-
-### The Morse Protocol
-
-Since launch in July 2020, the protocol has served over 740bn relays across 50+ chains, through a network of c.15k nodes in 22 countries.
-
-It was built on top of the Tendermint framework in the Cosmos ecosystem. However, it has since evolved and we have made significant modifications to the original Tendermint codebase to optimize for our specific use case.
-
-We scaled to become the largest Tendermint network, with over 27,000 nodes at one point, exceeding Tendermint's built-in capacity of 10,000 nodes.
-
-Morse has undergone several major upgrades.&#x20;
-
-### A History of Morse
-
-Here is a brief overview:
-
-* **July 2020:** POKT Network launched on mainnet, providing a decentralized alternative to full node infrastructure.
-* **Oct 2022:** GeoMesh deployed, a community contribution that allows any node runner to take advantage of relay traffic worldwide without needing a full Pocket Node at every location.
-* **Jan 2023:** LeanPOKT deployed. Another community contribution, it reduced computational resources required for node operation by nearly 99%, increasing cost-effectiveness and accessibility.
-* **Sept 2023:** new parameter introduced to allow rewards to be adjusted on a per-chain basis, paving the way for POKT Network to serve more complex API endpoints, including open-source AI LLMs.
-
 ## How Morse Works
 
 POKT Network comprises 3 components: **Applications**, **Nodes** and the **Network Layer**.
