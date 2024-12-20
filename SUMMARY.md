@@ -22,6 +22,7 @@
 * [POKT Overview](pokt-token/what-is-usdpokt/README.md)
   * [POKT Today](pokt-token/what-is-usdpokt/pokt-today.md)
   * [What Network is $POKT on?](pokt-token/what-is-usdpokt/what-network-is-usdpokt-on.md)
+  * [Our DNA](pokt-token/our-dna/our-dna.md)
 
 ## POKT TOKEN
 
