@@ -18,9 +18,14 @@ There is a flywheel effect in place for POKT's economics as more gateways drive 
 
 ## Supply and minting of POKT
 
-The original genesis distribution of POKT was 649,984,998 POKT distributed as follows:
+The original genesis distribution of POKT was 650,000,000 POKT distributed as follows:
 
-<figure><img src="../.gitbook/assets/spaces_HVZ3BQcmJhVmXh7fy6xP_uploads_git-blob-6eeecf874a2a2d67ee7180acc072f0eae8cf63d1_Screenshot 2024-01-03 at 16 (1).webp" alt=""><figcaption></figcaption></figure>
+* Founders: 23.2%
+* Pocket Network Inc (PNI): 21.9%
+* Employees, contractors and advisors: 21.1%
+* Investors: 16.8%
+* Foundation DAO: 16.5%
+* Early Participants: 0.5%
 
 ## Most POKT now circulating
 
